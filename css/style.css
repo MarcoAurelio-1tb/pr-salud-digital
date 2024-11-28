@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FBF9F9;
+}
+
+h2 { 
+    color: black;
+}
+
+.salud-digital-title {
+    margin-top: 200px;
+    margin-bottom: 3rem;
+}
+
+/* NOTICIAS */
+
+.cont-noticias {
+    background-color: #FBF9F9;
+    height: auto;
+    /* border: red solid 1px; */
+    margin-bottom: 3rem;
+}
+
+/* SALUD */
+
+.link-hover {
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+}
+
+.link-hover::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 3px;
+    background-color: currentColor;
+    transition: width 0.3s ease;
+}
+
+.link-hover:hover::after {
+    width: 100%;
+}
+
+.cont-salud {
+    background-color: #Fff;
+    height: auto;
+}
+
+.cont-appsalud {
+    background-color: #Fff;
+    height: auto;
+    padding-bottom: 10rem;
+}
+
+@media (max-width: 992px) {
+    .salud-imagen {
+        margin-top: 30%;
+    }
+}
+
+@media (max-width: 767px) {
+    .image-container {
+        width: auto;
+    }
+    .cont-noticias, .cont-salud {
+        padding: 1rem;
+    }
+    .text-salud h1 {
+        font-size: 1.5rem;
+    }
+    .text-salud p {
+        font-size: 0.85rem;
+    }
+    .div-notice {
+        width: 50%;
+    }
+    .salud-imagen {
+         margin-top: 0px;
+    }
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #f8f9fa; /* Fondo claro */
+    color: #333; /* Texto oscuro */
+}
+
+footer h5 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+footer a:hover {
+    color: #0056b3; /* Azul Bootstrap al pasar el mouse */
+}
+
+
+/* Aplicaciones de la salud */
+
+.app-salud-img {
+    /* border: green 1px solid; */
+    background-color: #f2f4fc;
+    width: 100%;         /* Asegura que la imagen ocupe todo el ancho del contenedor */
+    height: 200px;       /* Ajusta la altura deseada para todas las imágenes */
+    object-fit: scale-down;   /* Ajusta la imagen para que ocupe el contenedor sin distorsionarse */
+    border-radius: 10px;  /* Opcional: Añade esquinas redondeadas */
+    transition: 0.5s ease;
+}
+
+.app-salud-img:hover {
+    -webkit-transform: scale(1.08);
+    -ms-transform: scale(1.08);
+    transform: scale(1.08);
+    transition: 0.5s ease;
+}
+
+/* SALUD MENTAL */
+
