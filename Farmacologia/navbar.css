@@ -1,0 +1,20 @@
+#navbar {
+    transition: top 0.3s;
+}
+
+.navbar-logo-right img {
+    max-width: 50px;
+}
+
+/* Ajuste de colores y espaciado */
+.navbar-brand, .nav-link {
+    color: #333;
+}
+
+.nav-link {
+    margin: 0 10px;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #0056b3;
+}
