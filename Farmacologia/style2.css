@@ -17,6 +17,12 @@ h5{
     color: black;
     font-weight: bold;
 }
+
+summary{
+    color: black;
+    font-weight: bold;
+}
+
 .salud-digital-title {
     margin-top: 200px;
     margin-bottom: 3rem;
@@ -213,6 +219,13 @@ h5{
     text-decoration: none;   
 }
 
+
+.linea_med{
+    height: 5px; 
+    background-color: purple; 
+    width: 100%; 
+    padding: 0;
+}
 .modal_container1 {
     width: 90%; /* Ancho relativo para adaptabilidad */
     max-width: 1200px; /* Límite máximo de ancho */
@@ -222,7 +235,8 @@ h5{
     background-color: #ffffff;
     margin: auto;
     border-radius: 20px; /* Bordes redondeados */
-    padding: 2.5em; /* Espaciado interno consistente */
+    
+
     gap: 1em; /* Espaciado entre elementos */
     transform: var(--transform); /* Transición visual */
     transition: var(--transition); /* Transiciones suaves */
@@ -252,6 +266,7 @@ h5{
 
 .modal_paragraph1{
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 .modal_img1{
@@ -262,6 +277,10 @@ h5{
 .modal_left{
     float: left;
     width: 30%;
+    margin-left: -20px;
+    padding-left: 2.5em; /* Espaciado interno consistente */
+    padding-right: 2.5em; /* Espaciado interno consistente */
+    padding-bottom: 2.5em; /* Espaciado interno consistente */
 
 }
 
@@ -269,6 +288,8 @@ h5{
     width: 70%;
     max-width: 800px;
     float: right;
+    padding-right: 2.5em; /* Espaciado interno consistente */
+    padding-bottom: 2.5em; /* Espaciado interno consistente */
 }
 
 .modal_close1{
@@ -277,7 +298,7 @@ h5{
     color: #ffff;
     background-color: #F26250;
     padding: 1em 2em;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     border: 1px solid;
     border-radius: 6px;
     display: inline-block;
