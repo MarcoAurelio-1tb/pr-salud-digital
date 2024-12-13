@@ -1,45 +1,57 @@
-#navbar {
-    transition: top 0.3s;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.navbar-logo-right img {
-    max-width: 50px;
-    /* border: solid 1px blue; */
+/* body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+} */
+
+.content {
+    /* flex: 1; */
+    margin-top: 250px;
+    margin-bottom: 3rem;
 }
 
-/* Ajuste de colores y espaciado */
-.navbar-brand, .nav-link {
-    color: #333;
-    
+footer {
+    padding: 10px;
 }
 
-.nav-link {
-    margin: 0 10px;
-    /* border: solid 1px blue; */
-    font-weight: 600;
+.card {
+    transition: 0.5s ease;
+}
+
+.card:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    transition: 0.5s ease;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
     font-size: 1rem;
-    text-align: center;
+    font-weight: bold;
 }
 
-.navbar-brand:hover, .nav-link:hover {
-    color: #0056b3;
+.card-text {
+    font-size: 0.9rem;
 }
 
-.salud-digital-logo {
-    width: 170px;
+.text-center h1, .text-center h2 {
+    font-family: 'Arial', sans-serif;
 }
 
-.right-logo {
-    width: 50px;
-    margin-left: 15px;
-}
 
-.dropdown-item {
-    font-weight: 500;
-}
-
-/* medias */
-
+/* #region navbar*/
 @media (max-width: 1373px) {
     .salud-digital-logo {
         width: 160px;
@@ -108,28 +120,4 @@
         font-size: 0.72rem;
     }
 }
-
-/* DROPDOWN */
-
-.navbar-nav .dropdown-menu {
-    display: none; 
-    position: absolute;
-    top: 100%; 
-    left: 0;
-    z-index: 1;
-    background-color: white;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
-    opacity: 0;
-    transform: translateY(-10px); 
-    transition: all 0.3s ease; 
-    width: 200px; 
-}
-
-.navbar-nav .dropdown:hover > .dropdown-menu {
-    display: block;
-    opacity: 1; 
-    transform: translateY(0);
-    z-index: 1; 
-}
-
+/* #endregion */
