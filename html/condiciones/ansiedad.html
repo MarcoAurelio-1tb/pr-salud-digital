@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salud Digital Navbar</title>
+    <title>"Agregar Condicion"</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- CSS personalizado -->
     <link rel="stylesheet" href="/css/navbar.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/condiciones.css">
     <link rel="icon" type="image/x-icon" href="/img/salud-digital-icon.png">
 </head>
 <body>
     <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
         <div class="container-fluid">
             <a class="navbar-brand d-flex align-items-center" href="/index.html">
-                <img src="../img/salud-digital.png" alt="Logo Izquierdo" class="salud-digital-logo">
+                <img src="../../img/salud-digital.png" alt="Logo Izquierdo" class="salud-digital-logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -56,45 +56,33 @@
                 </ul>
             </div>
             <div class="navbar-logo-right">
-                <img src="../img/logo-cucs.png" alt="Logo Derecho" class="right-logo">
+                <img src="../../img/logo-cucs.png" alt="Logo Derecho" class="right-logo">
             </div>
         </div>
     </nav>
-    
 
-    <div class="container-fluid p-0">
-        <div class="container text-start salud-digital-title">
-            <h1 style="font-size: 4rem;">Salud <span style="color: #414BB2;">Mental</span></h1>
-            <p style="font-size: 1.3rem;">Conoce a detalle de que  consiste la ansiedad, la depresión y el estrés.</p>
-        </div>
-    </div>
+    <div class="container-fluid" style="background-color: #f9f9f9;">
 
-    <!-- ANSIEDAD -->
-
-    <div class="cont-saludmental pt-3">
-
-        <div class="container-fluid"> <!--border border-primary -->
-            <div class="row align-items-start p-5">
-                <div class="col-md-5 d-flex justify-content-center">
-                    <img src="/img/salud-mental/ansiedad.png" alt="Imagen de Salud" class="img-fluid rounded m-3 img-smental" style="height: 50%;">
-                </div>
-            
-                <div class="col-md-7 d-flex flex-column justify-content-start text-salud p-5">
-                    <h1 class="fw-bold title-smental">Ansiedad</h1>
-                    <!-- <p class="fs-4">Conoce nuestro departamento de salud.</p> -->
-                    <p class="text-muted descr-smental">
-                        La ansiedad es una reacción emocional normal ante situaciones amenazantes para el individuo al anticiparse a un peligro interno y/o externo, lo cual deriva a aprensión, tensión o inquietud.
-                    </p>
-                    <a href="../html/condiciones/ansiedad.html" class="btn btn-outline-dark mt-4 col-sm-4">
-                        Leer más
-                    </a>
-                </div>
+        <div class="container-fluid d-flex justify-content-center border border-primary" style="margin-top: 200px;"> <!-- align-items-center : lo pone en medio del div -->
+            <div class="col-lg-8 col-md-8 col-sm-8 text-center">
+                <p style="font-size: 7vh;">ANSIEDAD</p>
+                <p>
+                    El estrés puede definirse como el conjunto de reacciones físicas y mentales que la persona sufre cuando se ve sometida a diversos factores externos que superan su capacidad para enfrentarse a ello.
+                    El estrés es un fenómeno generalizado que aparece en diferentes ámbitos de la vida, 
+                    resultado de actividades o situaciones que ponen en alerta al individuo, ya sea de forma personal, social y ecológica.
+                    Generalmente es una respuesta a una causa externa, como tomar una prueba importante o discutir con un amigo.
+                </p>
+                <p style="font-size: 7vh;">Factores que influyen para la <br> aparición del estrés</p>
+                <p>
+                    Es normal que algunas situaciones generan estrés, como puede ocurrir con una entrevista laboral, un examen académico, un exceso de trabajo, un empleo inestable o un 
+                    conflicto con un familiar, un amigo o un compañero de trabajo, muchas personas logran reducir el estrés a medida que la situación mejora o que aprenden a controlar 
+                    sus emociones.
+                    Por otro lado para algunas personas no es tan sencillo, viven con un estrés constante que afecta las áreas psicosocial (cómo trabajo o escuela), físico, y personal.
+                </p>
             </div>
         </div>
 
-        <!-- DEPRESIÓN -->
-
-        <div class="container-fluid mt-4 mb-4" style="background-color: #fff;"> <!--border border-primary -->
+        <div class="container-fluid mt-4 mb-4 border border-primary" style="background-color: #fff;"> <!--border border-primary -->
             <!-- <div class="row align-items-start p-5 no-reverse"> -->
             <div class="row align-items-start p-5">
                 <div class="col-md-6 d-flex flex-column text-start text-salud p-5 m-4">
@@ -113,30 +101,54 @@
                 </div>
             </div>
         </div>
+        
+    </div>
 
-        <!-- ESTRÉS -->
+    <!-- <div class="container-fluid" style="background-color: #FBF9F9;">
+        <div class="container-fluid d-flex justify-content-center border border-primary" style="margin-top: 200px;"> <!-- align-items-center : lo pone en medio del div 
+            <div class="col-lg-8 col-md-8 col-sm-8 text-center">
+                <p style="font-size: 7vh;">ANSIEDAD</p>
+                <p>
+                    El estrés puede definirse como el conjunto de reacciones físicas y mentales que la persona sufre cuando se ve sometida a diversos factores externos que superan su capacidad para enfrentarse a ello.
+                    El estrés es un fenómeno generalizado que aparece en diferentes ámbitos de la vida, 
+                    resultado de actividades o situaciones que ponen en alerta al individuo, ya sea de forma personal, social y ecológica.
+                    Generalmente es una respuesta a una causa externa, como tomar una prueba importante o discutir con un amigo.
+                </p>
+                <p style="font-size: 7vh;">Factores que influyen para la <br> aparición del estrés</p>
+                <p>
+                    Es normal que algunas situaciones generan estrés, como puede ocurrir con una entrevista laboral, un examen académico, un exceso de trabajo, un empleo inestable o un 
+                    conflicto con un familiar, un amigo o un compañero de trabajo, muchas personas logran reducir el estrés a medida que la situación mejora o que aprenden a controlar 
+                    sus emociones.
+                    Por otro lado para algunas personas no es tan sencillo, viven con un estrés constante que afecta las áreas psicosocial (cómo trabajo o escuela), físico, y personal.
+                </p>
+            </div>
+        </div>
 
-        <div class="container-fluid"> <!--border border-primary -->
-            <div class="row align-items-start p-5">
-                <div class="col-md-5 d-flex justify-content-center">
-                    <img src="/img/salud-mental/estres.png" alt="Imagen de Salud" class="img-fluid rounded m-4 img-smental" style="height: 50%;">
-                </div>
-            
-                <div class="col-md-7 d-flex flex-column justify-content-start text-salud p-5">
-                    <h1 class="fw-bold title-smental">Estrés</h1>
-                    <!-- <p class="fs-4">Conoce nuestro departamento de salud.</p> -->
-                    <p class="text-muted descr-smental">
-                        El estrés es un conjunto de reacciones físicas y mentales que experimenta una persona al enfrentarse a factores externos que superan su capacidad de respuesta. Se manifiesta como una reacción natural del organismo ante situaciones que se perciben como amenazantes o demandantes.
-                    </p>
-                    <a href="/html/condiciones/condicion.html" class="btn btn-outline-dark mt-4 col-sm-4">
-                        Leer más
-                    </a>    
-                </div>
+        <div class="container-fluid mt-5 border border-primary" style="background-color: #fff;">
+            <div class="col-lg-8 col-md-8 col-sm-8 text-center">
+                <p style="font-size: 7vh;">ANSIEDAD</p>
+                <p>
+                    El estrés puede definirse como el conjunto de reacciones físicas y mentales que la persona sufre cuando se ve sometida a diversos factores externos que superan su capacidad para enfrentarse a ello.
+                    El estrés es un fenómeno generalizado que aparece en diferentes ámbitos de la vida, 
+                    resultado de actividades o situaciones que ponen en alerta al individuo, ya sea de forma personal, social y ecológica.
+                    Generalmente es una respuesta a una causa externa, como tomar una prueba importante o discutir con un amigo.
+                </p>
+                <p style="font-size: 7vh;">Factores que influyen para la <br> aparición del estrés</p>
+                <p>
+                    Es normal que algunas situaciones generan estrés, como puede ocurrir con una entrevista laboral, un examen académico, un exceso de trabajo, un empleo inestable o un 
+                    conflicto con un familiar, un amigo o un compañero de trabajo, muchas personas logran reducir el estrés a medida que la situación mejora o que aprenden a controlar 
+                    sus emociones.
+                    Por otro lado para algunas personas no es tan sencillo, viven con un estrés constante que afecta las áreas psicosocial (cómo trabajo o escuela), físico, y personal.
+                </p>
             </div>
         </div>
     </div>
+     -->
+    
 
-    <footer class="bg-light text-dark py-4">
+
+
+    <footer class="bg-light text-dark py-4 mt-5 border border-primary">
         <div class="container">
             <div class="row">
                 <!-- Columna Izquierda -->
@@ -186,22 +198,3 @@
     <script src="/js/navbar.js"></script>
 </body>
 </html>
-
-<!-- 
-<div class="container-fluid mb-5"> <!--border border-primary 
-    <div class="row align-items-start p-5">
-        <div class="col-md-6 d-flex justify-content-center">
-            <img src="/img/salud-mental/depresion.png" alt="Imagen de Salud" class="img-fluid rounded img-smental-middle" style="height: 50%; background-color: firebrick;">
-        </div>
-    
-        <div class="col-md-6 d-flex flex-column justify-content-start text-salud p-5">
-            <h1 class="fw-bold title-smental"></h1>
-            <!-- <p class="fs-4">Conoce nuestro departamento de salud.</p> -
-            <p class="text-muted descr-smental" style="font-size: 0.9rem;">
-                </p>
-
-            <button type="button" class="btn btn-outline-dark col-sm-4 mt-4">Leer más</button>
-        </div>
-    </div>
-</div>
--->

@@ -12,12 +12,16 @@ h2 {
     color: black;
 }
 
+/* #region Main */
+
 .salud-digital-title {
     margin-top: 200px;
     margin-bottom: 3rem;
 }
 
-/* NOTICIAS */
+/* #endregion */
+
+/* #region NOTICIAS */
 
 .cont-noticias {
     background-color: #FBF9F9;
@@ -26,7 +30,9 @@ h2 {
     margin-bottom: 3rem;
 }
 
-/* SALUD */
+/* #endregion */
+
+/* #region SALUD */
 
 .link-hover {
     font-weight: bold;
@@ -68,7 +74,7 @@ h2 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 769px) {
     .image-container {
         width: auto;
     }
@@ -87,9 +93,16 @@ h2 {
     .salud-imagen {
          margin-top: 0px;
     }
+
+    /* IMG-SMENTAL*/
+    .img-smental {
+       width: 400px; 
+    }
 }
 
-/* FOOTER */
+/* #endregion */
+
+/* #region FOOTER */
 
 footer {
     background-color: #f8f9fa; /* Fondo claro */
@@ -105,8 +118,9 @@ footer a:hover {
     color: #0056b3; /* Azul Bootstrap al pasar el mouse */
 }
 
+/* #endregion */
 
-/* Aplicaciones de la salud */
+/* #region Aplicaciones de la salud */
 
 .app-salud-img {
     /* border: green 1px solid; */
@@ -125,5 +139,50 @@ footer a:hover {
     transition: 0.5s ease;
 }
 
-/* SALUD MENTAL */
+/* #endregion */
 
+/* #region SALUD MENTAL */
+
+@media (max-width: 1440px) {
+    .descr-smental {
+        font-size: 1.2rem;
+        padding: 2%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .descr-smental {
+        font-size: 1rem;
+        padding: 2%;
+    }
+}
+
+@media (max-width: 769px) {
+    /* Para todas las filas, invierte los elementos */
+    /* .row:not(.no-reverse) {
+        flex-direction: column-reverse;
+    } */
+    .row{
+        flex-direction: column-reverse;
+    }
+
+    .img-smental {
+       width: 400px; 
+       /* background-color: firebrick; */
+    }
+    .title-smental {
+        font-size: 2rem; 
+        text-align: center;
+    }
+    .descr-smental {
+        text-align: center;
+        padding: 3%;
+    }
+    .btn {
+        align-self: center; 
+        margin: 0 auto;
+    }
+}
+
+
+/* #endregion */

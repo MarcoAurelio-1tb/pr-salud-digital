@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+} */
+
+.content {
+    /* flex: 1; */
+    margin-top: 250px;
+    margin-bottom: 3rem;
+}
+
+footer {
+    padding: 10px;
+}
+
+.card {
+    transition: 0.5s ease;
+}
+
+.card:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    transition: 0.5s ease;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.text-center h1, .text-center h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+
+/* #region navbar*/
+@media (max-width: 1373px) {
+    .salud-digital-logo {
+        width: 160px;
+    }
+}
+
+@media (max-width: 1363px) {
+    .nav-link {
+        font-size: 0.95rem;
+    }
+    .right-logo {
+        width: 48px;
+    }
+}
+
+@media (max-width: 1321px) {
+    .salud-digital-logo {
+        width: 150px;
+    }
+    .nav-link, .dropdown-item {
+        font-size: 0.91rem;
+    }
+}
+
+@media (max-width: 1275px) {
+    .salud-digital-logo {
+        width: 145px;
+    }
+    .nav-link, .dropdown-item {
+        font-size: 0.82rem;
+    }
+}
+
+@media (max-width: 1195px) {
+    .salud-digital-logo {
+        width: 135px;
+    }
+    .nav-link, .dropdown-item {
+        font-size: .78rem;
+    }
+    .right-logo {
+        width: 42px;
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 1121px) {
+    .salud-digital-logo {
+        width: 135px;
+        margin-right: -10px;
+    }
+    .nav-link, .dropdown-item {
+        font-size: 0.74rem;
+    }
+    .right-logo {
+        width: 40px;
+    }
+    .nav-link {
+        margin: 0px 7px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1024px) {
+    .nav-link, .dropdown-item {
+        font-size: 0.72rem;
+    }
+}
+/* #endregion */

@@ -26,7 +26,7 @@
 }
 
 .salud-digital-logo {
-    width: 170px;
+    width: 190px;
 }
 
 .right-logo {
@@ -42,7 +42,7 @@
 
 @media (max-width: 1373px) {
     .salud-digital-logo {
-        width: 160px;
+        width: 168px;
     }
 }
 
@@ -57,7 +57,7 @@
 
 @media (max-width: 1321px) {
     .salud-digital-logo {
-        width: 150px;
+        width: 155px;
     }
     .nav-link, .dropdown-item {
         font-size: 0.91rem;
@@ -66,7 +66,7 @@
 
 @media (max-width: 1275px) {
     .salud-digital-logo {
-        width: 145px;
+        width: 150px;
     }
     .nav-link, .dropdown-item {
         font-size: 0.82rem;
@@ -75,7 +75,7 @@
 
 @media (max-width: 1195px) {
     .salud-digital-logo {
-        width: 135px;
+        width: 140px;
     }
     .nav-link, .dropdown-item {
         font-size: .78rem;
@@ -88,7 +88,7 @@
 
 @media (max-width: 1121px) {
     .salud-digital-logo {
-        width: 135px;
+        width: 130px;
         margin-right: -10px;
     }
     .nav-link, .dropdown-item {
@@ -112,28 +112,24 @@
 /* DROPDOWN */
 
 .navbar-nav .dropdown-menu {
-    display: block; /* Oculto por defecto */
+    display: none; 
     position: absolute;
-    top: 120%; /* Ubicación debajo del enlace "Aplicaciones de Salud" */
+    top: 97%; 
     left: 0;
-    z-index: -1; /* Coloca el menú detrás de la barra de navegación */
+    z-index: 1;
     background-color: white;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
-    opacity: 0; /* Transparencia inicial para animación */
-    transform: translateY(-10px); /* Inicia un poco más arriba */
-    transition: all 0.3s ease; /* Suaviza la animación */
-    width: 200px; /* Ajusta el ancho según lo necesites */
+    opacity: 0;
+    transform: translateY(-10px); 
+    transition: all 0.3s ease; 
+    width: 200px; 
 }
 
-
-
-/* Mostrar menú desplegable al hacer hover y activar animación */
-.navbar-nav .dropdown:hover .dropdown-menu {
+.navbar-nav .dropdown:hover > .dropdown-menu {
     display: block;
-    opacity: 1; /* Opacidad completa al hacer hover */
-    transform: translateY(0); /* Desliza hacia abajo */
-    z-index: 1; /* Asegura que esté visible cuando aparece */
+    opacity: 1; 
+    transform: translateY(0);
+    z-index: 1; 
 }
-
 
