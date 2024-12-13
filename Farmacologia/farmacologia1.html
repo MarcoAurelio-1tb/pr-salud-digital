@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- CSS personalizado -->
-    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="style2.css">
     <link rel="icon" type="image/x-icon" href="/img/salud-digital-icon.png">
 </head>
@@ -15,8 +15,8 @@
 <body>
     <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-white shadow-sm fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand d-flex align-items-center" href="#">
-                <img src="img/salud-digital.png" alt="Logo Izquierdo" style="width: 170px; margin-right: 10px;">
+            <a class="navbar-brand d-flex align-items-center" href="../index.html">
+                <img src="../img/salud-digital.png" alt="Logo Izquierdo" style="width: 170px; margin-right: -10px;">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -29,11 +29,21 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">¿Quiénes Somos?</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Salud</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="#" id="dropdownMenu" aria-haspopup="true" aria-expanded="false">Salud</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+                            <li><a class="dropdown-item" href="#">Telemedicina</a></li>
+                            <li><a class="dropdown-item" href="#">Farmacología</a></li>
+                        </ul>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Aplicaciones de Salud</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="#" id="dropdownMenu" aria-haspopup="true" aria-expanded="false">Aplicaciones de Salud</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+                            <li><a class="dropdown-item" href="#">Salud Mental</a></li>
+                            <li><a class="dropdown-item" href="#">Nutrición</a></li>
+                            <li><a class="dropdown-item" href="#">Actividad Física</a></li>
+                            <li><a class="dropdown-item" href="#">Aplicacion enfermera</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Servicios Bioinformáticos</a>
@@ -47,7 +57,7 @@
                 </ul>
             </div>
             <div class="navbar-logo-right">
-                <img src="./img/logo-cucs.png" alt="Logo Derecho" style="width: 50px;">
+                <img src="../img/logo-cucs.png" alt="Logo Derecho" style="width: 50px;">
             </div>
         </div>
     </nav>
@@ -117,13 +127,17 @@
                 <!-- Primera fila de medicamentos -->
                 <div class="row mt-1 mb-1" > <!---FILA DE ELEMENTOS--->
                     <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1"> 
+
+
+
+
                         <a href="#" class="hero_cta">
                         <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
 
                             <!-- Línea delgada en la parte superior -->
                             <div style="height: 5px; background-color: purple; width: 100%;"></div> <!-- Línea morada -->
                             
-                            <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">Captopril</strong> 
+                            <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">CAPTOPRIL</strong> 
                             <br><br> Oral, Comprimidos o Tabletas, Comprimidos Efervescentes, rectales...</p>
                             <br>
                             <p class="text-muted" style="font-size: 0.8rem;  padding-left: 20px; padding-top: 10px;"> Este medicamento alivia los dolores de cabeza bla bla bla....</p>      
@@ -144,23 +158,25 @@
                                 <h5>Presentación</h5>
                                 <p class="modal_paragraph1">
                                     Tabletas
-                                </p>
+                                </p><br>
 
                                 <h5>Vía de Administración</h5>
                                 <p class="modal_paragraph1">
                                     Oral
-                                </p>
+                                    
+                                </p><br>
 
                                 <h5>Efectos adversos</h5>
                                 <p class="modal_paragraph1">
                                     Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.
-                                </p>
+                                </p><br>
 
 
 
                             </div>
+                            <!--- COLUMNA DERECHA DE MODAL-->
                             <div class="modal_text">
-                                
+                                <br>
 
                             <div style="display: flex; align-items: center; justify-content: space-between;">
                                 <!---*dos columnas para poner el botón de cerrar*/ --->
@@ -168,42 +184,61 @@
                                 <a href="#" class="modal_close1">X</a>
                             </div>        
                                 <details>
-                                    <summary>¿Qué es? </summary><br>
+                                    <summary>¿Qué es?
+                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                    
+                                    </summary>
+
+                                    <br>
                                     <p class="modal_paragraph1">
                                     El captopril es un medicamento que sirve para tratar la hipertensión, es decir, 
                                     la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. 
                                     También tiene efectos en otras partes del cuerpo.
                                 </p>
                                 </details>
-                                
+                                <br>
                                 <details>
-                                    <summary>Indicaciones</summary>
+                                    <summary>Indicaciones 
+                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                    <br>
+                                    </summary>
+
                                         <p class="modal_paragraph1">
-                                    
+            
                                     Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética,
                                     disfunción ventricular izquierda posterior a infarto del miocardio.
                                 </p> 
                                 </details>
-                                
+                                <br>
                                 <details>
-                                    <summary>Contraindicación</summary>
+                                    <summary>Contraindicación
+                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                    <br>
+                                    </summary>
                                     <p class="modal_paragraph1"></p>
                                     Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado 
                                     en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. 
                                     Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión
                                 </p>
 
-
                                 </details>
-
+                                <br>
                                 <details>
-                                    <summary>Interacción</summary>
+                                    <summary>Interacción
+                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                    </summary>
+
                                     <p class="modal_paragraph1">
-                                    Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por produce baja de presión arterial. 
-                                    <br>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. 
-                                    <br> Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. 
-                                    <br>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. 
-                                    <br>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantes de la insulina y de los medicamentos orales. Probenecid: aumenta los niveles de Captopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</p>
+                                    <li>Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por produce baja de presión arterial. 
+                                    </li>
+                                    <br><li>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. 
+                                    </li>
+                                    <br><li>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. 
+                                    </li>
+                                    <br><li>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. 
+                                    </li>
+                                    <br><li>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantes de la insulina y de los medicamentos orales. Probenecid: aumenta los niveles de Captopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</p>
+                                    </li>
                                 </p>
                                 </details>
                             </div>
@@ -214,32 +249,246 @@
                         </div>
                     </section>
 
-                    <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1">
-                        <div class="border zoom"  style="padding: 0; background-color: #fff; transition: transform .2s;"> <!-- Contenedor principal -->
-                            <!-- Línea delgada en la parte superior -->
-                            <div style="height: 5px; background-color: rgb(53, 212, 21); width: 100%;"></div> <!-- Línea morada -->
-                            
-                            <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">MARIGUANOL</strong> 
-                            <br><br> Oral, Comprimidos o Tabletas, Comprimidos Efervescentes, rectales...</p>
-                            <br>
-                            <p class="text-muted" style="font-size: 0.8rem;  padding-left: 20px; padding-top: 10px;"> Este medicamento alivia los dolores de bla bla bla....</p>      
+
+
+
+
+
+
+
+
+
+
+                    <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1"> <!--- ANTIBIOTICO-->
+                        <a href="#" class="hero_cta2">
+                            <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
+    
+                                <!-- Línea delgada en la parte superior -->
+                                <div style="height: 5px; background-color: rgb(45, 70, 214); width: 100%;"></div> <!-- Línea morada -->
+                                
+                                <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">CEFALEXINA</strong> 
+                                <br><br> Via Oral</p><br>
+                                <br>
+                                <p class="text-muted" style="font-size: 0.8rem;  padding-left: 20px; padding-top: 10px;"> Se usa para tratar infecciones debidas a microorganismos sensibles....</p>      
+                            </div>
+                            </a>
                         </div>
-                    </div>
+    
+                       <!--- La idea es que, por medio de un archivo JSON, se cargue la informacion de forma dinamica
+                                Por el momento, solo se tiene el esqueleto con animaciones-->
+                        <section class="modal2">
+                            <div class="modal_container1">
+                                <div style="height: 5px; background-color: rgb(45, 70, 214); width: 100%;"></div> <!-- Línea morada -->
+    
+                                <div class="modal_left">
+                                    <br><br><img src="img/medicamento/cefalexina_25043_l.jpg" class="modal_img1"><br><br>
+                                    
+                                    <!---PRESENTACION Y LO DEMAS AQUI ABAJO!--->
+                                    <h5>Presentación</h5>
+                                    <p class="modal_paragraph1">
+                                        Tabletas, cápsulas y suspensión.
+                                    </p><br>
+    
+                                    <h5>Vía de Administración</h5>
+                                    <p class="modal_paragraph1">
+                                        Vía oral.
+                                    </p><br>
+    
+                                    <h5>Efectos adversos</h5>
+                                    <p class="modal_paragraph1">
+                                        Náuseas, vómitos, diarrea, reflujo, dolor abdominal, fatiga, hepatitis transitoria,
+                                        ictericia, alteración de las células del hígado, reacciones alérgicas, urticaria, hinchazón de cara, labios y lengua, erupción cutánea, prurito genital y anal 
+                                    </p><br>
+    
+    
+    
+                                </div>
+                                <!--- COLUMNA DERECHA DE MODAL-->
+                                <div class="modal_text">
+                                    <br>
+    
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <!---*dos columnas para poner el botón de cerrar*/ --->
+                                    <h2 class="modal_title1" style="margin: 0;">CEFALEXINA</h2>
+                                    <a href="#" class="modal_close2">X</a>
+                                </div>        
+                                    <details>
+                                        <summary>¿Qué es?
+                                        <div style="height: 3px; background-color: rgb(45, 70, 214); width: 80%;"></div> <!-- Línea morada -->
+                                        </summary>
+    
+                                        <br>
+                                        <p class="modal_paragraph1">
+                                        Cefalexina es un antibiótico del grupo de las cefalosporinas de los conocidos como de primera generación. 
+                                        Es utilizado para tratar infecciones bacterianas en el tracto respiratorio, la piel, los huesos, el oído. Puede ser útil en casos de pacientes con hipersensibilidad a la penicilina. 
+                                        
+                                    </p>
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Indicaciones 
+                                        <div style="height: 3px; background-color: rgb(45, 70, 214); width: 80%;"></div> <!-- Línea azul -->
+                                        <br>
+                                        </summary>
+    
+                                            <p class="modal_paragraph1">
+                                                Se usa para tratar infecciones debidas a microorganismos sensibles: infecciones del aparato respiratorio, 
+                                                otitis media, infecciones de piel y tejido subcutáneo, del tracto urinario e infecciones dentales.                                    
+                                            </p> 
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Contraindicación
+                                        <div style="height: 3px; background-color: rgb(45, 70, 214); width: 80%;"></div> <!-- Línea azul -->
+                                        <br>
+                                        </summary>
+                                        <p class="modal_paragraph1"></p>
+                                        Hipersensibilidad a las cefalosporinas.
+                                    </p>
+    
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Interacción
+                                        <div style="height: 3px; background-color: rgb(45, 70, 214); width: 80%;"></div> <!-- Línea azul -->
+                                        </summary>
+    
+                                        <p class="modal_paragraph1">
+                                        <li>Metformina: aumenta la concentración plasmática de este medicamento.</li>
+                                        <br><li> DDe manera simultánea con aminoglucósidos puede afectar el funcionamiento renal </li><br>
+                                    </p>
+                                    </details>
+                                </div>
+                                <br><br><br>
+                               
+    
+    
+                            </div>
+                        </section>
                    
 
-                    <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1">
-                        <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
-                            <!-- Línea delgada en la parte superior -->
-                            <div style="height: 5px; background-color: rgb(251, 255, 0); width: 100%;"></div> <!-- Línea morada -->
-                            
-                            <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">MEDICAMENTO</strong> 
-                            <br><br> Oral, Comprimidos o Tabletas, Comprimidos Efervescentes, rectales...</p>
-                            <br>
-                            <p class="text-muted" style="font-size: 0.8rem;  padding-left: 20px; padding-top: 10px;"> Este medicamento alivia los dolores de cabeza bla bla bla....</p>      
-                        </div>
-                    </div>
-                   
 
+
+
+
+
+
+
+                    <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1">
+                        <a href="#" class="hero_cta3">
+                            <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
+    
+                                <!-- Línea delgada en la parte superior -->
+                                <div style="height: 5px; background-color:purple; width: 100%;"></div> <!-- Línea morada -->
+                                
+                                <p class="text-muted" style="font-size: 1.2rem;  padding-left: 20px; padding-top: 10px;"><strong style="color: black;">ENALAPRIL</strong> 
+                                <br><br> Tabletas ... </p> 
+                                <br>
+                                <p class="text-muted" style="font-size: 0.8rem;  padding-left: 20px; padding-top: 10px;"> El enalapril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre...</p>      
+                            </div>
+                            </a>
+                        </div>
+    
+                       <!--- La idea es que, por medio de un archivo JSON, se cargue la informacion de forma dinamica
+                                Por el momento, solo se tiene el esqueleto con animaciones-->
+                        <section class="modal3">
+                            <div class="modal_container1">
+                                <div class="linea_med"></div> <!-- Línea morada -->
+    
+                                <div class="modal_left">
+                                    <img src="img/medicamento/ENALAPRIL-20-MG-30-TABLETAS-AG.png" class="modal_img1">
+                                    
+                                    <!---PRESENTACION Y LO DEMAS AQUI ABAJO!--->
+                                    <h5>Presentación</h5>
+                                    <p class="modal_paragraph1">
+                                        Tabletas.
+                                    </p><br>
+    
+                                    <h5>Vía de Administración</h5>
+                                    <p class="modal_paragraph1">
+                                        Via Oral.
+                                    </p><br>
+    
+                                    <h5>Efectos adversos</h5>
+                                    <p class="modal_paragraph1">
+                                        cefalea, depresión; visión borrosa; mareos, hipotensión (incluyendo hipotensión ortostática), 
+                                        desmayos , infarto agudo al miocardio  o accidente cerebrovascular, dolor torácico, 
+                                        trastornos del ritmo cardíaco, taquicardia; tos, disnea; náuseas, diarrea, dolor abdominal,
+                                         alteración del gusto; erupción cutánea, hipersensibilidad/edema, edema de la cara, extremidades, 
+                                         labios, lengua; glotis, laringe o ambas, fatiga, hiperpotasemia, aumentos en la creatinina sérica.
+                                    </p><br>
+    
+    
+    
+                                </div>
+                                <!--- COLUMNA DERECHA DE MODAL-->
+                                <div class="modal_text">
+                                    <br>
+    
+                                <div style="display: flex; align-items: center; justify-content: space-between;">
+                                    <!---*dos columnas para poner el botón de cerrar*/ --->
+                                    <h2 class="modal_title1" style="margin: 0;">ENALAPRIL</h2>
+                                    <a href="#" class="modal_close3">X</a>
+                                </div>        
+                                    <details>
+                                        <summary>¿Qué es?
+                                        <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                        
+                                        </summary>
+    
+                                        <br>
+                                        <p class="modal_paragraph1">
+                                        El enalapril pertenece a una clase de medicamentos denominados inhibidores de la enzima convertidora de la angiotensina (IECA).
+                                        Su acción consiste en disminuir ciertas sustancias químicas que tensan los vasos sanguíneos, de modo que la sangre fluye con más facilidad.
+                                    </p>
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Indicaciones 
+                                        <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                        <br>
+                                        </summary>
+    
+                                            <p class="modal_paragraph1">
+                                        
+                                                Hipertensión arterial, insuficiencia cardiaca y disfunciones ventriculares izquierdas asintomáticas.
+                                    </p> 
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Contraindicación
+                                        <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                        <br>
+                                        </summary>
+                                        <p class="modal_paragraph1"></p>
+                                        Pacientes que no orinan (anuria), con historia de hinchazón de rostro o relacionado con tratamiento previo de inhibidores de la ECA.    
+                                        <br> Hipersensibilidad a enalapril y a otros fármacos derivados de la sulfonamida. Se deberá vigilar la depleción de volumen.
+                                    </p>
+    
+                                    </details>
+                                    <br>
+                                    <details>
+                                        <summary>Interacción
+                                        <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
+                                        </summary>
+    
+                                        <p class="modal_paragraph1">
+                                        <li>ASA y AINE: disminuyen actividad antihipertensiva.</li>
+                                        <br><li> Diuréticos, fenotiazinas y otros antihipertensivos: aumentan efectos antihipertensivos. 
+                                        </li>
+                                        <br><li>Insulina, hipoglucemiantes orales: aumenta riesgo de hipoglucemia especialmente al inicio de la terapia con estos antihipertensivos. </li>
+                                        <br><li> Litio: disminuye su eliminación.
+                                        </li>
+                                        <br><li> Diuréticos conservadores de potasio, suplemento de potasio: riesgo de hiperpotasemia.</li>
+                                    </p>
+                                    </details>
+                                </div>
+                                <br><br><br>
+                               
+    
+    
+                            </div>
+                        </section>
                     <!---GENERAR DE FORMA DINAMICA-->
                    
                 </div>    
@@ -383,12 +632,56 @@
 
 
 
+<footer class="bg-white text-dark py-4"">
+    <div class="container">
+        <div class="row">
+            <!-- Columna Izquierda -->
+            <div class="col-md-4 text-center text-md-start mb-3">
+                <img src="../img/logo-udg.png" alt="Logo Footer" class="img-fluid mb-3 mt-0" style="width: 100%">
+                <p class="text-muted" style="font-size: 0.9rem;">Centro Universitario de Ciencias de la Salud.<br>
+                    Sierra Mojada 950, Col. Independencia, CP. 44340.<br>
+                    Guadalajara, Jalisco. México.<br>
+                    Teléfono: +52 (33) 1058 5200
+                </p>
+            </div>
+
+            <!-- Columna Central -->
+            <div class="col-md-4 text-center mb-3 pt-3">
+                <h5 class="fw-bold">Enlaces Útiles</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-dark text-decoration-none">Página Principal</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">Acerca de Nosotros</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">Contacto</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">Términos y Condiciones</a></li>
+                </ul>
+            </div>
+
+            <!-- Columna Derecha -->
+            <div class="col-md-4 text-center mb-3 pt-3">
+                <h5 class="fw-bold">Redes Sociales</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-dark text-decoration-none">Facebook</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">Twitter</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">Instagram</a></li>
+                    <li><a href="#" class="text-dark text-decoration-none">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-12 text-center">
+                Derechos reservados ® 1997-2024, Centro Universitario de Ciencias de la Salud.
+            </div>
+        </div>
+    </div>
+</footer>
+
+
     
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JavaScript personalizado -->
-    <script src="navbar.js"></script>
-    <script src="js/farmacologia1.js"></script>
+    <script src="./js/navbar.js"></script>
+    <script src="./js/farmacologia1.js"></script>
 </body>
 </html>

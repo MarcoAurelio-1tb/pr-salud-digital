@@ -112,28 +112,24 @@
 /* DROPDOWN */
 
 .navbar-nav .dropdown-menu {
-    display: block; /* Oculto por defecto */
+    display: block; 
     position: absolute;
-    top: 120%; /* Ubicación debajo del enlace "Aplicaciones de Salud" */
+    top: 120%; 
     left: 0;
-    z-index: -1; /* Coloca el menú detrás de la barra de navegación */
+    z-index: 1;
     background-color: white;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
-    opacity: 0; /* Transparencia inicial para animación */
-    transform: translateY(-10px); /* Inicia un poco más arriba */
-    transition: all 0.3s ease; /* Suaviza la animación */
-    width: 200px; /* Ajusta el ancho según lo necesites */
+    opacity: 0;
+    transform: translateY(-10px); 
+    transition: all 0.3s ease; 
+    width: 200px; 
 }
 
-
-
-/* Mostrar menú desplegable al hacer hover y activar animación */
-.navbar-nav .dropdown:hover .dropdown-menu {
+.navbar-nav .dropdown:hover > .dropdown-menu {
     display: block;
-    opacity: 1; /* Opacidad completa al hacer hover */
-    transform: translateY(0); /* Desliza hacia abajo */
-    z-index: 1; /* Asegura que esté visible cuando aparece */
+    opacity: 1; 
+    transform: translateY(0);
+    z-index: 1; 
 }
-
 

@@ -213,6 +213,7 @@ summary{
 }
 
 
+
 .modal2{
     position: fixed;
     top: 0;
@@ -240,7 +241,6 @@ summary{
 
 
 }
-
 
 .modal3{
     position: fixed;
@@ -272,7 +272,28 @@ summary{
 
 
 
-.hero_cta, .hero_cta2, .hero_cta3{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero_cta{
     text-decoration: none;   
 }
 
@@ -303,7 +324,7 @@ summary{
 /* Media Queries para dispositivos pequeños */
 @media (max-width: 768px) {
     .modal_container1 {
-        width: 85%; /* Ancho más amplio en dispositivos pequeños */
+        width: 95%; /* Ancho más amplio en dispositivos pequeños */
         padding: 2em; /* Reduce el padding en dispositivos pequeños */
     }
 }
@@ -335,7 +356,6 @@ summary{
     float: left;
     width: 30%;
     margin-left: 20px;
-    margin-right: -10px;
     padding-left: 3em; /* Espaciado interno consistente */
     padding-right: 2.5em; /* Espaciado interno consistente */
     padding-bottom: 2.5em; /* Espaciado interno consistente */
@@ -368,52 +388,4 @@ summary{
 .modal_close1:hover{
     color: #F26250;
     background-color: #ffff;
-}
-
-
-.modal_close2{
-    margin-top: 20px;
-    text-decoration: none;
-    float: right;
-    color: #ffff;
-    background-color: #F26250;
-    padding: 1vh 1vh;
-    border: 1px solid;
-    border-radius: 10px;
-    display: inline-block;
-    font-weight: 250;
-    transition: background-color .3s;
-
-}
-
-.modal_close2:hover{
-    color: #F26250;
-    background-color: #ffff;
-}
-
-
-
-.modal_close3{
-    margin-top: 20px;
-    text-decoration: none;
-    float: right;
-    color: #ffff;
-    background-color: #F26250;
-    padding: 1vh 1vh;
-    border: 1px solid;
-    border-radius: 10px;
-    display: inline-block;
-    font-weight: 250;
-    transition: background-color .3s;
-
-}
-
-.modal_close3:hover{
-    color: #F26250;
-    background-color: #ffff;
-}
-
-
-footer{
-    background-color: white;    
 }
