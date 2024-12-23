@@ -170,11 +170,13 @@ summary{
     color: white;
 }
 
-.zoom {
+.zoom{
     padding: 0; /* Cambiar a 0 para que no haya padding adicional */
     background-color: #fff;
     transition: transform .2s;
     width: 100%; /* Asegúrate de que ocupe el ancho completo */
+    min-height: 220px;
+    max-height: 220px;
 }
 
 .zoom:hover {
@@ -242,7 +244,7 @@ summary{
 }
 
 
-.modal3{
+.modal3, .modal4, .modal5, .modal6{
     position: fixed;
     top: 0;
     left: 0;
@@ -259,7 +261,7 @@ summary{
 }
 
 
-.modal3--show{
+.modal3--show, .modal4--show, .modal5--show, .modal6--show{
     /*clase modificadora*/
     opacity: 1;
     pointer-events:  unset;
@@ -272,14 +274,13 @@ summary{
 
 
 
-.hero_cta, .hero_cta2, .hero_cta3{
+.hero_cta1, .hero_cta2, .hero_cta3, .hero_cta4, .hero_cta5, .hero_cta6{
     text-decoration: none;   
 }
 
 
 .linea_med{
     height: 5px; 
-    background-color: purple; 
     width: 100%; 
     padding: 0;
 }
@@ -316,6 +317,12 @@ summary{
         max-width: 100%; /* Desactiva la limitación de ancho */
     }
 }
+
+
+li .farmaco{
+    width: 90%;
+    text-align: justify;
+}
  
 .modal_title1{
     font-size: 2.5rem;
@@ -324,6 +331,7 @@ summary{
 .modal_paragraph1{
     margin-bottom: 10px;
     text-align: justify;
+    width: 90%;
 }
 
 .modal_img1{

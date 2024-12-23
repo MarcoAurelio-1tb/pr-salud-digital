@@ -100,11 +100,14 @@
                 </div>
             </div>
         </div>
-  
+
         <div class="container mt-5" style="margin-top: 200px;">
             <!-- <div class="row gy-4"> -->
                     <div id="noticias" class="row">
-            
+                       
+                        <p>
+                            HOLA AMIGO
+                        </p>
                         <!-- Las noticias se cargarán aquí dinámicamente -->
                     </div>
             <!-- </div> -->
@@ -115,31 +118,65 @@
 
     <!-- SCRIPTS  -->
     <script>
-        // Cargar el archivo JSON
-        fetch('./test.json') // Cambia la ruta según la ubicación de tu archivo JSON
-            .then(response => response.json())
-            .then(data => {
-                const noticiasContainer = document.getElementById('noticias');
+        // Datos de prueba estáticos
+        const noticiasDummy = [
+        {
+            "titulo": "¿Cómo impactan la ciencia y la tecnología en el deporte de alto rendimiento?",
+            "descripcion": "Descripcion POP-UP",
+            "via": "28 Julio, 2024",
+            "imagen": "..//img//notices/notice4.png"
+        },
+        {
+            "titulo": "Estas son las predicciones sobre salud, tecnología y medio ambiente para los próximos meses, según la IA.",
+            "descripcion": "Descripcion POP-UP",
+            "via": "26 noviembre, 2024",
+            "imagen": "..//img/notices/notice5.png"
+        },
+        {
+            "titulo": "Reforzar la salud digital puede ayudar a prevenir millones de muertes por enfermedades no transmisibles.",
+            "descripcion": "Descripcion POP-UP",
+            "via": "23 septiembre, 2024",
+            "imagen": "..//img/notices/notice6.png"
+        },
+        {
+            "titulo": "La adopción de tecnología en la construcción evoluciona la gestión de proyectos.",
+            "descripcion": "Descripcion POP-UP",
+            "via": "29 noviembre, 2024",
+            "imagen": "..//img/notices/notice7.png"
+        },
+        {
+            "titulo": "En 2025 será más caro ir a un médico particular, señala encuesta.",
+            "descripcion": "Descripcion POP-UP",
+            "via": "28 noviembre, 2024",
+            "imagen": "..//img/notices/notice8.png"
+        },
+        {
+            "titulo": "¿Los antibióticos han dejado de ser eficaces?.",
+            "descripcion": "Descripcion POP-UP",
+            "via": "15 Julio, 2024",
+            "imagen": "..//img/notices/notice9.png"
+        }
+        
+        ];
     
-                data.forEach(noticia => {
-                    // Crear el HTML dinámico con clases de Bootstrap
-                    const noticiaElement = document.createElement('div');
-                    noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Cada noticia ocupa 4 columnas en pantallas medianas
-                    
-                    noticiaElement.innerHTML = `
-                        <div class="card h-100 shadow">
-                            <img src="${noticia.imagen}" class="card-img-top" alt="${noticia.titulo}">
-                            <div class="card-body">
-                                <h6 class="card-title">${noticia.titulo}</h6>
-                                <p class="card-text">${noticia.fecha}</p>
-                            </div>
-                        </div>
-                    `;
+        // Obtener el contenedor de noticias
+        const noticiasContainer = document.getElementById('noticias');
     
-                    noticiasContainer.appendChild(noticiaElement);
-                });
-            })
-            .catch(error => console.error('Error al cargar el JSON:', error));
+        // Iterar sobre los datos y construir las tarjetas dinámicamente
+        noticiasDummy.forEach(noticia => {
+            const noticiaElement = document.createElement('div');
+            noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Clases de Bootstrap
+            noticiaElement.innerHTML = `
+                <div class="card h-100 shadow">
+                    <img src="${noticia.imagen}" class="card-img-top" alt="${noticia.titulo}">
+                    <div class="card-body">
+                        <h6 class="card-title">${noticia.titulo}</h6>
+                        <p class="card-text text-muted">${noticia.via}</p>
+                    </div>
+                </div>
+            `;
+            noticiasContainer.appendChild(noticiaElement);
+        });
     </script>
 
 

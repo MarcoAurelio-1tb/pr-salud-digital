@@ -1,0 +1,108 @@
+[    
+    {
+        "titulo": "CAAAAAAAAPTOPRIL",
+        "descripcion": "Este medicamento alivia los dolores de cabeza bla bla bla....",
+        "via": "Oral, Comprimidos o Tabletas, Comprimidos Efervescentes, rectales...",
+        "color": "#1F618D",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+    },
+    {
+        "titulo": "CEFALEXINA",
+        "descripcion": "Se usa para tratar infecciones debidas a microorganismos sensibles: ",
+        "via": "Vía oral.<br><br>",
+        "color": "orange",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+
+
+
+
+    },
+    {
+        "titulo": "OMEPRAZOL",
+        "descripcion": "Esta indicado en personas que presentan ulcera duodenal activa, úlcera gástrica, gastropatía por AINE, gastritis, esofagitis por reflujo y síndrome de Zollinger-Ellison.",
+        "via": "Vía oral y parenteral. <br>",
+        "color": "#8E44AD ",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+
+
+
+    },
+    {
+        "titulo": "OSELTAMIVIR",
+        "descripcion": "Prevención y tratamiento de la gripe causada por el virus influenza.",
+        "via": "Vía oral.<br><br>",
+        "color": "green",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+
+
+
+    },
+    {
+        "titulo": "ENALAPRIL",
+        "descripcion": "Este medicamento alivia los dolores de cabeza bla bla bla....",
+        "via": "Vía oral.<br><br>",
+        "color": "#1F618D",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+
+
+
+    },
+    {
+        "titulo": "LOSARTÁN",
+        "descripcion": "Medicamento que se usa para tratar la presión arterial alta.",
+        "via": "Vía oral.<br><br>",
+        "color": "#1F618D",
+        "imagen": "./img/medicamento/Captopril.png",
+        "presentacion": "Tabletas",
+        "viadmin": "Oral",
+        "efectos": "Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.",
+        "texto": "El captopril es un medicamento que sirve para tratar la hipertensión, es decir, la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. También tiene efectos en otras partes del cuerpo.",
+        "indicaciones": "Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética, disfunción ventricular izquierda posterior a infarto del miocardio.",
+        "contra": "Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión",
+        "interacc": "<li class='farmaco'> Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por baja de presión arterial. </li><br><li class='farmaco'>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. </li><br><li class='farmaco'>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. </li><br> <li class='farmaco'>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. </li><br><li class='farmaco'>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantesde la insulina y de los medicamentos orales. Probenecid: aumenta los niveles deCaptopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</li>",
+        "num": "1"
+
+
+
+    }
+]

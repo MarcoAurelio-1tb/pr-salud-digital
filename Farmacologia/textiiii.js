@@ -1,4 +1,4 @@
-
+/* Creamos una constante que almacenará la clase del DIV a expandir con el modal*/
 const openModal1 = document.querySelector('.hero_cta1');
 const modal1 = document.querySelector('.modal1');
 const closeModal1 = document.querySelector('.modal_close1');
@@ -69,7 +69,6 @@ closeModal3.addEventListener('click', (e)=>{
 
 
 
-
 openModal4.addEventListener('click', (e)=>{
     e.preventDefault();
     modal4.classList.add('modal4--show');
@@ -80,9 +79,6 @@ closeModal4.addEventListener('click', (e)=>{
     e.preventDefault();
     modal4.classList.remove('modal4--show');
 });
-
-
-
 
 
 
@@ -98,10 +94,6 @@ closeModal5.addEventListener('click', (e)=>{
 });
 
 
-
-
-
-
 openModal6.addEventListener('click', (e)=>{
     e.preventDefault();
     modal6.classList.add('modal6--show');
@@ -110,5 +102,5 @@ openModal6.addEventListener('click', (e)=>{
 
 closeModal6.addEventListener('click', (e)=>{
     e.preventDefault();
-    modal6.classList.remove('modal--show');
+    modal6.classList.remove('modal6--show');
 });

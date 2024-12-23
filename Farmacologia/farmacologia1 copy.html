@@ -136,8 +136,6 @@
 
 
         <script>
-            /* Creamos una constante que almacenará la clase del DIV a expandir con el modal*/
-           
             var number = 0
             // Cargar el archivo JSON
             fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu archivo JSON
@@ -153,7 +151,7 @@
                         noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Cada noticia ocupa 4 columnas en pantallas medianas
                         
                         noticiaElement.innerHTML = `
-                            <a href="#" class="hero_cta${number}">
+                            <a href="#" class="hero_cta" id="hero_cta${number}"">
                             <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
 
                                 <!-- Línea delgada en la parte superior -->
@@ -169,10 +167,10 @@
 
                              <!--- La idea es que, por medio de un archivo JSON, se cargue la informacion de forma dinamica
                             Por el momento, solo se tiene el esqueleto con animaciones-->
-                            <section class="modal${number}">
+                            <section class="modal1" id="modal${number}">
                                 <div class="modal_container1">
-                                    <div class="linea_med" style="background-color: ${medicamento.color};"></div> <!-- Línea morada -->
-                                    
+                                    <div class="linea_med"></div> <!-- Línea morada -->
+
                                     <div class="modal_left">
                                         <img src="${medicamento.imagen}" class="modal_img1">
                                         
@@ -212,13 +210,13 @@
 
                                             <br>
                                             <p class="modal_paragraph1">
-                                                ${medicamento.texto}
+                                                ${medicamento.quees}
                                             </p>
                                         </details>
                                         <br>
                                         <details>
                                             <summary>Indicaciones 
-                                            <div style="height: 2px; background-color: ${medicamento.color}; width: 90%;"></div> <!-- Línea morada -->
+                                            <div style="height: 2px; background-color: purple; width: 90%;"></div> <!-- Línea morada -->
                                             <br>
                                             </summary>
                                                 <p class="modal_paragraph1">
@@ -228,7 +226,7 @@
                                         <br>
                                         <details>
                                             <summary>Contraindicación
-                                            <div style="height: 2px; background-color: ${medicamento.color}; width: 90%;"></div> <!-- Línea morada -->
+                                            <div style="height: 2px; background-color: purple; width: 90%;"></div> <!-- Línea morada -->
                                             <br>
                                             </summary>
                                                 <p class="modal_paragraph1">
@@ -238,7 +236,7 @@
                                         <br>
                                         <details>
                                             <summary>Interacción
-                                            <div style="height: 2px; background-color: ${medicamento.color}; width: 90%;"></div> <!-- Línea morada -->
+                                            <div style="height: 2px; background-color: purple; width: 90%;"></div> <!-- Línea morada -->
                                             </summary>
 
                                                 <p class="modal_paragraph1">
@@ -260,8 +258,6 @@
                     });
                 })
                 .catch(error => console.error('Error al cargar el JSON:', error));
-
-
         </script>
 
 
@@ -450,123 +446,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JavaScript personalizado -->
     <script src="./js/navbar.js"></script>
-    <script>
-        const openModal1 = document.querySelector('.hero_cta1');
-        const modal1 = document.querySelector('.modal1');
-        const closeModal1 = document.querySelector('.modal_close1');
-
-        const openModal2 = document.querySelector('.hero_cta2');
-        const modal2 = document.querySelector('.modal2');
-        const closeModal2 = document.querySelector('.modal_close2');
-
-
-        const openModal3 = document.querySelector('.hero_cta3');
-        const modal3 = document.querySelector('.modal3');
-        const closeModal3 = document.querySelector('.modal_close3');
-
-        const openModal4 = document.querySelector('.hero_cta4');
-        const modal4 = document.querySelector('.modal4');
-        const closeModal4 = document.querySelector('.modal_close4');
-
-
-        const openModal5 = document.querySelector('.hero_cta5');
-        const modal5 = document.querySelector('.modal5');
-        const closeModal5 = document.querySelector('.modal_close5');
-
-        const openModal6 = document.querySelector('.hero_cta6');
-        const modal6 = document.querySelector('.modal6');
-        const closeModal6 = document.querySelector('.modal_close6');
-
-
-        openModal1.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal1.classList.add('modal1--show');
-        });
-
-
-        closeModal1.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal1.classList.remove('modal1--show');
-        });
-
-
-
-
-
-        openModal2.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal2.classList.add('modal2--show');
-        });
-
-
-        closeModal2.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal2.classList.remove('modal2--show');
-        });
-
-
-
-
-
-        openModal3.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal3.classList.add('modal3--show');
-        });
-
-
-        closeModal3.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal3.classList.remove('modal3--show');
-        });
-
-
-
-
-        openModal4.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal4.classList.add('modal4--show');
-        });
-
-
-        closeModal4.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal4.classList.remove('modal4--show');
-        });
-
-
-
-
-
-
-        openModal5.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal5.classList.add('modal5--show');
-        });
-
-
-        closeModal5.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal5.classList.remove('modal5--show');
-        });
-
-
-
-
-
-
-        openModal6.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal6.classList.add('modal6--show');
-        });
-
-
-        closeModal6.addEventListener('click', (e)=>{
-            e.preventDefault();
-            modal6.classList.remove('modal--show');
-        });
-
-
-
-    </script>
+    <script src="./js/farmacologia1.js"></script>
 </body>
 </html>
