@@ -27,7 +27,8 @@
         "titulo": "En 2025 será más caro ir a un médico particular, señala encuesta.",
         "descripcion": "Descripcion POP-UP",
         "fecha": "28 noviembre, 2024",
-        "imagen": "\\img\\notices\\notice8.png"
+        "imagen": "\\img\\notices\\notice8.png",
+        "url": ""
     },
     {
         "titulo": "¿Los antibióticos han dejado de ser eficaces?.",
@@ -35,5 +36,4 @@
         "fecha": "15 Julio, 2024",
         "imagen": "\\img\\notices\\notice9.png"
     }
-    
 ]

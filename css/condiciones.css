@@ -25,6 +25,12 @@ body {
     border: solid 1px rgba(128, 128, 128, 0.653);
     border-radius: 50px;
     transition: 0.5s ease;
+
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center; 
 }
 
 .pills-img:hover, .pills-txt:hover {
@@ -32,7 +38,6 @@ body {
     -ms-transform: scale(1.02);
     transform: scale(1.02);
     transition: 0.5s ease;
-    font-size: 1.7vh;
 }
 
 .pills-txt {
@@ -40,9 +45,9 @@ body {
     border: solid 1px rgba(128, 128, 128, 0.653);
     border-radius: 50px;
     color: #5d5c5c;
-    text-align: center;
+    text-align: justify;
     padding: 5%;
-    font-size: 1.5vh;
+    font-size: 1.7vh;
     transition: 0.5s ease;
 }
 
@@ -168,6 +173,98 @@ img {
     border-color: #56070c;
     box-shadow: none; /* Elimina sombras */
     outline: none; /* Evita resaltado predeterminado */
+}
+
+/* #endregion */
+
+/* #region estigmas*/
+
+.info {
+    font-size: 1.9vh;
+    text-align: justify;
+}
+
+.title-estigmas {
+    font-size: 5.2vh;
+    font-style: italic;
+    font-weight: 500;
+    font-style: oblique;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.estigma {
+    font-size: 4.3vh;
+    margin: 0 30px 0 20px;
+    border-radius: 20px;
+    transition: 0.7s ease;
+}
+
+.estigma:hover {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    transition: 0.5s ease;
+    cursor: grab;
+}
+
+.div-estigmas {
+    display: flex; /* Activar Flexbox */
+    flex-direction: column; /* Asegura que las filas estén en una sola columna */
+    align-items: center; /* Centra horizontalmente el contenido */
+    justify-content: center; /* Centra verticalmente el contenido */
+    height: 100%; /* Si deseas que ocupe todo el espacio disponible */
+}
+
+/* Estilo general de las filas */
+.div-estigmas .row {
+    position: relative; /* Para evitar que el desplazamiento afecte otros elementos */
+}
+
+.div-estigmas .row:nth-child(1), .div-estigmas .row:nth-child(3){
+    transform: translateX(20px); 
+}
+
+.div-estigmas .row:nth-child(2), .div-estigmas .row:nth-child(4) {
+    transform: translateX(-20px);
+}
+
+
+/* Ajuste del tamaño de los bloques al texto */
+.div-estigmas .col-sm-6 {
+    display: inline-block; /* Hace que la columna ajuste al contenido */
+    width: auto; /* Elimina el tamaño predefinido de las columnas de Bootstrap */
+    text-align: center; /* Centra el contenido */
+}
+
+
+
+.tachado {
+    text-decoration: line-through;
+    color: #000;
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.subrayado-panda {
+    background: #000;
+    color: white;
+}
+
+.subrayado-gris {
+    background: darkgrey;
+    color: white;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.negrita {
+    font-weight: bold;
 }
 
 /* #endregion */
