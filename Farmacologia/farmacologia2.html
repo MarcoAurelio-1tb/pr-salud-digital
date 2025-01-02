@@ -129,9 +129,7 @@
                     <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1"> 
 
 
-
-
-                        <a href="#" class="hero_cta">
+                        <a href="#" class="hero_cta1" onclick="Modal1();">
                         <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
 
                             <!-- Línea delgada en la parte superior -->
@@ -145,122 +143,113 @@
                         </a>
                     </div>
 
+                    <!--- La idea es que, por medio de un archivo JSON, se cargue la informacion de forma dinamica
+                                Por el momento, solo se tiene el esqueleto con animaciones-->
+                                <section class="modal1">
+                                    <div class="modal_container1">
+                                        <div style="height: 5px; background-color: rgb(45, 70, 214); width: 100%;"></div> <!-- Línea morada -->
+            
+                                        <div class="modal_left">
+                                            <br><br><img src="img/medicamento/cefalexina_25043_l.jpg" class="modal_img1"><br><br>
+                                            
+                                            <!---PRESENTACION Y LO DEMAS AQUI ABAJO!--->
+                                            <h5>Presentación</h5>
+                                            <p class="modal_paragraph1">
+                                                Tabletas, cápsulas y suspensión.
+                                            </p><br>
+            
+                                            <h5>Vía de Administración</h5>
+                                            <p class="modal_paragraph1">
+                                                Vía oral.
+                                            </p><br>
+            
+                                            <h5>Efectos adversos</h5>
+                                            <p class="modal_paragraph1">
+                                                Náuseas, vómitos, diarrea, reflujo, dolor abdominal, fatiga, hepatitis transitoria,
+                                                ictericia, alteración de las células del hígado, reacciones alérgicas, urticaria, hinchazón de cara, labios y lengua, erupción cutánea, prurito genital y anal 
+                                            </p><br>
+            
+            
+            
+                                        </div>
+                                        <!--- COLUMNA DERECHA DE MODAL-->
+                                        <div class="modal_text">
+                                            <br>
+            
+                                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                                            <!---*dos columnas para poner el botón de cerrar*/ --->
+                                            <h2 class="modal_title1" style="margin: 0;">CAPTOPRIL</h2>
+                                            <a href="#" class="modal_close1" onclick="Modal1();">X</a>
+                                        </div>        
+                                            <details>
+                                                <summary>¿Qué es?
+                                                <div style="height: 3px; background-color: purple; width: 90%;"></div> <!-- Línea morada -->
+                                                </summary>
+            
+                                                <br>
+                                                <p class="modal_paragraph1">
+                                                Cefalexina es un antibiótico del grupo de las cefalosporinas de los conocidos como de primera generación. 
+                                                Es utilizado para tratar infecciones bacterianas en el tracto respiratorio, la piel, los huesos, el oído. Puede ser útil en casos de pacientes con hipersensibilidad a la penicilina. 
+                                                
+                                            </p>
+                                            </details>
+                                            <br>
+                                            <details>
+                                                <summary>Indicaciones 
+                                                <div style="height: 3px; background-color:purple; width: 90%;"></div> <!-- Línea azul -->
+                                                <br>
+                                                </summary>
+            
+                                                    <p class="modal_paragraph1">
+                                                        Se usa para tratar infecciones debidas a microorganismos sensibles: infecciones del aparato respiratorio, 
+                                                        otitis media, infecciones de piel y tejido subcutáneo, del tracto urinario e infecciones dentales.                                    
+                                                    </p> 
+                                            </details>
+                                            <br>
+                                            <details>
+                                                <summary>Contraindicación
+                                                <div style="height: 3px; background-color: purple; width: 90%;"></div> <!-- Línea azul -->
+                                                <br>
+                                                </summary>
+                                                <p class="modal_paragraph1"></p>
+                                                Hipersensibilidad a las cefalosporinas.
+                                            </p>
+            
+                                            </details>
+                                            <br>
+                                            <details>
+                                                <summary>Interacción
+                                                <div style="height: 3px; background-color: purple; width: 90%;"></div> <!-- Línea azul -->
+                                                </summary>
+            
+                                                <p class="modal_paragraph1">
+                                                <li>Metformina: aumenta la concentración plasmática de este medicamento.</li>
+                                                <br><li> DDe manera simultánea con aminoglucósidos puede afectar el funcionamiento renal </li><br>
+                                            </p>
+                                            </details>
+                                        </div>
+                                        <br><br><br>
+                                       
+            
+            
+                                    </div>
+                                </section>
+
+
+
+
+
+
+
+
+
+                    <!--- ESTA ES UNA VERSION ANTIGUA DEL ARCHIVO CON EL POP UP FUNCIONAL-->
                    <!--- La idea es que, por medio de un archivo JSON, se cargue la informacion de forma dinamica
                             Por el momento, solo se tiene el esqueleto con animaciones-->
-                    <section class="modal1">
-                        <div class="modal_container1">
-                            <div class="linea_med"></div> <!-- Línea morada -->
-
-                            <div class="modal_left">
-                                <img src="img/medicamento/Captopril.png" class="modal_img1">
-                                
-                                <!---PRESENTACION Y LO DEMAS AQUI ABAJO!--->
-                                <h5>Presentación</h5>
-                                <p class="modal_paragraph1">
-                                    Tabletas
-                                </p><br>
-
-                                <h5>Vía de Administración</h5>
-                                <p class="modal_paragraph1">
-                                    Oral
-                                    
-                                </p><br>
-
-                                <h5>Efectos adversos</h5>
-                                <p class="modal_paragraph1">
-                                    Tos seca, dolor torácico, proteinuria cefalea, disgeusia, taquicardia hipotensión, fatiga y diarrea.
-                                </p><br>
-
-
-
-                            </div>
-                            <!--- COLUMNA DERECHA DE MODAL-->
-                            <div class="modal_text">
-                                <br>
-
-                            <div style="display: flex; align-items: center; justify-content: space-between;">
-                                <!---*dos columnas para poner el botón de cerrar*/ --->
-                                <h2 class="modal_title1" style="margin: 0;">CAPTOPRIL</h2>
-                                <a href="#" class="modal_close1">X</a>
-                            </div>        
-                                <details>
-                                    <summary>¿Qué es?
-                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
-                                    
-                                    </summary>
-
-                                    <br>
-                                    <p class="modal_paragraph1">
-                                    El captopril es un medicamento que sirve para tratar la hipertensión, es decir, 
-                                    la tensión alta de la sangre. Tiene efectos en el corazón y en la circulación de la sangre. 
-                                    También tiene efectos en otras partes del cuerpo.
-                                </p>
-                                </details>
-                                <br>
-                                <details>
-                                    <summary>Indicaciones 
-                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
-                                    <br>
-                                    </summary>
-
-                                        <p class="modal_paragraph1">
-            
-                                    Hipertensión arterial sistémica. Insuficiencia cardiaca congestiva, nefropatia diabética,
-                                    disfunción ventricular izquierda posterior a infarto del miocardio.
-                                </p> 
-                                </details>
-                                <br>
-                                <details>
-                                    <summary>Contraindicación
-                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
-                                    <br>
-                                    </summary>
-                                    <p class="modal_paragraph1"></p>
-                                    Hipersensibilidad a Captopril, a cualquier de los excipientes (contiene lactosa, contraindicado 
-                                    en intolerancia hereditaria a galactosa). Antecedentes de angioedema asociado a tratamiento previo con IECA. 
-                                    Edema angioneurótico hereditario/idiopático. Hiperpotasemia. Insuficiencia renal Inmunosupresión
-                                </p>
-
-                                </details>
-                                <br>
-                                <details>
-                                    <summary>Interacción
-                                    <div style="height: 3px; background-color: purple; width: 80%;"></div> <!-- Línea morada -->
-                                    </summary>
-
-                                    <p class="modal_paragraph1">
-                                    <li>Litio: aumentan los niveles de litio con riesgo de toxicidad. diuréticos ahorradores de potasio, antidepresivos triciclicos/ antipsicóticos, diuréticos, nitroglicerina, vasodilatadores: utilizar con precaución por produce baja de presión arterial. 
-                                    </li>
-                                    <br><li>Antiinflamatorios no esteroideos: incremento de los niveles de potasio sérico, disminución de la función renal. 
-                                    </li>
-                                    <br><li>Alopurinol,procainamida, agentes citostáticos o inmunosupresores: aumentó el riesgo de reducir los leucocitos. 
-                                    </li>
-                                    <br><li>Sinmpaticomiméticos: reducen los efectos antihipertensivos del Captopril. 
-                                    </li>
-                                    <br><li>Antidiabéticos : se podrían potenciar los efectos hipoglucemiantes de la insulina y de los medicamentos orales. Probenecid: aumenta los niveles de Captopril por disminución en su depuración . Antiácidos : puede disminuir la absorción gastrointestinal de Captopril.</p>
-                                    </li>
-                                </p>
-                                </details>
-                            </div>
-                            <br><br><br>
-                           
-
-
-                        </div>
-                    </section>
-
-
-
-
-
-
-
-
-
 
 
                     <div class="container-fluid col-12 col-md-4 col-lg-4 m-0 ps-2 pt-1"> <!--- ANTIBIOTICO-->
-                        <a href="#" class="hero_cta2">
+                        <a href="#" class="hero_cta2" onclick="Modal2();">
                             <div class="border zoom" style="padding: 0; background-color: #fff;"> <!-- Contenedor principal -->
     
                                 <!-- Línea delgada en la parte superior -->
@@ -310,7 +299,7 @@
                                 <div style="display: flex; align-items: center; justify-content: space-between;">
                                     <!---*dos columnas para poner el botón de cerrar*/ --->
                                     <h2 class="modal_title1" style="margin: 0;">CEFALEXINA</h2>
-                                    <a href="#" class="modal_close2">X</a>
+                                    <a href="#" class="modal_close2" onclick="Modal2();">X</a>
                                 </div>        
                                     <details>
                                         <summary>¿Qué es?

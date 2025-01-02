@@ -244,7 +244,7 @@ summary{
 }
 
 
-.modal3, .modal4, .modal5, .modal6{
+.modal3{
     position: fixed;
     top: 0;
     left: 0;
@@ -261,7 +261,7 @@ summary{
 }
 
 
-.modal3--show, .modal4--show, .modal5--show, .modal6--show{
+.modal3--show{
     /*clase modificadora*/
     opacity: 1;
     pointer-events:  unset;
@@ -274,7 +274,7 @@ summary{
 
 
 
-.hero_cta1, .hero_cta2, .hero_cta3, .hero_cta4, .hero_cta5, .hero_cta6{
+.hero_cta1, .hero_cta2, .hero_cta3 {
     text-decoration: none;   
 }
 
