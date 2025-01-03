@@ -160,36 +160,3 @@ fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu 
     .catch(error => console.error('Error al cargar el JSON:', error));
 
 
-
-
-
-
-
-    openModal2.addEventListener('click', (e)=>{
-        e.preventDefault();
-        modal2.classList.add('modal2--show');
-    });
-
-
-    closeModal2.addEventListener('click', (e)=>{
-        e.preventDefault();
-        modal2.classList.remove('modal2--show');
-    });
-
-
-
-function Modal3(){
-
-    openModal3.addEventListener('click', (e)=>{
-        e.preventDefault();
-        modal3.classList.add('modal3--show');
-    });
-
-
-    closeModal3.addEventListener('click', (e)=>{
-        e.preventDefault();
-        modal3.classList.remove('modal3--show');
-    });
-
-
-}
