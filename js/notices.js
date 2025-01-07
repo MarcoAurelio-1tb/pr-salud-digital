@@ -34,8 +34,10 @@ fetch('../js/notices.json') // Cambia la ruta según la ubicación de tu archivo
                             <p class="modal-descr">${noticia.descripcion}</p>
                         </div>
                         <div class="modal_body">
-                            <p class="modal-descr">Visita la noticia completa en</p>
-                            <a class="modal-descr" href="${noticia.url}" target="_blank">${noticia.url}</a>
+                            <p class="modal-descr" style="font-weight: 500;">Visita la noticia completa en:</p>
+                            <a href="${noticia.url}" target="_blank" class="btn btn-outline-primary mt-1 mx-3 col-3">
+                                Leer más
+                            </a>   
                         </div>
                     </div>
                 </section>
