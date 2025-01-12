@@ -218,7 +218,280 @@ footer a:hover {
 
 
 /* COORDINACION */
-.btn-custom-padding {
-    padding-left: 20px;
-    padding-right: 20px;
+
+.btn-coordi{
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    font-size: large;
+  }
+  .btn-coordi:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 5px;
+    left: 50%;
+    position: absolute;
+    background: #414BB2;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+    
+  }
+  .btn-coordi:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }
+
+
+
+
+  .ball_wrap {
+    position: relative;
+    margin: 150px;
+    width: 90px;
+}
+
+.green_ball {
+    background: #00C762;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    position: absolute;
+}
+
+.blue_ball {
+    background: #2F9BC1;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 3px solid #ccc;
+}
+
+.ball_wrap div:nth-of-type(2) {
+    top: 20px;
+    left: -100px;
+}
+
+.ball_wrap div:nth-of-type(2):after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid #000;
+    position: absolute;
+    width: 50px;
+    right: -50px;
+    top: 50%;
+}
+
+.ball_wrap div:nth-of-type(3) {
+    top: 20px;
+    right: -100px;
+}
+
+.ball_wrap div:nth-of-type(3):after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid #000;
+    position: absolute;
+    width: 50px;
+    left: -52px;
+    top: 50%;
+}
+
+.ball_wrap div:nth-of-type(4) {
+    right: 105px;
+    bottom: -160px;
+}
+
+.ball_wrap div:nth-of-type(4):after {
+    content: "";
+    display: block;
+    border-left: 1px solid #000;
+    position: absolute;
+    height: 130px;
+    left: 70px;
+    top: -120px;
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+}
+
+/* Bola 5 (arriba izquierda) */
+.ball_wrap div:nth-of-type(5) {
+    top: -100px; /* Posicionada arriba */
+    left: -50px; /* Desplazada hacia la izquierda */
+}
+
+.ball_wrap div:nth-of-type(5):after {
+    content: "";
+    display: block;
+    border-left: 1px solid #000; /* Línea negra */
+    position: absolute;
+    height: 75px; /* Longitud de la línea */
+    left: 70%; /* Ajuste horizontal para alineación */
+    top: 40px; /* Punto inicial de la línea */
+    transform: rotate(-35deg); /* Rotación diagonal hacia la derecha */
+    transform-origin: top left; /* Punto de anclaje de la rotación */
+}
+
+
+/* Bola 6 (arriba derecha) */
+.ball_wrap div:nth-of-type(6) {
+    top: -100px; /* Posicionada arriba */
+    left: 150px; /* Desplazada hacia la derecha */
+}
+
+/* Bola 6 (arriba derecha) */
+.ball_wrap div:nth-of-type(6):after {
+    content: "";
+    display: block;
+    border-left: 1px solid #000; /* Línea negra */
+    position: absolute;
+    height: 100px; /* Longitud de la línea */
+    left: 25%; /* Ajuste horizontal para alineación */
+    top: 20px; /* Punto inicial de la línea */
+    transform: rotate(45deg); /* Rotación diagonal hacia la izquierda */
+    transform-origin: top right; /* Punto de anclaje de la rotación */
+}
+
+
+#info_coordi{
+    display: none;
+}
+  #mision1{
+    display: none;
+  }
+
+  #vision1{
+    display: none;
+  }
+
+
+
+.informacion_coordi{
+    padding: 0; /* Cambiar a 0 para que no haya padding adicional */
+    transition: transform .2s;
+}
+
+.informacion_coordi:hover {
+    -ms-transform: scale(1.15); /* IE 9 */
+    -webkit-transform: scale(1.15); /* Safari 3-8 */
+    transform: scale(1.15); 
+}
+
+
+.boton_cerrar{
+    position: absolute;
+    right: 0;
+}
+
+
+#info_presentacion1, #info_presentacion2, #info_presentacion3, #info_presentacion4, #info_presentacion5{
+    display: block;
+}
+
+#directorio1, #directorio2, #directorio3, #directorio4, #directorio5{
+    display: none;
+  }
+
+#eje_trab1, #eje_trab2, #eje_trab3, #eje_trab4, #eje_trab5{
+    display: none;
+  }
+
+
+#bioengineer_unit{
+    display: none;
+}
+
+#unidades{
+    display: block;
+}
+
+
+.esconder_unidades{
+    display: block;
+}
+
+
+.modalUnidades {
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    min-height: auto; /* Elimina restricciones de altura mínima */
+    max-height: none; /* Permite que el contenedor crezca según el contenido */
+    width: 100%;
+    transform: scale(0);
+    opacity: 0;
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+}
+
+/* Responsividad personalizada para márgenes */
+@media (min-width: 576px) { /* Pantallas pequeñas y superiores */
+    .modalUnidades {
+        margin: 15px auto;
+    }
+}
+
+@media (min-width: 768px) { /* Pantallas medianas y superiores */
+    .modalUnidades {
+        margin: 20px auto;
+        max-width: 100%; /* Reducir el ancho en pantallas medianas */
+    }
+}
+
+@media (min-width: 1200px) { /* Pantallas grandes */
+    .modalUnidades {
+        margin: 25px auto;
+        max-width: 100%; /* Reducir más el ancho */
+    }
+}
+
+.modalUnidades.show {
+    display: block; /* Asegura que sea visible */
+    transform: scale(1); /* Crece al tamaño completo */
+    opacity: 1; /* Se vuelve visible */
+}
+
+
+#bioengineer_unit{
+    display: none;
+}
+
+#ambiente_unit{
+    display: none;
+}
+
+#innovacion_unit{
+    display: none;
+}
+
+#saludD_unit{
+    display: none;
+}
+
+#simulacion_unit{
+    display: none;
+}
+
+.eje-trabajo-list {
+    list-style-type: none; /* Elimina los marcadores de lista por defecto */
+    margin: 0; /* Elimina márgenes externos */
+    padding: 0; /* Elimina relleno interno */
+    text-align: left; /* Alinea el texto a la izquierda para mayor legibilidad */
+}
+
+.eje-trabajo-list li {
+    margin: 10px 0; /* Espaciado entre los elementos de la lista */
+    padding: 5px; /* Relleno interno para mejor apariencia */
+    background-color: #f9f9f9; /* Fondo claro */
+    border-radius: 5px; /* Bordes redondeados */
+    border: 1px solid #ddd; /* Bordes sutiles */
+    transition: background-color 0.3s ease; /* Transición para el hover */
+}
+
+.eje-trabajo-list li:hover {
+    background-color: #e9ecef; /* Cambia el fondo al pasar el cursor */
 }
