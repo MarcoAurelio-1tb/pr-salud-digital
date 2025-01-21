@@ -45,7 +45,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Servicios Bioinformáticos</a>
+                        <a class="nav-link" href="/html/serv-bioinf.html">Servicios Bioinformáticos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Cursos y Talleres</a>
@@ -92,17 +92,19 @@
             
                     <!-- Noticia Principal -->
                     <div class="col-lg-6">
-                        <div class="card h-100 shadow">
-                            <img src="/img/notices/notice2.jpg" class="" alt="Noticia Principal">
+                        <div class="card h-100 shadow" data-bs-toggle="modal" data-bs-target="#modalNoticia" 
+                            data-titulo="Noticia main." 
+                            data-descripcion="Texto ilustrativo sobre la noticia principal." 
+                            data-imagen="/img/notices/notice2.jpg">
+                            <img src="/img/notices/notice2.jpg" alt="Noticia Principal">
                             <div class="card-body">
                                 <h5 class="card-title fw-bold">Noticia main.</h5>
                                 <p class="card-text text-muted">04 Enero, 2025</p>
-                                <p class="card-text">
-                                    Texto ilustrativo
-                                </p>
+                                <p class="card-text">Texto ilustrativo</p>
                             </div>
                         </div>
                     </div>
+
             
                     <!-- Noticias Laterales Derechas -->
                     <div class="col-lg-3 col-md-6 d-flex flex-column gap-3">
@@ -124,6 +126,24 @@
                 </div>
             </div>
             
+            <!-- Estructura Modal -->
+            <div id="modalNoticia" class="modal fade" tabindex="-1" role="dialog">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="modalTitulo">Título de la noticia</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <img id="modalImagen" src="" alt="Imagen de la noticia" class="img-fluid mb-3">
+                            <p id="modalDescripcion">Descripción de la noticia.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         <div class="text-center mb-3 mt-5">
             <h1 class="fw-bold pt-5">Más noticias</h1>
@@ -141,57 +161,11 @@
         </div>
     </div>
 
-    <!--
-    <section class="modal1 modal${number}" id="modal${number}">
-                    <div class="modal_container1">
-                        <div class="modal_header">
-                            <h2>${noticia.titulo}</h2>
-                            <a href="#" class="modal_close1">X</a>
-                        </div>
-                        <div class="modal_body">
-                            <img src="${noticia.imagen}" alt="${noticia.titulo}" class="img-fluid">
-                            <p>${noticia.descripcion}</p>
-                        </div>
-                    </div>
-                </section>
-    -->
-
-
-
-    <!-- SCRIPTS  -->
-    <!-- <script>
-        // Cargar el archivo JSON
-        fetch('./test.json') // Cambia la ruta según la ubicación de tu archivo JSON
-            .then(response => response.json())
-            .then(data => {
-                const noticiasContainer = document.getElementById('noticias');
-
-                data.forEach(noticia => {
-                    // Crear el HTML dinámico con clases de Bootstrap
-                    const noticiaElement = document.createElement('div');
-                    noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Cada noticia ocupa 4 columnas en pantallas medianas
-
-                    noticiaElement.innerHTML = `
-                        <div class="card h-100 shadow">
-                            <img src="${noticia.imagen}" class="card-img-top" alt="${noticia.titulo}">
-                            <div class="card-body">
-                                <h6 class="card-title">${noticia.titulo}</h6>
-                                <p class="card-text">${noticia.fecha}</p>
-                            </div>
-                        </div>
-                    `;
-
-                    noticiasContainer.appendChild(noticiaElement);
-                });
-            })
-            .catch(error => console.error('Error al cargar el JSON:', error));
-    </script> -->
-
-
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JavaScript personalizado -->
     <script src="/js/navbar.js"></script>
     <script src="/js/notices.js"></script>
+    <script src="/js/modalNoticias.js"></script>
 </body>
 </html>

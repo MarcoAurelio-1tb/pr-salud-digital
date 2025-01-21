@@ -45,8 +45,8 @@ fetch('../js/notices.json') // Cambia la ruta según la ubicación de tu archivo
             `;
 
             noticiasContainer.appendChild(noticiaElement);
-        });
-
+        })
+        
         // Agregar eventos a los botones dinámicamente
         const botonesModal = document.querySelectorAll('.botonModal');
         botonesModal.forEach(boton => {

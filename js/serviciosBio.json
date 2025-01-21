@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Análisis Genómico",
+        "descripcion": "Servicio de análisis avanzado para estudios genómicos.",
+        "imagen": "\\img\\notices\\notice9.jpg",
+        "detalles": "Este servicio incluye secuenciación, alineación y anotación genética."
+    },
+    {
+        "titulo": "Proteómica",
+        "descripcion": "Identificación y cuantificación de proteínas en diversas muestras.",
+        "imagen": "\\img\\notices\\notice9.jpg",
+        "detalles": "Utilizamos herramientas avanzadas como espectrometría de masas."
+    }
+]
