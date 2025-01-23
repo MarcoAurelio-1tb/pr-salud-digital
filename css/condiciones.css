@@ -86,6 +86,7 @@ img {
     background-color: #fff; /* Color de fondo */
     border: 1px solid forestgreen; /* Borde */
     transition: background-color .5s, color .5s, box-shadow .5s;
+    font-size: 2vh;
 }
 
 .btn-custom-leve:hover {
@@ -110,6 +111,7 @@ img {
     background-color: #fff; /* Color de fondo */
     border: 1px solid orange; /* Borde */
     transition: background-color .5s, color .5s, box-shadow .5s;
+    font-size: 2vh;
 }
 
 .btn-custom-moderado:hover {
@@ -134,6 +136,7 @@ img {
     background-color: #fff; /* Color de fondo */
     border: 1px solid red;
     transition: background-color .5s, color .5s, box-shadow .5s;
+    font-size: 2vh;
 }
 
 .btn-custom-severo:hover {
@@ -158,6 +161,7 @@ img {
     background-color: #fff; /* Color de fondo */
     border: 1px solid #56070c; /* Borde */
     transition: background-color .5s, color .5s, box-shadow .5s;
+    font-size: 2vh;
 }
 
 .btn-custom-muysevero:hover {

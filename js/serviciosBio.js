@@ -6,34 +6,69 @@ fetch('../js/serviciosBio.json') // Asegúrate de que la ruta sea correcta
         let number = 0;
 
         data.forEach((servicio) => {
+            number++;
             // Crear la tarjeta dinámica
             const servicioElement = document.createElement('div');
-            servicioElement.classList.add('col-lg-6', 'col-md-6', 'mb-4');
+            servicioElement.classList.add('col-lg-3', 'col-md-6', 'mb-4');
             servicioElement.innerHTML = `
-                <div class="card shadow h-100 border-0">
+                <a href="#" class="hero_cta${number} botonModal" data-modal="modal${number}">
+                <div class="card shadow-sm h-100 border-0 cardhover" style="min-height: 40vh; padding-top: 30px;">
                     <div class="card-body">
                         <div class="d-flex justify-content-center mb-3">
-                            <img src="${servicio.imagen}" alt="${servicio.titulo}" class="img-fluid rounded img-smental" style="max-height: 200px;">
+                            <img src="${servicio.img1}" alt="${servicio.title}" class="img-fluid rounded img-smental" style="max-height: 200px;">
                         </div>
-                        <h2 class="fw-bold title-smental">${servicio.titulo}</h2>
-                        <p class="text-muted descr-smental">${servicio.descripcion}</p>
-                        <a href="#" class="hero_cta${number} botonModal" data-modal="modal${number}">
-                            <button class="btn btn-primary mt-3 px-4 btn-expand">
+                        <h2 class="fw-bold title-smental">${servicio.title}</h2>
+                        
+                            <!-- <button class="btn btn-primary mt-3 px-4 btn-expand">
                                 Leer más
-                            </button>
-                        </a>
+                            </button> -->
+                        
                     </div>
                 </div>
+                </a>
 
                 <section class="modal1 modal${number}" id="modal${number}">
                     <div class="modal_container1">
                         <a href="#" class="modal_close1">X</a>
                         <div class="modal_header">
-                            <img src="${servicio.imagen}" alt="${servicio.titulo}" class="modal-img">
+                            <img src="${servicio.img1}" alt="${servicio.title}" class="modal-img">
                         </div>
                         <div class="modal_body">
-                            <p class="modal-title">${servicio.titulo}</p>
-                            <p class="modal-descr">${servicio.descripcion}</p>
+                            <div class="container-fluid d-flex justify-content-center"> <!-- align-items-center : lo pone en medio del div -->
+                                <div class="col-lg-8 col-md-8 col-sm-8 text-center">
+                                    <p style="font-size: 6.3vh; font-style: italic; font-weight: 500; font-style: oblique;">${servicio.title}</p>
+                                    <p class="info">
+                                        ${servicio.descr1}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center text-center" style="margin-top: 50px;">
+                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                    ${servicio.descr2}
+                                </div>
+                                <div class="col-lg-5 col-md-6">
+                                    <img src="${servicio.img2}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center text-center" style="margin-top: 50px;">
+                                <div class="col-lg-5 col-md-6">
+                                    <img src="${servicio.img3}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
+                                </div>    
+                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                    ${servicio.descr3}
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center text-center" style="margin-top: 50px;">
+                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                    ${servicio.descr4}
+                                </div>
+                                <div class="col-lg-5 col-md-6">
+                                    <img src="${servicio.img4}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
+                                </div>
+                            </div>
+                        <div class="row justify-content-center align-items-center text-center" style="margin-top: 100px;">
+                        <p style="color: white;">/</p></div>
+
                         </div>
                     </div>
                 </section>

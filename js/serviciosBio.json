@@ -1,14 +1,46 @@
 [
     {
-        "titulo": "Análisis Genómico",
-        "descripcion": "Servicio de análisis avanzado para estudios genómicos.",
-        "imagen": "\\img\\notices\\notice9.jpg",
-        "detalles": "Este servicio incluye secuenciación, alineación y anotación genética."
+        "title": "Acoplamiento molecular <br>“Molecular docking.",
+        "descr1": "Es una técnica computacional que tiene como fin predecir las interacciones a nivel molecular entre moléculas, ya sea entre moléculas pequeñas (ligando) con una proteína blanco (receptor), o bien entre proteínas. Para realizar análisis de acoplamiento molecular es necesario contar con una representación tridimensional de alta resolución de la proteína, así como de los ligandos de interés.",
+        "descr2": "Esta herramienta virtual, es altamente utilizada en el campo de desarrollo de fármacos, ya sea para una nueva invención, así como en el reposicionamiento de compuestos existentes. El uso del acoplamiento molecular en las ciencias biomédicas eficientiza los experimentos in vitro e in vivo, además de reducir costos durante el desarrollo de proyectos.",
+        "descr3": "Existen dos estrategias de análisis: Acoplamiento molecular localizado o directo: Se basa en evaluación de las posibles interacciones moleculares sobre un sitio en específico reportado previamente, como sitios activos o alostéricos, relacionado con la funcionabilidad. Acoplamiento molecular ciego: Esta estrategia se utiliza cuando se desconoce sitios relevantes de la proteína, así como para detectar posibles sitios y modos de unión de ligandos sobre una superficie proteína (proteína blanco).",
+        "descr4": "Existen diversos programas y servidores disponibles para realizar acoplamiento molecular, entre los más utilizados se destacan:",
+        "img1": "\\img\\bioinf\\molecular1.jpg",
+        "img2": "\\img\\bioinf\\molecular2.jpg",
+        "img3": "\\img\\bioinf\\molecular3.jpg",
+        "img4": "\\img\\bioinf\\molecular4.jpg"
     },
     {
-        "titulo": "Proteómica",
-        "descripcion": "Identificación y cuantificación de proteínas en diversas muestras.",
-        "imagen": "\\img\\notices\\notice9.jpg",
-        "detalles": "Utilizamos herramientas avanzadas como espectrometría de masas."
+        "title": "Análisis <br>estadísticos.",
+        "descr1": "Los servicios de Estadística y Análisis de Datos comprenden un conjunto de técnicas y métodos que permiten recolectar, procesar, interpretar y presentar datos cuantitativos y cualitativos. Estas herramientas son esenciales para obtener información significativa a partir de grandes volúmenes de datos, identificar patrones, establecer relaciones y tomar decisiones informadas. Los análisis pueden incluir desde estadísticas descriptivas básicas hasta modelos predictivos avanzados, utilizando métodos como análisis de regresión, pruebas de hipótesis y análisis multivariados.",
+        "descr2": "Utilidad y Aplicabilidad: <br>El uso de servicios de estadística y análisis de datos ofrece beneficios significativos en diversos campos. Permite la toma de decisiones basada en datos concretos, optimizando procesos y recursos. En el sector salud, facilita la identificación de tendencias en enfermedades, evaluación de tratamientos y mejora de políticas de salud pública. En la industria, ayuda a mejorar la calidad de productos y procesos mediante el control estadístico. En el ámbito financiero, permite gestionar riesgos, analizar mercados y prever comportamientos económicos. Además, en investigación científica, contribuye a validar hipótesis, interpretar resultados experimentales y diseñar estudios más robustos. Estas aplicaciones son fundamentales para la innovación, mejora continua y toma de decisiones estratégicas en múltiples sectores.",
+        "descr3": "Softwares: <br>Estadística realizada a través del uso de: SPSS, SAS, R, Python.",
+        "descr4": "NONE",
+        "img1": "\\img\\bioinf\\estadistica1.jpg",
+        "img2": "NONE",
+        "img3": "NONE",
+        "img4": "NONE"
+    },
+    {
+        "title": "Análisis <br>genómico.",
+        "descr1": "Los servicios de Estadística y Análisis de Datos comprenden un conjunto de técnicas y métodos que permiten recolectar, procesar, interpretar y presentar datos cuantitativos y cualitativos. Estas herramientas son esenciales para obtener información significativa a partir de grandes volúmenes de datos, identificar patrones, establecer relaciones y tomar decisiones informadas. Los análisis pueden incluir desde estadísticas descriptivas básicas hasta modelos predictivos avanzados, utilizando métodos como análisis de regresión, pruebas de hipótesis y análisis multivariados.",
+        "descr2": "Utilidad y Aplicabilidad: <br>El uso de servicios de estadística y análisis de datos ofrece beneficios significativos en diversos campos. Permite la toma de decisiones basada en datos concretos, optimizando procesos y recursos. En el sector salud, facilita la identificación de tendencias en enfermedades, evaluación de tratamientos y mejora de políticas de salud pública. En la industria, ayuda a mejorar la calidad de productos y procesos mediante el control estadístico. En el ámbito financiero, permite gestionar riesgos, analizar mercados y prever comportamientos económicos. Además, en investigación científica, contribuye a validar hipótesis, interpretar resultados experimentales y diseñar estudios más robustos. Estas aplicaciones son fundamentales para la innovación, mejora continua y toma de decisiones estratégicas en múltiples sectores.",
+        "descr3": "Softwares: <br>Estadística realizada a través del uso de: SPSS, SAS, R, Python.",
+        "descr4": "NONE",
+        "img1": "\\img\\bioinf\\genomico1.jpg",
+        "img2": "\\img\\bioinf\\genomico2.jpg",
+        "img3": "NONE",
+        "img4": "NONE"
+    },
+    {
+        "title": "Análisis Bioinformático <br>de Microbiota.",
+        "descr1": "Los análisis bioinformáticos de microbiota buscan caracterizar y comprender la composición y funcionalidad de comunidades microbianas a partir de datos de secuenciación. Este proceso incluye la clasificación taxonómica, que identifica las especies presentes en una muestra, y el análisis de diversidad, tanto alfa (diversidad dentro de una muestra) como beta (diferencias entre muestras). Además, se realizan análisis funcionales para predecir el potencial metabólico de las comunidades, mientras que las visualizaciones interactivas facilitan la interpretación de resultados. QIIME 2 permite un flujo de trabajo robusto y reproducible para estos análisis, desde la calidad de los datos hasta la generación de gráficos avanzados.",
+        "descr2": "Utilidad y Aplicabilidad: <br>El análisis de microbiota tiene aplicaciones significativas en áreas como la salud humana, la agricultura y la ecología ambiental. En salud, permite estudiar la relación entre microbiota y enfermedades como obesidad, diabetes, o enfermedades gastrointestinales, así como el efecto de tratamientos médicos en la microbiota. En agricultura, facilita la comprensión del papel de los microorganismos en el crecimiento de plantas, ayudando a optimizar cultivos y reducir el uso de químicos. Además, en ecología, permite evaluar el impacto de cambios ambientales en comunidades microbianas, aportando datos valiosos para la conservación de ecosistemas. Los análisis funcionales son clave para predecir el metabolismo comunitario, identificando genes asociados con rutas metabólicas específicas, resistencia antimicrobiana, o producción de metabolitos de interés biotecnológico. Estas capacidades, respaldadas por tecnologías avanzadas de secuenciación y estrategias bioinformáticas, ofrecen herramientas críticas para la investigación científica y el desarrollo de soluciones prácticas. Aquí tienes una descripción adaptada al análisis bioinformático de microbiota mediante QIIME 2, siguiendo el formato del ejemplo proporcionado:",
+        "descr3": "Softwares y Herramientas: <br>QIIME 2 es un software líder en el análisis bioinformático de microbiota. A continuación, algunos de los módulos y herramientas disponibles dentro de QIIME 2: <br>Control de calidad: DADA2, Deblur.<br>Clasificación taxonómica: SILVA, Greengenes, UNITE.<br>Análisis de diversidad: Faith’s PD, Shannon, Bray-Curtis, UniFrac.<br>Visualización: Emperor, QIIME 2 View.<br>Análisis funcional predictivo: PICRUSt2, Tax4Fun.<br>Integración de datos: R, Python.<br>Estas herramientas permiten realizar análisis personalizados y reproducibles, adaptados a las necesidades de cada proyecto, garantizando resultados de alta calidad.",
+        "descr4": "NONE",
+        "img1": "\\img\\bioinf\\microbiota1.jpg",
+        "img2": "\\img\\bioinf\\microbiota2.jpg",
+        "img3": "\\img\\bioinf\\microbiota3.jpg",
+        "img4": "NONE"
     }
 ]
