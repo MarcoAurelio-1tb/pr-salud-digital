@@ -365,3 +365,21 @@ margin-bottom: 20px;
     }
 }
 /* #endregion */
+
+/* #region modalprincipales*/
+#modalNoticiaImagen {
+    max-width: 90%;  /* Ajusta el tamaño relativo al modal */
+    height: 50%;
+    display: block;  /* Para centrarla */
+    margin: 0 auto; 
+}
+
+.noticia-principal{
+    cursor: pointer;
+}
+
+.modal-text{
+    font-size: .8rem;
+    text-align: justify;
+}
+/* #endregion */

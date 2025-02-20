@@ -9,7 +9,7 @@ fetch('../js/serviciosBio.json') // Asegúrate de que la ruta sea correcta
             number++;
             // Crear la tarjeta dinámica
             const servicioElement = document.createElement('div');
-            servicioElement.classList.add('col-lg-3', 'col-md-6', 'mb-4');
+            servicioElement.classList.add('col-lg-6', 'col-md-6', 'mb-4');
             servicioElement.innerHTML = `
                 <a href="#" class="hero_cta${number} botonModal" data-modal="modal${number}">
                 <div class="card shadow-sm h-100 border-0 cardhover" style="min-height: 40vh; padding-top: 30px;">
@@ -35,18 +35,18 @@ fetch('../js/serviciosBio.json') // Asegúrate de que la ruta sea correcta
                         </div>
                         <div class="modal_body">
                             <div class="container-fluid d-flex justify-content-center"> <!-- align-items-center : lo pone en medio del div -->
-                                <div class="col-lg-8 col-md-8 col-sm-8 text-center">
+                                <div class="col-lg-10 col-md-10 col-sm-10 text-center">
                                     <p style="font-size: 6.3vh; font-style: italic; font-weight: 500; font-style: oblique;">${servicio.title}</p>
-                                    <p class="info">
+                                    <p class="" style="text-align: justify;">
                                         ${servicio.descr1}
                                     </p>
                                 </div>
                             </div>
                             <div class="row justify-content-center align-items-center text-center" style="margin-top: 50px;">
-                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                <div class="col-lg-6 col-md-6" style="text-align: justify;">
                                     ${servicio.descr2}
                                 </div>
-                                <div class="col-lg-5 col-md-6">
+                                <div class="col-lg-4 col-md-4">
                                     <img src="${servicio.img2}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
                                 </div>
                             </div>
@@ -54,15 +54,15 @@ fetch('../js/serviciosBio.json') // Asegúrate de que la ruta sea correcta
                                 <div class="col-lg-5 col-md-6">
                                     <img src="${servicio.img3}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
                                 </div>    
-                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                <div class="col-lg-5 col-md-5" style="text-align: justify;">
                                     ${servicio.descr3}
                                 </div>
                             </div>
                             <div class="row justify-content-center align-items-center text-center" style="margin-top: 50px;">
-                                <div class="col-lg-5 col-md-5 offset-md-1">
+                                <div class="col-lg-10 col-md-10 mb-3">
                                     ${servicio.descr4}
                                 </div>
-                                <div class="col-lg-5 col-md-6">
+                                <div class="col-lg-10 col-md-10">
                                     <img src="${servicio.img4}" alt="Imagen de Salud" class="img-fluid shadow-sm" style="max-height: 400px; width: 100%; border-radius: 10px;">
                                 </div>
                             </div>

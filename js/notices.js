@@ -79,3 +79,30 @@ fetch('../js/notices.json') // Cambia la ruta según la ubicación de tu archivo
         });
     })
     .catch(error => console.error('Error al cargar el JSON:', error));
+
+/* NEW MODAL */
+document.addEventListener("DOMContentLoaded", () => {
+    const noticias = document.querySelectorAll(".noticia-principal");
+
+    noticias.forEach(noticia => {
+        noticia.addEventListener("click", () => {
+            const titulo = noticia.getAttribute("data-titulo");
+            const descripcion = noticia.getAttribute("data-descripcion");
+            const imagen = noticia.getAttribute("data-imagen");
+            const url = noticia.getAttribute("data-url");
+
+            document.getElementById("modalNoticiaLabel").textContent = titulo;
+            document.getElementById("modalNoticiaDescripcion").textContent = descripcion;
+            document.getElementById("modalNoticiaImagen").src = imagen;
+
+            // Seleccionamos el botón correctamente
+            const modalBtn = document.querySelector(".modal-btn");
+            if (modalBtn) {
+                modalBtn.href = url;
+            }
+        });
+    });
+});
+
+
+/* #endregion */
