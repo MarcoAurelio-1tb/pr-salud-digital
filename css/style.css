@@ -187,7 +187,21 @@ footer a:hover {
 
 /* #endregion */
 
+/* #region servicios*/
 
+.expanded-content {
+    display: none;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+/* #endregion */
+
+
+/* TELEMEDICINA */
+
+.descr-telemed {
+    font-size: 1.1rem;;
+}
 
 
 /* SECCION DE VIDEOS*/
