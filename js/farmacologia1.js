@@ -109,7 +109,7 @@ fetch('../js/farmacos.json')
             for (let i = 1; i <= totalPaginas; i++) {
                 let boton = document.createElement('button');
                 boton.textContent = i;
-                boton.classList.add('btn', 'btn-primary', 'm-1', 'page-btn');
+                boton.classList.add('m-1', 'paginacion');
                 if (i === paginaActual) boton.classList.add('active');
                 boton.addEventListener('click', () => {
                     paginaActual = i;

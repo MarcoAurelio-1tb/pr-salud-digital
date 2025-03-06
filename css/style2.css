@@ -370,18 +370,27 @@ footer{
 }
 
 
-.pagination {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+
+
+button.paginacion {
+    margin: 5px;
+    padding: 10px 16px;
+    background: linear-gradient(45deg, #414BB2, #7937a5);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.pagination-btn {
-    margin: 5px;
-    padding: 8px 12px;
-    border: none;
-    background-color: #007bff;
-    color: white;
-    cursor: pointer;
-    border-radius: 5px;
+button.paginacion:hover {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+button.paginacion.active {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
