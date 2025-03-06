@@ -1,7 +1,7 @@
 
 /* Creamos una constante que almacenará la clase del DIV a expandir con el modal*/
 // Cargar el archivo JSON
-fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu archivo JSON
+fetch('../js/farmacos.json') // Cambia la ruta según la ubicación de tu archivo JSON
     .then(response => response.json())
     .then(data => {
         const noticiasContainer = document.getElementById('medicamentos');
@@ -14,7 +14,7 @@ fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu 
             number = number+1;
             const noticiaElement = document.createElement('div');
 
-            noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Cada noticia ocupa 4 columnas en pantallas medianas
+            noticiaElement.classList.add('col-md-4', 'col-lg-4', 'col-sm-6', 'mb-4'); // Cada medicamento ocupa 4 columnas de las 12 en total
             
             noticiaElement.innerHTML = `
                 <a href="#" class="hero_cta${number} botonModal" data-modal="modal${number}">
@@ -38,8 +38,11 @@ fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu 
                         <div class="linea_med" style="background-color: ${medicamento.color};"></div> <!-- Línea morada -->
                         
                         <div class="modal_left">
-                            <img src="${medicamento.imagen}" class="modal_img1">
+                        <br><br>
+                            <div class="w3r-circle" style="padding-top: 20px; height: 80px; width: 80px; border-radius: 100%; background:${medicamento.color}; margin: 0 auto;"></div>
                             
+
+                            <br>
                             <!---PRESENTACION Y LO DEMAS AQUI ABAJO!--->
                             <h5>Presentación</h5>
                             <p class="modal_paragraph1">
@@ -47,7 +50,7 @@ fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu 
                             </p><br>
                             <h5>Vía de Administración</h5>
                             <p class="modal_paragraph1">
-                                ${medicamento.viadmin}
+                                ${medicamento.via}
                             </p><br>
 
                             <h5>Efectos adversos</h5>
@@ -76,7 +79,7 @@ fetch('./json farm/farmacos.json') // Cambia la ruta según la ubicación de tu 
 
                                 <br>
                                 <p class="modal_paragraph1">
-                                    ${medicamento.texto}
+                                    ${medicamento.descripcion}
                                 </p>
                             </details>
                             <br>

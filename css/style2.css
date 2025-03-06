@@ -236,12 +236,12 @@ summary{
     background-color: #ffffff;
     margin: auto;
     border-radius: 20px; /* Bordes redondeados */
-    
+    overflow-y: auto; /* Scroll si el contenido es mayor que el contenedor */
+
 
     gap: 1em; /* Espaciado entre elementos */
     transform: var(--transform); /* Transición visual */
     transition: var(--transition); /* Transiciones suaves */
-    overflow-y: auto; /* Scroll si el contenido es mayor que el contenedor */
 }
 
 /* Media Queries para dispositivos pequeños */
@@ -367,4 +367,21 @@ li .farmaco{
 
 footer{
     background-color: white;    
+}
+
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination-btn {
+    margin: 5px;
+    padding: 8px 12px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
 }
