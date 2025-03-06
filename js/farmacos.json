@@ -610,7 +610,7 @@
       "interacc": "Metformina: aumenta la concentración plasmática de este medicamento.                                   De manera simultánea con aminoglucósidos puede afectar el funcionamiento renal ",
       "contra": "Hipersensibilidad a las cefalosporinas",
       "efectos": "Náuseas \nVómitos \nDiarrea\nReflujo \nDolor abdominal \nFatiga\nHepatitis transitoria \nIctericia \nAlteración de las células del hígado reacciones alérgicas\nUrticaria\nHinchazón de cara, labios y lengua erupción cutánea, prurito genital y anal ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -624,7 +624,7 @@
       "interacc": "Solución inyectable",
       "contra": "Solución inyectable",
       "efectos": "Solución inyectable",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -640,7 +640,7 @@
       "contra": "Hipersensibilidad a cefuroxima u otro antibiótico cefalosporínico;  antecedente de alergia a  penicilinas. ",
       "efectos": "Sobrecrecimiento de candida; descenso de la hemoglobina, cefalea, mareo diarrea, náuseas, dolor abdominal, aumento de las enzimas hepáticas, reacción en lugar de inyección. ",
       "Notas": "La administración  oral debe realizarse justo después de las comidas ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -654,7 +654,7 @@
       "interacc": "Abciximab: disminuye la eficacia terapéutica. Abacavir y Acamprosato: disminuye la tasa de excreción de estos.      Acemetacina: aumenta el riesgo de nefrotoxicidad ",
       "contra": "Alergia a cefalosporinas. ",
       "efectos": "DESCRIPCIÓN EN REVISION",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -668,7 +668,7 @@
       "interacc": "La ceftazidima no deberá mezclarse físicamente con aminoglucósidos debido a que se inactivan mutuamente, asimismo, tampoco deberá combinarse con vancomicina debido a que puede ocurrir precipitación. Es decir, estas combinaciones no deben hacerse en el mismo frasco, jeringa, bolsa ni equipo. Un caso similar ocurre con el cloramfenicol.\r\n\r\nSe recomienda evitar el empleo de alcohol vía oral o parenteral en pacientes que están utilizando cefalosporinas.",
       "contra": "Hipersensibilidad a ceftazidima o cefalosporinas. ",
       "efectos": "Erupcion cutánea, prurito, fiebre,  dolor en el sitio de aplicación, náuseas, vómito, diarrea, elevación de algunas enzimas hepáticas, cefaleas, mareos, sabor bucal desagaradable. En caso de tratamiento prolongado puede presentade sobreinfección por microorganismos no sensibles. ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -677,7 +677,7 @@
       "contra": "Hipersensibilidad a las cefalosporinas y penicilinas. Pacientes con colitis pseudomembranosa, pancreatitis, deshidratacion, falla renal o insuficiencia renal grave. ",
       "efectos": "Dolor e induración en el sitio de aplicación , sarpullido, comezon, hinchazon, diarrea, nauseas, estomatitis, glositis. ",
       "Notas": "Por vía intravenosa al menos administrar durante 30 minutos.                                                                                        Vía intramuscular reconstituis el contenido del vial con el disolvente de la ampolleta, inyectar profundamente en la región glútea. Se recomienda no inyetar más de 1g en cada lado.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -692,7 +692,7 @@
       "contra": "Hipersensibilidad al principio activo, a otras cefalosporinas o a cefamicinas. ",
       "efectos": "Comezon, ronchas, diarrea, dolor abdominal, nnausea o vomito, flatulencia, colitis pseudomembranosa, elevacion de algunas enzimas hepaticas, dolor de cabeza, mareo.",
       "Notas": "Deben tragarse enteras, sin masticar y acompañadas de un poco de líquido. Puede tomarse con o sin alimentos. ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -706,7 +706,7 @@
       "interacc": "Nefrotoxicidad con: aminoglucosidos, colistina, polimixina, viomicina, cloranfeicol, diureticos potentes.                                                                                                                                                                                                  Biodisponibilidad aumentada por: bloqueadores de canales de calcio (nifedipino)                                         Reduce la eficacia de: anticonceptivos orales                                                                                                                               Monitorizar parámetros de coagulación con: anticoagulantes cumarinicos. ",
       "contra": "Hipersensibilidad  a cefepima al igual que a la penicilina, a otros antibióticos B-lactámicos y a los cefalosporínicos.   No utilizar en embarazo ni en lactancia. ",
       "efectos": "Erupción cutánea, comezon, náusea, vómito, candidiasis oral, diarrea, colitis, cefalea, fiebre, vaginisitis, eritema, vértigo, dificultad para respirar, escalofrios, dolor abdominal y estreñimiento. Dolor e inflamación en lugar de inyección ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -720,7 +720,7 @@
       "interacc": "Antibióticos bacteriostáticos. Monitorizar función renal con : diuréticos del asa o aminoglucósidos.",
       "contra": "Hipersensibilidad a carbapenémicos e hipersensibilidad grave a ß-lactámicos.",
       "efectos": "Trombocitemia; cefalea; diarrea, vómitos, náuseas, dolor abdominal; aumento de transaminasas, fosfatasa alcalina sanguínea y deshidrogenasa láctica sanguínea, rash, prurito; en lugar iny.: inflamación, dolor.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -734,7 +734,7 @@
       "interacc": "Anticoagulantes orales: La administración simultánea de antibióticos con warfarina puede aumentar sus efectos anticoagulantes. Ha habido muchas notificaciones de aumentos de los efectos anticoagulantes de agentes anticoagulantes administrados oralmente, incluyendo warfarina, en pacientes que han recibido concomitantemente agentes antibacterianos. El riesgo puede variar con la infección subyacente, edad y estado general del paciente, de manera que es difícil de evaluar la contribución del antibiótico al incremento en el INR (“International Normalized Ratio”). Se recomienda que el INR debe monitorizarse frecuentemente, durante y justo al terminar la co-administración de antibióticos con agentes anticoagulantes orales.",
       "contra": "Hipersensibilidad al principio activo, a otras cefalosporinas o hipersensibilidad inmediata y grave a cualquier otro tipo de betalactámico.",
       "efectos": "Rash, prurito; cefalea, mareo; flebitis; diarrea, náuseas, vómitos, dolor abdominal; transaminasas aumentadas; pirexia, reacciones en el lugar de la perfus. (eritema, flebitis, dolor); test de Coombs directo positivo.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -749,7 +749,7 @@
       "interacc": "No se han realizado estudios clínicos de interacción fármaco-fármaco con ceftarolina fosamil.",
       "contra": "está contraindicado en pacientes con una hipersensibilidad conocida a cualquiera de los componentes de este producto o a otros fármacos en la misma clase o en los pacientes que han demostrado reacciones anafilácticas a los betalactámicos.\n\nDebido a que su diluyente contiene hidrocloruro de lidocaína, INVANZ® administrado por vía intramuscular está contraindicado en pacientes con una hipersensibilidad conocida a los anestésicos locales de tipo amida y en los pacientes en estado de shock intenso o con bloqueo cardiaco. (Consulte la información para prescribir hidrocloruro de lidocaína).",
       "efectos": "Diarrea, náusea, vómito, cefalea, vaginitis, flebitis, tromboflebitis.\n",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -762,7 +762,7 @@
       "interacc": "Cuando se administran al mismo tiempo ertapenem y probenecid, el probenecid compite por la secreción tubular activa, por lo que inhibe la excreción renal del ertapenem. Eso causa aumentos de la semivida de eliminación (19%) y de la exposición sistémica (25%) al ertapenem. No es necesario hacer ningún ajuste de la dosificación cuando se coadministran ertapenem y probenecid. Puede disminuir los niveles séricos del ácido valproico.",
       "contra": "Hipersensibilidad al principio activo o a alguno de los excipientes \nHipersensibilidad a cualquier otro agente antibacteriano carbapenémico\nHipersensibilidad grave (p. ej., reacción anafiláctica, reacción cutánea grave) a cualquier otro tipo de agente antibiótico betalactámico (p. ej., penicilinas o cefalosporinas)",
       "efectos": "Ototoxicidad, náusea, fiebre, hipersensibilidad, superinfecciones.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -775,7 +775,7 @@
       "interacc": "Con aminoglucósidos, amfotericina B y cisplatino aumenta el riesgo de nefrotoxicidad. Se han notificado reducciones en los niveles del ácido valproico que pueden caer por debajo del intervalo terapéutico cuando el ácido valproico se coadministró con agentes carbapenémicos. La bajada de los niveles del ácido valproico puede llevar a un control inadecuado de la convulsión; por tanto, no se recomienda el uso concomitante de ertapenem y ácido valproico/valproato sódico y se deben considerar terapias anticonvulsivas o antimicrobianas alternativas. ",
       "contra": "Hipersensibilidad a teicoplanina. ",
       "efectos": "Eritema, dolor local, tromboflebitis, absceso (IM), rash, prurito, fiebre, escalofríos, broncoespasmo, urticaria, angioedema, dermatitis exfoliativa, necrólisis epidérmica tóxica, eritema multiforme, náusea, vómito, diarrea, eosinofilia, leucopenia, neutropenia, trombocitopenia, elevación de transaminasas, fosfatasa alcalina y creatinina sérica, mareo, cefalea, pérdida auditiva, tinnitus, trastorno vestibular, sobreinfección, pancitopenia.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -789,7 +789,7 @@
       "interacc": "Incompatible con: aminoglucósidos (mezcla IV). Teicoplanina debe utilizarse con cuidado conjuntamente o secuencialmente con otros medicamentos con potencial nefrotóxico y/o neurotóxico/  ototóxico conocido. Estos incluyen por ej. aminoglucósidos, colistina, anfotericina B, ciclosporina, cisplatino, furosemida y ácido etacrínico (ver sección 4.4 “Nefrotoxicidad” y “Ototoxicidad”). Sin embargo, no hay evidencia de toxicidad sinérgica en combinación con teicoplanina. ",
       "contra": "Los antibióticos, como otros medicamentos, deben ser administrados con precaución a pacientes con historial de reacciones alérgicas a compuestos estructuralmente relacionados. Los estudios actuales señalan que no se produce reacción de hipersensibilidad cruzada con antibióticos beta-lactámicos. Sin embargo, como medida de precaución en pacientes con historia de reacciones de hipersensibilidad inmediata. En pacientes con insuficiencia renal o con insuficiencia hepática, se recomienda una cuidadosa observación clínica durante el tratamiento (ver sección 4.2, en lo relativo a la reducción de dosis).. ",
       "efectos": "Erupción cutánea, diarrea, fiebre, aumento de eosinófilos, plaquetas, AST, ALT, creatinina sérica, neutropenia; reacciones locales: dolor, eritema, induración, flebitis. Por vía inhalatoria: tos, congestión nasal, sibilancias, dolor faringolaríngeo, disnea, pirexia, broncoespasmo, molestias torácicas, rinorrea, hemoptisis, exantema, artralgias, descenso en pruebas de función pulmonar.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -802,14 +802,14 @@
       "via": "Via intravenosa",
       "indicaciones": "Infecciones del tracto urinario, complicadas y no complicadas, incluyendo pielonefritis, cistitis inicial y recurrente, y bacteriuria asintomática; del tracto respiratorio inferior incluyendo neumonía y bronquitis (también mejoría clínica en exacerbación pulmonar aguda de fibrosis quística); septicemia/bacteriemia; de piel y tejidos blandos incluyendo heridas post-operatorias, úlceras y quemaduras; de huesos y articulaciones; intraabdominales incluida peritonitis; ginecológicas incluyendo EPI, endometritis y celulitis pélvica; urogenitales o anorrectales no complicadas por cepas de N. gonorrhoeae que produzcan o no betalactamasas. Terapia adyuvante en cirugía en infección por microorganismo sensible. Por vía inhalatoria: tto. infección pulmonar crónica por P. aeruginosa en pacientes ≥ 6 años con fibrosis quística.",
       "interacc": "Posible aumento del tiempo de protrombina con: anticoagulantes orales.\nEfecto antagonizado por: ciertos antibióticos (imipenem, cefoxitina).\nLab: puede interferir con determinación analítica de transaminasas; falsos + de glucosa en orina; falsos + en test de Coombs directo o indirecto.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
       "titulo": "Ácido clavulànico",
       "contra": "Hipersensibilidad a ß-lactámicos.",
       "efectos": "(posiblemente por el ß-lactámico) reacción alérgica, rash cutáneo, alteración gastrointestinal, náuseas, vómitos, diarrea, elevación transitoria de transaminasas y fosfatasa alcalina; flebitis tras administración IV.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -824,19 +824,19 @@
       "interacc": "No se han observado interacciones farmacológicas clínicamente significativas.",
       "contra": "Hipersensibilidad a ß-lactámicos.",
       "efectos": "(posiblemente por el ß-lactámico) reacción alérgica, rash cutáneo, alteración gastrointestinal, náuseas, vómitos, diarrea, elevación transitoria de transaminasas y fosfatasa alcalina; flebitis tras administración IV.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
       "titulo": "Tazobactam",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
       "titulo": "Avibactam",
       "contra": "Hipersensibilidad a tetraciclinas. Embarazo (2ª mitad). Lactancia. Niños < 8 años. En pacientes con insuficiencia renal o hepática, estados hemorragíparos, albuminuria, hematuria y gastritis.",
       "efectos": "Náusea, vómito, diarrea, anorexia, aumento de urea sanguínea, urticaria, erupción, dermatitis, coloración permanente de dientes e inhibición de desarrollo óseo en niños, sobreinfección, anemia hemolítica, eosinofilia, trombocitopenia.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -851,7 +851,7 @@
       "interacc": "En virtud de que se ha demostrado que las tetraciclinas disminuyen la protrombina plasmática, los pacientes que conlleven una terapia anticoagulante pueden requerir ajustar la dosificación de esta última.\n\nLas tetraciclinas no deben utilizarse conjuntamente con penicilina y sus derivados en virtud de interferir con la acción bactericida de estos últimos.\n\nLas tetraciclinas pueden interactuar con los anticonceptivos orales y hacerlos menos efectivos. Los antiácidos a base de hidróxido de aluminio y magnesio, el carbonato de calcio, la leche y los refrescos de cola pueden bloquear o disminuir la absorción del clorhidrato de tetraciclina.",
       "contra": "El medicamento está contraindicado en personas que han mostrado hipersensibilidad a cualquiera de las tetraciclinas.\nEstá contraindicado su empleo durante el desarrollo dental (última mitad del embarazo, lactancia y niños hasta los 8 años), puede dar un cambio de coloración permanente de los dientes.\nEsta reacción indeseable es más frecuente con su uso prolongado, aunque ha sido observada después de tratamientos cortos repetidos. Asimismo, se han reportado casos de hipoplasia del esmalte. Por lo tanto, no debe utilizarse la doxiciclina en los grupos de edades mencionados, a menos que: no estén disponibles otros antibióticos, que en caso de tenerlos sea poco probable su efectividad, o bien que estén contraindicados.\nSe ha observado fotosensibilidad en algunos individuos que toman tetraciclinas, en forma de una exagerada quemadura solar. Los enfermos que por cualquier circunstancia queden expuestos a la luz directa del sol o de los rayos ultravioleta, deberán ser instruidos de que puede ocurrir esta reacción con el uso de las tetraciclinas y deberá suspenderse su administración a la primera manifestación de eritema cutáneo.",
       "efectos": "Debido a que la doxiciclina es prácticamente completa, los efectos indeseables gastrointestinales no son frecuentes. Se han observado los siguientes efectos colaterales en los pacientes que han recibido tetraciclinas:\nGastrointestinales: Anorexia, náuseas, vómito, diarrea, glositis, disfagia, enterocolitis y procesos inflamatorios de la región anogenital. Estas reacciones se han observado tanto con la administración oral como parenteral de tetraciclinas. Se han reportado casos raros de esofagitis y úlceras esofágicas en pacientes que han recibido tetraciclinas en forma de cápsulas y tabletas.\nPiel: Rash maculopapular y eritematoso. Aunque es raro, se han reportado casos de dermatitis exfoliativa.\nReacciones de hipersensibilidad: Urticaria, angioneurótico, anafilaxia púrpura anafilactoide, pericarditis y exacerbación de lupus eritematoso sistémico.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -865,7 +865,7 @@
       "interacc": "Debido a que las tetraciclinas han mostrado disminuir la actividad protrombínica del plasma, los enfermos que estén recibiendo terapia anticoagulante pueden necesitar un ajuste bajando las dosis del anticoagulante.\n\nYa que las drogas bacteriostáticas pueden interferir con efecto bactericida de la penicilina, se recomienda no dar doxiciclina de manera concomitante con la penicilina.\n\nLa absorción de las tetraciclinas es alterada por antiácidos que contengan aluminio, calcio o magnesio y preparaciones que contengan hierro.\n\nLos barbituratos, carbamazepina y la fenitoína disminuyen la vida media de la doxiciclina.\n\nEl uso concomitante de las tetraciclinas con metoxiflurano ha sido reportado con resultados de toxicidad renal fatal.",
       "contra": "Hipersensibilidad a tetraciclinas. 2ª mitad de embarazo. Lactancia. Niños < 8 años. ",
       "efectos": "Coloración permanente en dientes e inhibición de desarrollo óseo en niños; anorexia, náusea, vómito, diarrea, urticaria, erupción, dermatitis, sobreinfección, anemia hemolítica, trombocitopenia, eosinofilia.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -879,7 +879,7 @@
       "interacc": "Aumenta acción de: anticoagulantes; disminuir dosis.\nNo administrar con: antibióticos bactericidas.La absorción intestinal de la minociclina puede reducirse por quelación con la administración concomitante de antiácidos con aluminio, magnesio o calcio, cationes como hierro, zinc y sales de bismuto, cimetidina, bicarbonato de sodio y productos lácteos. La minociclina puede incrementar los niveles séricos y posible toxicidad de digoxina, litio y warfarina. La minociclina puede reducir la eficacia de los anticonceptivos orales y disminuir los requerimientos de insulina. ",
       "contra": "está contraindicada para uso en pacientes con hipersensibilidad conocida a la tigeciclina. ",
       "efectos": "Náusea, vómito, diarrea, mareo, cefalea, flebitis, prurito, erupción cutánea. ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -893,7 +893,7 @@
       "interacc": "Con warfarina (vigilancia de tiempos de coagulación), con anticonceptivos orales disminuye la eficacia anticonceptiva. ",
       "contra": "Alergia a los antibióticos de la familia de aminoglucósidos.\nHipersensibilidad a aminoglucósidos.\nMiastenia.",
       "efectos": "Ototoxicidad, sordera, parestesia bucal, neuropatía periférica, neuritis óptica, escotoma, dermatitis exfoliativa.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -908,7 +908,7 @@
       "interacc": "Evitar uso concomitante o consecutivo a: medicamentos neuro o nefrotóxicos (cisplatino, ciclosporina A, polimixina B, colistina, cefaloridina, aminoglucósidos, diuréticos potentes). Interacción con los exámenes clínicos: La ESTREPTOMICINA puede causar falsos positivos en la utilización del reactivo de cobre para la búsqueda de una glucosuria. Problemas particulares de desequilibrio en el INR: Muchos casos de aumento de la actividad de los anticoagulantes orales han sido reportados en pacientes tratados con antibióticos. \nRiesgo de enmascaramiento de signos de toxicidad vestibular con: antivertiginosos.",
       "contra": "Antecedentes de hipersensibilidad o de reacciones tóxicas graves a la gentamicina u otros aminoglucósidos.",
       "efectos": "Nefrotoxicidad: elevaciones de creatinina sérica, albuminuria, presencia en orina de cilindros, leucocitos o eritrocitos, azotemia, oliguria; neurotoxicidad-ototoxicidad: toxicidad del VIII par craneal (pérdida de la audición, vértigo, daño coclear incluyendo pérdida de la audición en frecuencias altas), mareos, ataxia, vértigo, tinnitus, zumbido de oídos; neurotoxicidad-bloqueo neuromuscular: parálisis muscular aguda y apnea, entumecimiento, hormigueo, espasmos musculares y convulsiones. Además: lesión renal aguda, pérdida de audición irreversible y sordera. En tto. prolongado y dosis altas: síndrome adquirido de Fanconi.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -922,7 +922,7 @@
       "interacc": "Relajantes musculares y éter: La actividad de bloqueo neuromuscular de los aminoglucósidos se ve potenciada por el éter y los relajantes musculares.\nSi la gentamicina se administra durante o inmediatamente después de una intervención quirúrgica, el bloqueo neuromuscular puede potenciarse y prolongarse si se utilizan relajantes musculares no despolarizantes. Estas interacciones pueden causar bloqueo neuromuscular y parálisis respiratoria. Debido al aumento del riesgo, estos pacientes deben ser vigilados con especial cuidado.\nLa inyección con cloruro de calcio puede revertir el bloqueo neuromuscular debido a los aminoglucósidos.\nAnestesia con metoxiflurano: Los aminoglucósidos pueden aumentar el efecto perjudicial para el riñón del metoxiflurano. Cuando se utilizan simultáneamente, es posible que se produzcan nefropatías muy graves. El anestesista debe conocer el uso de aminoglucósidos antes de una intervención quirúrgica.\nFármacos potencialmente nefrotóxicos u ototóxicos: Debido al mayor riesgo de efectos no deseados, se requiere una cuidadosa supervisión de los pacientes que reciben tratamiento simultáneo o secuencial con fármacos potencialmente nefrotóxicos u ototóxicos como, por ejemplo, anfotericina B, colistina, ciclosporina, cisplatino, vancomicina, estreptomicina, viomicina, otros aminoglucósidos, algunas cefalosporinas y diuréticos del asa como el ácido etacrínico y la furosemida.\nEn el caso de los fármacos que contienen cisplatino, hay que tener en cuenta que la nefrotoxicidad de la gentamicina puede aumentar incluso 3 o 4 semanas después de la administración de estas sustancias.\nOtros antibióticos: Se ha notificado una reducción de la vida media sérica de la gentamicina en pacientes con insuficiencia renal grave que reciben carbenicilina concomitantemente con gentamicina.",
       "contra": "Hipersensibilidad a aminoglucósidos. No debe administrarse simultáneamente con productos neuro o nefrotóxicos ni con potentes diuréticos.",
       "efectos": "Nefrotoxicidad: elevaciones de creatinina sérica, albuminuria, presencia en orina de cilindros, leucocitos o eritrocitos, azotemia, oliguria; neurotoxicidad-ototoxicidad: toxicidad del VIII par craneal (pérdida de la audición, vértigo, daño coclear incluyendo pérdida de la audición en frecuencias altas), mareos, ataxia, vértigo, tinnitus, zumbido de oídos; neurotoxicidad-bloqueo neuromuscular: parálisis muscular aguda y apnea, entumecimiento, hormigueo, espasmos musculares y convulsiones.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -936,7 +936,7 @@
       "interacc": "El empleo consecutivo o concomitante de medicamentos neurotóxicos u ototóxicos se deberá evitar para no potenciar sus efectos tóxicos.\n\nSe ha observado nefrotoxicidad con el uso concomitante de aminoglucósidos y cefalosporinas.\n\nEl empleo de amikacina y anestésicos o bloqueadores neuromusculares puede intensificar el efecto de estos últimos.",
       "contra": "Contraindicaciones: Hipersensibilidad al fármaco.\nPrecauciones: Pacientes recibiendo concomitantemente por vía parenteral aminoglucósidos, deberán ser monitoreados.",
       "efectos": "Puede presentarse toxicidad ocular e hipersensibilidad, incluyendo prurito, lagrimeo, inflamación de los párpados, dolor ocular y eritema conjuntival.\n",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -950,7 +950,7 @@
       "interacc": "No se debe administrar concomitantemente con alfa dornasa, agonistas beta, corticoesteroides inhalados, ni otros antibióticos contra pseudomonas, tampoco con aminoglucósidos parenterales, fármacos neurotóxicos u ototóxicos, y diuréticos como ácido etacrínico y furosemida, ni con urea o manitol.",
       "contra": "Hipersensibilidad conocida a la Neomicina u otros antibióticos; aminoglucósidos tales como: gentamicina, estreptomicina, amikacina o tobramicina; obstrucción intestinal o I.R.",
       "efectos": "Náuseas y vómitos intensos, gran aumento o disminución de la frecuencia urinaria o del volumen de orina; contracciones musculares, entumecimiento, convulsiones, hormigueo; cualquier grado de pérdida de audición, sensación de taponamiento en los oídos, inestabilidad y mareos; dificultad al respirar,\ndebilitamiento, diarrea, incremento de gas, espuma, eliminación grasa; rash cutáneo, irritación o dolor del área rectal.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -964,7 +964,7 @@
       "interacc": "Furosemida, amfotericina B, cisplatino, aciclovir, bacitracina, cefalosporina, polimixina B, vancomicina.",
       "contra": "Pacientes con hipersensibilidad a la eritromicina, insuficiencia hepática y renal severas. Hipersensibilidad a eritromicina o a otros macrólidos como azitromicina y claritromicina; tratamiento concomitante con: terfenadina, astemizol, cisaprida, pimozida, ergotamina, dihidroergotamina o con inhibidores de la HMG-CoA reductasa (estatinas) que se metabolizan principalmente en el CYP3A4 (lovastatina o simvastatina), debido al mayor riesgo de miopatía, incluyendo rabdomiólisis; pacientes con prolongación del intervalo QT documentado o congénito.",
       "efectos": "Anorexia; náuseas, vómitos, dolor abdominal en el cuadrante superior, diarrea; incremento de las enzimas hepáticas; exantema.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -978,7 +978,7 @@
       "interacc": "EI uso de eritromicina puede aumentar los efectos de teofilina, digoxina, anticoagulantes orales, ergotamina, dihidroergotamina, triazolam, carbamacepina, ciclosporina, fenobarbital y fenitoína. Debe vigilarse los niveles séricos de los medicamentos metabolizados por el sistema del citocromo P-450.\nLos pacientes que reciben concomitante lovastatina y eritromicina deberán monitorearse cuidadosamente, ya que se han reportado casos de rabdomiólisis.",
       "contra": "Hipersensibilidad conocida a los componentes de la fórmula o cualquier otro antibiótico macrólido; pacientes bajo tratamiento con terfenadina, cisaprida, primozida y rifabutin, ya que se ha asociado a prolongación del segmento Q-T, arritmias cardiacas incluyendo taquicardia, fibrilación ventricular y torsades de pointes.",
       "efectos": "Náusea, vómito, dispepsia, dolor abdominal, diarrea, urticaria, cefalea.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -992,7 +992,7 @@
       "interacc": "Incrementa los efectos de terfenadina, carbamazepina, cisaprida, digoxina, ergotamina, teofilina, zidovudina y triazolam. ",
       "contra": "El uso de este producto está contraindicado en pacientes con hipersensibilidad a la azitromicina, eritromicina y macrólido o antibióticos cetólidos o a cualquier otro excipiente.",
       "efectos": "Diarrea, heces blandas, malestar abdominal, náuseas, vómito y flatulencia. Dolor local e inflamación en el sitio de infusión. Trastornos psiquiátricos: Reacción agresiva, nerviosismo, agitación y ansiedad.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1006,7 +1006,7 @@
       "interacc": "Se ha precipitado ergotismo al administrar simultáneamente con algunos antibióticos macrólidos. Así mismo estos antibióticos alteran el metabolismo microbiano de la digoxina en el intestino en algunos pacientes. No tomar en forma simultánea con antiácidos. Junto con otros macrólidos, pueden producir interacciones con los medicamentos por reducir su metabolismo hepático por enzimas P450",
       "contra": "Hipersensibilidad a clindamicina o lincomicina. Además vía oral: antecedentes de colitis asociada a antibióticos. La clindamicina está contraindicada en pacientes con antecedentes de hipersensibilidad a la clindamicina, a la incomicina o a los componentes de la formulación, con antecedentes de colitis uIcerosa, daño renal o hepático severo o desórdenes gastrointestinales.",
       "efectos": "Colitis pseudomembranosa, diarrea, dolor abdominal, alteraciones en PFH; vía IM: irritación local, dolor, induraciones, abscesos estériles; vía IV: dolor, tromboflebitis.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1021,7 +1021,7 @@
       "interacc": "Riesgo de bloqueo neuromuscular con: otros bloqueantes neuromusculares (por ej. tubocurarina, pancuronio o suxametonio), monitorizar.\nEvitar con: vacuna oral contra el tifus (no administrar en los 3 días anyeriores y posteriores a la vacunación).\nAclaramiento disminuido con: inhibidores de CYP3A4 y CYP3A5.\nAclaramiento aumentado con: inductores de CYP3A4 y CYP3A5 (ej. rifampicina).\nAntagonismo con: eritromicina.\nPuede disminuir efecto bactericida de: aminoglucósidos.\nIncremento de pruebas de coagulación (INR) y/o hemorragia con: antagonistas de la vitamina K (acenocumarol, warfarina, fluindiona).",
       "contra": "Hipersensibilidad al principio activo o a alguno de los excipientes incluidos en la sección 6.1.\nAntecedentes de depresión de médula ósea o discrasias sanguíneas.\nInfecciones menores, profilaxis o cuando puedan utilizarse antibacterianos menos tóxicos.",
       "efectos": "Náusea, vómito, diarrea, cefalea, confusión; anemia aplásica. En recién nacidos \"síndrome gris\". Se ha reportado la ocurrencia, muy rara y no confirmada, de discrasias sanguíneas posiblemente relacionadas con el uso inadecuado y no vigilado de cloranfenicol tópico.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1034,7 +1034,7 @@
       "indicaciones": "está indicado para el tratamiento de las infecciones externas del ojo y/o de sus anexos que afectan párpados, conjuntiva y/o córnea causadas por microorganismos sensibles al cloranfenicol, como: conjuntivitis, blefaritis, queratitis, queratoconjuntivitis, blefaroconjuntivitis, etcétera.",
       "interacc": "Incrementa los efectos adversos del voriconazol y con warfarina incrementa los riesgos de sangrado.",
       "contra": "Hipersensibilidad a linezolid o a alguno de los excipientes.\nLinezolid no debe usarse en pacientes que estén tomando medicamentos que inhiban las monoaminooxidasas A o B (p.ej. fenelzina, isocarboxazida, selegilina, moclobemida) ni durante las dos semanas siguientes a la toma dicha medicación.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1048,11 +1048,11 @@
       "interacc": "Con tramadol y paracetamol incrementa el riesgo del síndrome carcinoide. Linezolid es un inhibidor débil, reversible y no selectivo de la monoamina oxidasa. Se han reportado pocos informes espontáneos de liberación de serotonina con la administración conjunta de Linezolid y agentes serotoninérgicos.",
       "contra": "Hipersensibilidad; a menos que se disponga de medios para estrecho control y monitorización: HTA no controlada, feocromocitoma, s. carcinoide, tirotoxicosis, trastorno bipolar, alteración psicoafectiva, estado confusional agudo; concomitancia con: IMAO (ni durante las 2 sem siguientes a interrupción), ISRS, antidepresivos tricíclicos, agonistas 5-HT1 , simpaticomiméticos, vasopresores, dopaminérgicos, petidina, buspirona; lactancia.",
       "efectos": "Candidiasis oral y vaginal, infecciones fúngicas; anemia; insomnio; cefalea, percepción errónea del sabor (sabor metálico), mareos; hipertensión; diarrea, náuseas, vómitos, dolor abdominal localizado o generalizado, estreñimiento, dispepsia; PFH anormales, incremento de AST, ALT y fosfatasa alcalina; prurito, erupción cutánea; incremento del BUN; fiebre, dolor localizado; aumento de LDH, CK, lipasa, amilasa, glucemia no basal; disminución de proteínas totales, albúmina, sodio, Ca, Hb, hematocrito, eritrocito, neutrofilia, eosinofilia; aumento o disminución de plaquetas, leucocitos, potasio, bicarbonato.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1065,7 +1065,7 @@
       "interacc": "Puede aumentar los efectos de anticoagulantes y la deficiencia de folato inducida por fenitoína. Puede desplazar al metotrexato de las proteínas plasmáticas incrementando sus concentraciones.",
       "contra": "no debe utilizarse al final del embarazo o en neonatos durante el primer mes de vida.\n\nHipersensibilidad a los componentes de la fórmula.",
       "efectos": "Náuseas, vómitos. Ocasionalmente: depresión, alucinación, confusión, psicosis, somnolencia, agitación, insomnio, cefalea, mareo, ataxia.  ardor e irritación, y casos muy aislados de anuria, anemia aplástica y síndrome de Stevens-Johnson. Es posible que ocurra cualquiera de las reacciones adversas atribuibles a las sulfonamidas.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1079,7 +1079,7 @@
       "interacc": "Disminuye nivel plasmático de: ciclosporina.\nAumenta nivel plasmático de: fenitoína.\nAumenta toxicidad de: metotrexato y tolbutamida.\nPosible antagonismo con: procaína.\nProlonga vida media de: tolbutamida.",
       "contra": "Hipersensibilidad a la sulfasalazina, sus metabolitos, sulfonamidas o salicilatos. Pacientes con porfiria. ",
       "efectos": "Náusea, vómito, diarrea, cefalea, hepatotoxicidad y nefrotoxicidad, eritema multiforme, dermatitis, oligospermia, Depresión, Dolor abdominal, agravación de la colitis ulcerativa, malestar gástrico, colitis pseudomembranosa. Alopecia, cianosis, necrólisis epidérmica (síndrome de Lyell), eritema, exantema, dermatitis exfoliativa, liquen plano, fotosensibilidad, prurito, síndrome de Stevens-Johnson, pustuloderma tóxica, urticaria, decoloración amarillenta de la piel y de fluidos corporales.\n",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1093,7 +1093,7 @@
       "interacc": "Disminuye la absorción de digoxina y ácido fólico. Debido a la inhibición producida por la sulfasalazina de la tiopurina metiltransferasa (TPMT), se ha reportado supresión de médula ósea y leucopenia cuando se coadministró tiopurina 6-mercaptopurina o su precursor, azatioprina, con sulfasalazina oral.",
       "contra": "En casos de hipersensibilidad al ciprofloxacino o a otros quimioterápicos de tipo quinolónico, el Ciprofloxacino no debe administrarse en niños ni en adolescentes.",
       "efectos": "Náusea, diarrea, vómito, dispepsia, dolor abdominal, flatulencia, anorexia. En casos de diarrea grave o persistente, durante o después del tratamiento con Ciprofloxacino, debe descartarse colitis seudomembranosa, dada la gravedad de esta condición.Mareo, cefalea, cansancio, agitación, temblor, muy raramente: insomnio, desistencia, sudoración, marcha tambaleante, convulsiones, aumento de la presión intracraneana, estados de ansiedad, pesadillas, confusión, depresión, alucinaciones.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1107,7 +1107,7 @@
       "interacc": "Si se usa ciprofloxacino simultáneamente con glibenclamida, la acción de esta última puede potencializarse en casos aislados. La administración simultánea de ciprofloxacino y teofilina puede llevar a un aumento en las concentraciones séricas de teofilina. Experimentos en animales han indicado que la combinación de altas dosis de quinolonas con ciertos medicamentos antiinflamatorios no esteroides (excepto ácido acetilsalicílico) puede conducir a convulsiones. Se observó un aumento transitorio en las concentraciones de creatinina sérica cuando se administró ciprofloxacino y ciclosporina simultáneamente, por lo que se sugiere un control de los niveles de creatinina sérica frecuente (dos veces por semana) en estos pacientes.",
       "contra": "No debe administrarse a pacientes con hipersensibilidad a la Ofloxacina, ni a menores de 18 años.\nSe debe tener precaución en pacientes con padecimientos hepáticos o renales graves y con los que se tengan antecedentes de crisis convulsivas, y si las padecen, deben estar bajo tratamiento anticonvulsivo.",
       "efectos": "Oral: las más frecuentes afectan al tracto gastrointestinal y al SNC. Perfus. IV: dolor y enrojecimiento en lugar iny., flebitis. ",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1120,7 +1120,7 @@
       "interacc": "No debe administrarse simultáneamente con antiácidos porque pueden disminuir su absorción.",
       "contra": "Hipersensibilidad a levofloxacino u otras quinolonas; pacientes con epilepsia; pacientes con antecedentes de trastornos del tendón relacionados con la administración de fluoroquinolonas; niños o adolescentes en fase de crecimiento; embarazo y lactancia.",
       "efectos": "Insomnio; cefalea, mareo; diarrea, vómitos, náuseas; aumento de enzimas hepáticas (ALT/AST, fosfatasa alcalina, GGT). I.V.: flebitis, reacción en el sitio de administración (dolor, enrojecimiento). Levofloxacino uso sistémico: reacciones adversas cutáneas graves, inflamación y rotura de tendones, secreción inadecuada de hormona antidiurética (SIADH)",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1134,7 +1134,7 @@
       "interacc": "Absorción disminuida por: sales de Fe o zinc, antiácidos con Al y Mg, formulaciones de didanosina con Al o Mg que contengan agentes tampón (espaciar 2 h).\nBiodisponibilidad disminuida por: sucralfato, administrarlo 2 h después.\nPrecaución con: fármacos que disminuyen umbral convulsivo (teofilina, fenbufeno, AINE); fármacos que prolongan el intervalo QT (p. ej. antiarrítmicos clase IA y III, antidepresivos tricíclicos, macrólidos, antipsicóticos)\nAclaramiento renal disminuido por: probenecid, cimetidina.\nAumenta semivida de: ciclosporina.\nIncremento en pruebas de coagulación (PT/INR) y/o sangrado con: antagonistas de vit. K (p. ej. warfarina).\nNo mezclar perfus. IV con: heparina, sol. alcalina (p. ej. bicarbonato sódico).\nLab: falso + de opiáceos en orina. Falso - en diagnóstico bacteriológico de tuberculosis.",
       "contra": "Hipersensibilidad a la norfloxacina o a otro antibacteriano quinolónico.",
       "efectos": "Náuseas, anorexia, diarrea; cefalea; mareos; reacciones alérgicas (urticaria, erupciones, prurito). En ancianos: trastornos del SNC (fatiga, somnolencia, confusión).",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1148,7 +1148,7 @@
       "interacc": "No se recomienda el uso simultáneo de norfloxacina con nitrofurantoína, la que antagoniza la acción de aquel en las vías urinarias. No se recomienda el uso simultáneo de norfloxacina y antiácidos.",
       "contra": "Hipersensibilidad conocida a Moxifloxacino u otras quinolonas o a cualquiera de los excipientes. Embarazo y lactancia. Pacientes menores de 18 años. pacientes con historia de enf./trastornos en los tendones asociados al tratamiento con quinolonas; prolongación QT congénita o adquirida y documentada; alteraciones electrolíticas (en particular hipopotasemia no corregida); bradicardia clínicamente relevante; insuf. cardíaca clínicamente relevante con reducción de fracción de eyección ventricular izda.; historial previo de arritmias sintomáticas; concomitancia con prolongadores QT; I.H. (Child Pugh C) y transaminasas 5 x LSN.",
       "efectos": "Sobreinfecciones debidas a bacterias resistentes u hongos (candidiasis oral y vaginal); cefalea, mareo; prolongación QT en pacientes con hipopotasemia; náuseas, vómitos, diarrea, dolor gastrointestinal y abdominal; aumento de transaminasas. Además IV: reacción el lugar de iny.\nOtras reacciones adversas identificadas después de la evaluación de los datos de farmacovigilancia: reacciones adversas cutáneas graves (necrólisis epidérmica tóxica (NET o síndrome de Lyell), síndrome de Stevens-Johnson y pustulosis exantemática generalizada aguda), pancitopenia, síndrome de secreción inadecuada de hormona antidiurética, coma hipoglucémico, delirio y rabdomiólisis.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1162,7 +1162,7 @@
       "interacc": "Contraindicado por riesgo de arritmia ventricular (torsades de pointes) con: antiarrítmicos clase IA (p. ej. quinidina, hidroquinidina, disopiramida) o III (p. ej. amiodarona, sotalol, dofetilida, ibutilida), antipsicóticos (p. ej. fenotiazinas, pimozida, sertindol, haloperidol, sultoprida), antidepresivos tricíclicos, antimicrobianos (saquinavir, esparfloxacino, eritromicina IV, pentamidina, antipalúdicos en especial halofantrina), antihistamínicos (terfenadina, astemizol, mizolastina), cisaprida, vincamina IV, bepridil y difemanilo.\nPrecaución con: fármacos reductores del nivel de K (p. ej. diuréticos del asa y tipo tiazida, laxantes y enemas (dosis altas), corticosteriodes, amfotericina B) o asociados con bradicardia clínicamente significativa.\nEspaciar 6 h de: antiácidos con Mg y Al, sucralfato, didanosina, y agentes con Fe y Zn.\nAbsorción muy disminuida por: carbón activado (no recomendado).\nAumenta acción de: anticoagulantes orales, mayor monitorización de INR.",
       "contra": "Hipersensibilidad a diaminopirimidinas. Anemia megaloblástica. Afección hepática grave. Prematuros, niños < 2 meses. Desaconsejado en embarazo (especialmente en 1 os meses) y lactancia.",
       "efectos": "Náuseas, vómitos, dispepsia, trastornos del gusto, glositis, dolor epigástrico, erupción exantemática, prurito, fotosensibilidad, aumento de creatinina sérica y de nitrógeno ureico.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1176,7 +1176,7 @@
       "interacc": "Absorción disminuida por: antiácidos.\nDisminuye acción de: anticonceptivos orales.\nAumenta toxicidad y/o acción de: azatioprina, dapsona, digoxina, fenitoína, hidroclorotiazida, metotrexato, procainamida, quinapril, zidovudina.\nMayor riesgo de hiperkalemia con: aliskireno, monitorizar.\nMayor riesgo de hipoglucemia con: rosiglitazona (precaución); repaglinida (desaconsejado, si no es evitable monitorización frecuente de glucemia y ajustar dosis).",
       "contra": "Antecedentes de dis­cra­­sias sanguíneas. Enfermedades del sistema nervioso central. Primer trimestre del embarazo.Hipersensibilidad al fármaco.",
       "efectos": "Vértigo, cefalea, náusea, vómito, anorexia, cólicos, diarrea, calambres abdominales, depresión, insomnio.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1190,7 +1190,7 @@
       "interacc": "Con la ingestión de alcohol se produce el efecto antabuse, con la ciclosporina puede aumentar los riesgos de neurotoxicidad.",
       "contra": "No ingerir bebidas alcohólicas mientras dure el tratamiento. Hipersensibilidad al Tinidazol, enfermedades del Sistema Nervioso Central, antecedentes de Discracias sanguíneas, menores de 2 años, lactancia, embarazo, o cuando se supone su existencia.",
       "efectos": "Vértigo, cefalea, náusea, vómito, anorexia, cólicos, dolores abdominales,  exantemas y sabor metálico en la boca.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1204,7 +1204,7 @@
       "interacc": "\nAumenta los efectos anticoagulantes de la warfarina; los barbitúricos inhiben su acción.",
       "contra": "Hipersensibilidad. I.H. grave. Concomitancia con carbamazepina o disulfiram. Lactancia.",
       "efectos": "Náuseas, vómitos, dolor epigástrico, fiebre, mialgia, artralgia, anorexia, elevación de transaminasas, hepatitis agudas raras, neurotoxicidad, parestesia distal, hiperactividad, euforia, insomnio, convulsión, nerviosismo, atrofia óptica.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1218,7 +1218,7 @@
       "interacc": "Asociaciones desaconsejadas: carbamazepina, disulfiram.\nHepatotoxicidad potenciada por: anestésicos volátiles halogenados, pirazinamida, rifampicina.\nAumenta nivel sanguíneo de: anticoagulante derivado de cumarina o indandiona, fenitoína.\nConcentración disminuida por: glucocorticoides.\nDisminuye concentración plasmática de: ketoconazol.",
       "contra": "Hipersensibilidad a rifamicinas. Enf. hepática activa. I.R. grave (Clcr < 25 ml/min). Porfiria. Concomitancia con: asociación saquinavir/ritonavir, voriconazol.",
       "efectos": "Poco frecuentes: anorexia, náuseas, vómitos, molestias abdominales, diarrea.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1232,7 +1232,7 @@
       "interacc": "Precaución, reduce acción de: fenitoína, disopiramida, mexiletina, quinidina, propafenona, tocainida, tamoxifeno, toremifeno, ß-bloqueantes, losartán, diltiazem, nifedipino, verapamilo, digoxina, warfarina, haloperidol, fluconazol, itraconazol, ketoconazol, zidovudina, saquinavir, indinavir, efavirenz, fenobarbital, tiopental, cloranfenicol, claritromicina, doxiciclina, fluorquinolonas, telitromicina, corticoides, ciclosporina, tacrolimús, sirolimús, anticonceptivos hormonales sistémicos, dapsona, quinina, sulfonilureas, tiazolidindionas (rosiglitazona), amitriptilina, nortriptilina, diazepam, fármacos relacionados con benzodiazepinas como zopiclona y zolpidem, analgésicos opioides, clofibrato, anticonceptivos hormonales sistémicos (sustituir por método no hormonal), estrógenos, estatinas metabolizadas por CYP3A4, ondansetrón, imatinib, levotiroxina, metadona, teofilina, gestrinona, prazicuantel, riluzole e irinotecán. Ajustar dosis.\nDisminución mutua de concentración plasmática con: ketoconazol.\nDisminuye concentración de: metabolito activo de enalapril.\nConcentración aumentada por: atovacuona.\nNivel plasmático disminuido por: PAS (espaciar 8 h).\nAbsorción disminuida por: antiácidos (administrar rifampicina mín. 1 h antes).\nHepatotoxicidad con: halotano (evitar concomitancia), isoniazida (vigilar función hepática).\nPerjudica excreción de: métodos de contraste biliares.\nLab: inhibición de métodos microbiológicos estándar de determinación de vit B12 y folatos en suero, elevación transitoria de prueba de bromosulftaleína y de bilirrubina sérica, falso + de opiáceos en orina con método ICMS.",
       "contra": "Hipersensibilidad a rifamicinas. Asociación con ritonavir o saquinavir. Embarazo, lactancia, niños.",
       "efectos": "Náuseas, vómitos, aumento de enzimas hepáticas, ictericia, gastritis, anorexia, diarrea, dolor abdominal, flatulencia, dispepsia, leucopenia, neutropenia, trombocitopenia, anemia, artralgia, mialgia, fiebre, erupción, uveítis media-severa reversible.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1246,7 +1246,7 @@
       "interacc": "Disminuye nivel plasmático de: dapsona, metadona y otros narcóticos, anticoagulantes, corticosteroides, ciclosporina, glucósidos cardiotónicos, quinidina, sulfonilureas y otros hipoglucemiantes, analgésicos, anticonceptivos orales.\nDisminuye acción de: ketoconazol, barbitúricos, diazepam, verapamilo, ß-bloqueantes, clofibrato, progestinas, disopiramida, mexiletina, cloranfenicol, anticonvulsivantes.\nNivel plasmático aumentado por: indinavir, nelfinavir, fluconazol, amprenavir, claritromicina.\nAbsorción disminuida por: PAS, antiácidos.\nNo asociar con: saquinavir, ritonavir.",
       "contra": "Hipersensibilidad, retinopatía diabética, neuritis óptica intensa.",
       "efectos": "Disminución de la agudeza visual debido a la neuritis óptica y relacionada con la dosis y duración del tto.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1260,7 +1260,7 @@
       "interacc": "Los antiácidos reducen la biodisponibilidad del etambutol. Para evitar esta interacción, etambutol se debe tomar al menos 1 hora antes que el antiácido.En el caso de antiácidos que contengan hidróxido de aluminio el margen de tiempo debe ser de al menos de 4 horas desde la administración de etambutol. Debido a su efecto sobre la excreción renal de ácido úrico, etambutol puede alterar la acción de los agentes uricosúricos.\nEl tratamiento concomitante con disulfiram puede aumentar el riesgo de toxicidad ocular.\nEl uso concomitante de BCG y etambutol puede reducir la eficacia del tratamiento intravesical o la vacunación.\nEl uso concomitante de etambutol y etionamida puede potenciar los efectos adversos (tales como efectos gastrointestinales, neurotoxicidad o hepatotoxicidad).\nLa administración conjunta de etambutol y delamanid puede aumentar la cantidad de etambutol en el organismo",
       "contra": "Hipersensibilidad.",
       "efectos": "Anorexia, aumento de transaminasas, hiperuricemia, artralgia. Ocasionalmente: náusea, vómito, diarrea, ictericia, hepatitis, fotodermatitis.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1274,7 +1274,7 @@
       "interacc": "Disminuye acción uricosúrica de: probenecid.\nDisminuye nivel plasmático de: rifampicina.\n\n",
       "contra": "En los pacientes con arteriosclerosis cerebral o con epilepsia; los pacientes con historia de arteriosclerosis cerebral o con enfermedad epiléptica pueden desarrollar convulsiones durante el tto. con quinolonas; incluyendo el ác. nalidíxico; puede desarrollarse anemia en los pacientes con deficiencia en G6PDH; no debe administrarse en < 1 año.",
       "efectos": "Mareos; debilidad; jaquecas; vértigo; fotosensibilidad; deterioro visual; dolor abdominal; rash; angioedema; eosinofilia; artralgia; nausea o vómitos y diarreas. Son raros los episodios de psicosis tóxica o de convulsiones.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
     {
@@ -1286,7 +1286,7 @@
       "via": "via oral, ",
       "indicaciones": "infecciones urinarias no complicadas producidas por bacterias gram-negativas susceptibles; entre los gérmenes que suelen ser sensibles al ác. nalidíxico",
       "interacc": "Los antiácidos; el sucralfato; las multivitaminas y los productos que contienen iones divalentes o trivalentes, reducen la absorción oral de las quinolonas, reduciendo su eficacia.; estos fármacos no deben ser utilizados en las 2 h anteriores a la administración de ác. nalidíxico; el ác. nalidíxico puede desplazar a los anticoagulantes orales de sus puntos de fijación a las proteínas del plasma, incrementando las posibilidades de sangrado o hemorragias; Se recomienda la determinación del INR al iniciar un tto. con ác. nalidíxico.\nLab: obtenerse una reacción falsa positiva para glucosa, debido a la liberación de ác.no dan resultados falsos positivos glucurónico de los metabolitos excretados. Sin embargo, las pruebas colorimétricas para determinación de glucosa basadas en reacciones enzimáticas no dan resultados falsos positivos; se pueden obtener resultados incorrectos para esteroides 17-ceto y cetogénicos en pacientes que estén recibiendo ác. Nalidíxico, debido a una interacción entre el fármaco y el m-dinitrobenceno usado en el método de ensayo. En estos casos, puede usarse la prueba de Porter-Silver para 17-hidroxicorticoides.",
-      "cat": "Antibioticos y Antituberculosis",
+      "cat": "Antibióticos",
       "color": "purple"
     },
 
@@ -1322,7 +1322,7 @@
       "contra": "Tener precaución en pacientes con:                                                                                                                                                  Ingesta Inadecuada de líquidos en adultos mayores                                                                                                                                       Insuficiencia renal                                                                                                                                                                                Cirrosis avanzada                                  ",
       "efectos": "Cefalea, náuseas, mareos, vómitos, diarrea, erupciones, fotosensibilidad, prurito. ",
       "cat": "Antiviral",
-      "color": "#a2df66"
+      "color": "#a2df65"
     },
     {
       "titulo": "Ganciclovir",
@@ -1337,7 +1337,7 @@
       "efectos": "Mielosupresión con neutropenia, eritema, fiebre, malestar, alteración en la función hepática y renal.  Escalofrios, edema, infecciones, arritmias, hipertensión, hipotensión, pensamientos o sueños delirantes, ataxia, coma, confusión, mareos, cefaleas, nerviosimo, parestesia, psicosis, comnolencia, temblores, diarrea, hemorragias, dolor abdominal, disnea, alopecia, pruritpo, urticaria. En sitio de aplicacion: inflamación y dolor. ",
       "Notas": "Para evitar la contaminación, no toque la punta del gotero ni deje que toque su ojo o cualquier otra superficie. Inclina la cabeza hacia atrás, mira hacia arriba y tira hacia abajo del párpado inferior para hacer una bolsa. Sostenga el gotero directamente sobre su ojo y coloque una gota en la bolsa. Mire hacia abajo, cierre suavemente los ojos y coloque un dedo en el rabillo del ojo (cerca de la nariz). Aplique una presión suave durante 1 a 2 minutos antes de abrir los ojos. Esto evitará que el medicamento se drene. Trate de no parpadear ni frotarse el ojo. Repita estos pasos para el otro ojo si así se lo indican. No enjuague el gotero. Vuelva a colocar el tapón del cuentagotas después de cada uso.",
       "cat": "Antiviral",
-      "color": "#a2df67"
+      "color": "#a2df65"
     },
     {
       "titulo": "Valganciclovir",
@@ -1352,7 +1352,7 @@
       "efectos": "Neutropenia (grave), anemia, disnea, diarrea, candidiasis oral, sepsis (bacteriemia, viremia), celulitis, infección urinaria; anemia, trombocitopenia (grave, con amenaza de la vida por hemorragia), leucopenia y pancitopenia graves; disminución de apetito, pérdida de peso, anorexia, depresión, ansiedad, confusión, pensamientos perturbados, cefalea, insomnio, disgeusia, hipoestesia, parestesia, neuropatía periférica, mareo, convulsiones, edema macular, desprendimiento de retina, moscas flotantes, dolor ocular y de oído, tos, náuseas, vómitos, dolor abdominal, dispepsia, estreñimiento, flatulencia, disfagia, alteración hepática (grave), aumento de fosfatasa alcalina y AST, dermatitis, sudor nocturno, prurito, dolor de espalda y torácico, artralgia, mialgia, espasmo muscular, disfunción renal, fatiga, fiebre, rigidez, escalofríos, malestar, astenia, aumento de creatinina sérica.",
       "Notas": "Siempre que sea posible, debe tomarse con alimentos. Es necesario evitar el contacto directo con la piel o las mucosas, en caso de que ocurra, debe lavarse cuidadosamente la zona con agua y jabón; lave los ojos con agua estéril, o con abundante agua si la estéril no está disponible.                                                                                                            Preparacion de solución oral: Agite el frasco para aflojar el polvo; Retire la tapa de la botella a prueba de niños y agregue aproximadamente la mitad de la cantidad total de agua para la constitución a la botella y agite bien la botella cerrada durante aproximadamente 1 minuto\r\n-Agregue el resto del agua y agite bien la botella cerrada durante aproximadamente 1 minuto; La solución preparada contiene 50 mg/mL\r\n-Retire la tapa de la botella a prueba de niños y empuje el adaptador de la botella en el cuello de la botella\r\n-El prospecto del paciente, que incluye las instrucciones de dosificación para los pacientes, y 2 dispensadores orales deben dispensarse al paciente",
       "cat": "Antiviral",
-      "color": "#a2df68"
+      "color": "#a2df65"
     },
     {
       "titulo": "Foscarnet",
@@ -1365,7 +1365,7 @@
       "contra": "Pacientes con hipersensibilid al fármaco ",
       "efectos": "Neurotoxicidad y sintomas de hipocalcemia como parestesias, arritmias y convulsiones. ",
       "cat": "Antiviral",
-      "color": "#a2df69"
+      "color": "#a2df65"
     },
     {
       "titulo": "Oseltamivir",
@@ -1380,7 +1380,7 @@
       "efectos": "Bronquitis, herpes simple, nasofaringitis, infecciones del tracto respiratorio superior, sinusitis; cefalea, insomnio; tos, dolor garganta, rinorrea; náuseas, vómitos, dolor abdominal, dispepsia; dolor, mareos, fatiga, pirexia, dolor en las extremidades; trastornos hepatobiliares (incluye hepatitis fulminante). En niños: otitis media; conjuntivitis (incluyendo enrojecimiento de los ojos, lagrimeo y dolor ocular); cefalea; dolor de oídos; tos, congestión nasal, rinorrea; vómitos, dolor abdominal, dispepsia, náuseas.",
       "Notas": "Los comprimidos y la suspensión oral se pueden tomar con o sin alimentos",
       "cat": "Antiviral",
-      "color": "#a2df70"
+      "color": "#a2df65"
     },
     {
       "titulo": "Zanamivir",
@@ -1395,7 +1395,7 @@
       "efectos": "Dolor de cabeza, dolor de garganta, tos, mareos, náuseas, diarrea, vómitos, sinusitis, bronquitis, fatiga, fiebre, dolor abdominal, mialgia, artralgia, urticaria. ",
       "Notas": "Retire la tapa del inhalador de disco. Antes de usar, revise la boquilla para asegurarse de que esté limpia y libre de partículas. Cargue el disco del medicamento en el inhalador de disco. Perfore una ampolla de medicamento. Mantenga el inhalador de disco nivelado para que el medicamento no se derrame. Exhala por la boca, colócate la boquilla en la boca e inhala por la boca lo más profundamente que puedas. Esto atraerá el medicamento a los pulmones. Aguanta la respiración durante unos segundos. Para tomar otra inhalación, avance al siguiente blíster de medicamento y repita el proceso. Vuelva a colocar la tapa del inhalador de disco. No mezcle este medicamento en polvo con ningún líquido, incluidos los líquidos de los nebulizadores.",
       "cat": "Antiviral",
-      "color": "#a2df71"
+      "color": "#a2df65"
     },
     {
       "titulo": "Peramivir",
@@ -1405,7 +1405,7 @@
       "contra": "Hipersensibilidad grave o anafilaxia conocida al peramivir o a cualquier componente del producto; Las reacciones alérgicas graves han incluido anafilaxia, eritema multiforme y síndrome de Stevens-Johnson",
       "efectos": "Diarrea, aumento de la glucosa serica, estreñimientto, insomnio, aumento de enzimas hepaticas hipertensión, vómitos. ",
       "cat": "Antiviral",
-      "color": "#a2df72"
+      "color": "#a2df65"
     },
     {
       "titulo": "Remdesivir",
@@ -1419,7 +1419,7 @@
       "contra": "Hipersensibilidad.",
       "efectos": "Cefalea; náuseas; transaminasas elevadas; erupción; tiempo de protrombina prolongado.",
       "cat": "Antiviral",
-      "color": "#a2df74"
+      "color": "#a2df65"
     },
 
     {
@@ -1434,7 +1434,7 @@
       "contra": "Está contraindicada en los pacientes con depresión de médula ósea.                                                                                       Las formulaciones orales de Retrovir están contraindicadas en pacientes con hipersensibilidad conocida a zidovudina o a alguno de los excipientes incluidos en la sección.\r\n\r\nLas formulaciones orales de Retrovir no se deben administrar a pacientes con recuentos de neutrófilos anormalmente bajos (menos de 0,75 x 109/litro) o niveles de hemoglobina anormalmente bajos (menos de 7,5 g/decilitro o 4,65 mmol/litro).\r\n\r\nRetrovir está contraindicado en recién nacidos con hiperbilirrubinemia que precisen otro tratamiento distinto a fototerapia, o con niveles incrementados de transaminasas con un valor cinco veces el límite superior normal.",
       "efectos": "La reacción más común del medicamento es la mielosu presión manifestada por anemia o neutropenia, otros efectos incluyen cefalea, fi ebre, mareos, parestesias, náu seas, vómito, insomnio, malestar general, anorexia y dolor muscular.",
       "cat": "Antiviral",
-      "color": "#a2df76"
+      "color": "#a2df65"
     },
     {
       "titulo": "Lamivudina",
@@ -1449,7 +1449,7 @@
       "efectos": "Dolor de cabeza, insomnio; tos, síntomas nasales; náuseas, vómitos, dolor o calambres abdominales, diarrea; erupción cutánea, prurito, alopecia; fatiga, malestar general, fiebre; trastornos musculares incluyendo mialgia y calambres; incrementos de ALT y CPK.",
       "Notas": "Puede administrarse con o sin alimentos ",
       "cat": "Antiviral",
-      "color": "#a2df77"
+      "color": "#a2df65"
     },
     {
       "titulo": "Emtricitabina",
@@ -1463,7 +1463,7 @@
       "contra": "Contraindicaciones: Hipersensibilidad al fármaco.\nPrecauciones: Falla renal, hepatitis, agentes nefrotóxicos.",
       "efectos": "Acidosis láctica, hepatomegalia, hepatotoxicidad, neutropenia, rash, diarrea, cefalea, rinitis, astenia, tos, dolor abdominal, hiperglucemia.",
       "cat": "Antiviral",
-      "color": "#a2df78"
+      "color": "#a2df65"
     },
     {
       "titulo": "Abacavir",
@@ -1477,7 +1477,7 @@
       "contra": "Está contraindicado en pacientes con hipersensibilidad conocida al abacavir o a cualquiera de los excipientes de la fórmula.\nEstá contraindicado en pacientes con alteración hepática de moderada a severa.",
       "efectos": "Hipersensibilidad: erupción, náuseas, vómitos, diarrea, dolor abdominal, disnea, tos, fiebre, letargo, malestar, cefalea, PFH elevadas, mialgia; anorexia, fatiga.",
       "cat": "Antiviral",
-      "color": "#a2df79"
+      "color": "#a2df65"
     },
     {
       "titulo": "Tenofovir",
@@ -1490,7 +1490,7 @@
       "interacc": "En concentraciones sustancialmente superiores (~300 veces mayores) a aquéllas observadas in vivo, el tenofovir no inhibió el metabolismo del fármaco in vitro mediado por alguna de las siguientes isoformas humanas del CYP: CYP3A4, CYP2D6, CYP2C9 o CYP2E1.\n\nSin embargo, se observó una disminución pequeña (6%), pero estadísticamente significativa, en el metabolismo del sustrato de CYP1A. En función a los resultados de los experimentos in vitro y la vía de eliminación conocida del tenofovir, la posibilidad de interacciones mediadas por el CYP en las que interviene el tenofovir con otros productos farmacéuticos es baja (véase Farmacocinética y farmacodinamia).En el tratamiento de la hepatitis B crónica, Tenofovir disoproxil fumarato no debe administrarse en combinación con dipivoxilo de adefovir.",
       "contra": "• Acidosis láctica/hepatomegalia severa con esteatosis (véase Precauciones generales).\n• Exacerbación aguda severa de la hepatitis (véase Precauciones generales).\n• Nueva aparición o empeoramiento de la disfunción renal (véase Precauciones generales).\n• Disminución de la densidad mineral ósea (véase Precauciones generales).\n• Síndrome de reconstitución inmunológica (véase Precauciones generales).\n• Reacción alérgica,\n• incluso angioedema.\nTrastornos de la nutrición y el metabolismo:\n• Acidosis láctica,• hipopotasemia,• hipofosfatemia.\nTrastornos respiratorios, torácicos y mediastínicos:\n• Disnea.\nTrastornos gastrointestinales:\n• Pancreatitis,• aumento de la amilasa,• dolor abdominal.\nTrastornos hepatobiliares:\n• Esteatosis hepática,• hepatitis,• aumento de las enzimas hepáticas (con mayor frecuencia: AST, ALT, gamma GT).\nTrastornos de la piel y del tejido subcutáneo:\n• Erupción cutánea.\nTrastornos musculoesqueléticos y del tejido conjuntivo:\n• Rabdomiólisis,• osteomalacia (se manifiesta como dolor óseo y puede contribuir a las fracturas),• debilidad muscular,• miopatía.\nTrastornos renales y urinarios:\n• Insuficiencia renal aguda,• insuficiencia renal,• necrosis tubular aguda,• síndrome de Fanconi,• tubulopatía renal proximal,• nefritis intersticial (incluso casos agudos),• diabetes insípida nefrogénica,• disfunción renal,• aumento de la creatinina,• proteinuria, poliuria.\nTrastornos generales y alteraciones en el lugar de la administración:\n• Astenia.\nLas siguientes reacciones adversas, enumeradas bajo los encabezados de los sistemas corporales anteriores, pueden producirse a consecuencia de la tubulopatía renal proximal:\n• rabdomiólisis,• osteomalacia,• hipopotasemia,• debilidad muscular,• miopatía,• hipofosfatemia.",
       "cat": "Antiviral",
-      "color": "#a2df80"
+      "color": "#a2df65"
     },
     {
       "titulo": "Estavudina",
@@ -1504,7 +1504,7 @@
       "contra": "Hipersensibilidad.",
       "efectos": "Diarrea, dolor abdominal, náusea, dispepsia, fatiga, lipoatrofia, lipodistrofia, síntomas neurológicos periféricos incluyendo neuropatía periférica, parestesia y neuritis periférica, mareos, sueños anormales, cefalea, insomnio, pensamiento anormal, somnolencia, depresión, erupción, prurito.",
       "cat": "Antiviral",
-      "color": "#a2df81"
+      "color": "#a2df65"
     },
     {
       "titulo": "Didanosina",
@@ -1518,7 +1518,7 @@
       "contra": "Contraindicaciones: Hipersensibilidad al fármaco. Precauciones: Disfunción hepática, renal y embarazo.",
       "efectos": "Neuropatía periférica, mareo, dolor abdominal, estreñimiento, hepatitis, pancreatitis.",
       "cat": "Antiviral",
-      "color": "#a2df82"
+      "color": "#a2df65"
     },
     {
       "titulo": "Efavirenz",
@@ -1532,7 +1532,7 @@
       "contra": "Contraindicaciones: Hipersensibilidad al fármaco.\nPrecauciones: Lesión del hígado, enfermedades psiquiátricas.\n",
       "efectos": "Náusea, vómito, mareo, diarrea, cefalea, alucinaciones, sueños anormales, fatiga y erupción cutánea.",
       "cat": "Antiviral",
-      "color": "#a2df84"
+      "color": "#a2df65"
     },
     {
       "titulo": "Nevirapina",
@@ -1546,7 +1546,7 @@
       "contra": "Hipersensibilidad; readministración a pacientes que hayan requerido una interrupción permanente por exantema grave, exantema acompañado de sintomatología general, reacciones de hipersensibilidad o hepatitis clínica debida a nevirapina; pacientes con daño hepático grave (Child-Pugh clase C) o con valores de SGOT o SGPT > 5 veces el LSN antes del tto. hasta que los valores basales de SGOT/SGPT se estabilicen < 5 veces el LSN; readministración a pacientes que hayan presentado anteriormente valores de SGOT o SGPT > 5 veces el LSN durante el tto. con nevirapina y tuvieran una recurrencia de las anomalías de la función hepática durante la readministración de nevirapina; administración concomitante con preparados a base de plantas medicinales que contengan hipérico debido al riesgo de disminución de las concentraciones plasmáticas y del efecto clínico de la nevirapina.",
       "efectos": "Granulocitopenia; hipersensibilidad (incluyendo reacción anafiláctica, angioedema, urticaria); cefalea; náuseas, vómitos, dolor abdominal, diarrea; hepatitis (incluyendo hepatotoxicidad grave y potencialmente mortal); exantema; fiebre, fatiga; anomalías en PFH (aumento de: ALT, AST, transaminasas, GGT; enzimas hepáticas; hipertransaminasemia).",
       "cat": "Antiviral",
-      "color": "#a2df85"
+      "color": "#a2df65"
     },
     {
       "titulo": "Etravirina",
@@ -1560,7 +1560,7 @@
       "contra": "Contraindicaciones: Hipersensibilidad al fármaco.\nPrecauciones: Los datos clínicos son limitados y no puede descartarse un aumento del riesgo de reacciones cutáneas, en pacientes con casos previos de reacción cutánea asociada a ITINAN. Se debe tener precaución en estos pacientes, especialmente en caso de antecedentes de reacción cutánea grave a fármacos. Los pacientes que han suspendido el tratamiento debido a reacciones de hipersensibilidad no deben reiniciar el tratamiento con Etravirina.\n",
       "efectos": "Exantema, sudoración nocturna, trombocitopenia, anemia, diabetes mellitus, hiperglucemia, hipercolesterolemia, hipertrigliceridemia, hiperlipidemia, ansiedad, insomnio, neuropatía periférica, cefalea, infarto de miocardio, hipertensión, enfermedad por reflujo gastroesofágico, diarrea, vómitos, náuseas, dolor abdominal, flatulencia, gastritis, insuficiencia renal, cansancio.\n",
       "cat": "Antiviral",
-      "color": "#a2df86"
+      "color": "#a2df65"
     },
     {
       "titulo": "Maraviroc",
@@ -1574,7 +1574,7 @@
       "contra": "Contraindicaciones: Hipersensibilidad al medicamento.\nPrecauciones: Maraviroc sólo debe ser utilizado cuando sea detectable el tropismo VIH-1 CCR5. Administrar con precaución en pacientes con riesgo aumentado de padecimientos cardiovasculares, insuficiencia renal, hipotensión ortostática o uso concomitante con medicamentos que producen hipotensión arterial.",
       "efectos": "Dispepsia, disgeusia y exantema.",
       "cat": "Antiviral",
-      "color": "#a2df88"
+      "color": "#a2df65"
     },
     {
       "titulo": "Enfuvirtida",
@@ -1588,7 +1588,7 @@
       "contra": "Hipersensibilidad al fármaco.",
       "efectos": "Cefalea, neuropatía periférica, mareos, insomnio, depresión, ansiedad, tos, adelgazamiento, anorexia, sinusitis, candidiasis oral, herpes simple, astenia, prurito, mialgias, sudoración nocturna, estreñimiento.",
       "cat": "Antiviral",
-      "color": "#a2df89"
+      "color": "#a2df65"
     },
     {
       "titulo": "Amprenavir",
@@ -1602,7 +1602,7 @@
       "contra": "Hipersensibilidad al fármaco.",
       "efectos": "Rash, náusea, vómito, diarrea, sensación de adormecimiento peribucal, dolor abdominal, ocasionalmente síndrome de Stevens-Johnson, anemia hemolítica aguda.",
       "cat": "Antiviral",
-      "color": "#a2df91"
+      "color": "#a2df65"
     },
     {
       "titulo": "Atazanavir",
@@ -1616,7 +1616,7 @@
       "contra": "Hipersensibilidad; I.H. grave; I.H. moderada en tto. concomitante con ritonavir; concomitancia con: simvastatina, lovastatina, rifampicina, sildenafilo para el tto. de hipertensión pulmonar arterial, sustratos de CYP3A4 con margen terapéutico estrecho (ej.: quetiapina, alfuzosina, astemizol, terfenadina, cisaprida, pimozida, quinidina, bepridil, triazolam, midazolam oral y alcaloides ergóticos, especialmente, ergotamina, dihidroergotamina, ergonovina, metilergonovina), hierba de San Juan.",
       "efectos": "Dolor de cabeza; ictericia ocular; vómitos, diarrea, dolor abdominal, náuseas, dispepsia; ictericia; rash; fatiga; elevaciones de bilirrubina total, CK, ALT, AST y lipasa, descenso de neutrófilos.",
       "cat": "Antiviral",
-      "color": "#a2df92"
+      "color": "#a2df65"
     },
     {
       "titulo": "Darunavir",
@@ -1630,7 +1630,7 @@
       "contra": "Hipersensibilidad al fármaco.\nPrecauciones: No debe ser coadministrado con medicamentos que sean altamente dependientes de CYP3A4 para la depuración por aumento en las concentraciones plasmáticas que se asocien con reacciones adversas graves que pongan en riesgo la vida (margen terapéutico estrecho), como astemizol, terfenadina, midazolam, triazolam, cisaprida, pimozida y los alcaloides del \"ergot\" (ergotamina, dihidroergotamina, ergonovina y metilergonovina).",
       "efectos": "Dolor de cabeza, diarrea, vómito, náuseas, dolor abdominal, constipación, hipertrigliceridemia.",
       "cat": "Antiviral",
-      "color": "#a2df93"
+      "color": "#a2df65"
     },
     {
       "titulo": "Fosamprenavir",
@@ -1644,7 +1644,7 @@
       "contra": "Hipersensibilidad a fosamprenavir, amprenavir. I.H. grave. Concomitancia con: alfuzosina, amiodarona, astemizol, bepridil, cisaprida, pimozida, quinidina y terfenadina (riesgo de arritmia); dihidroergotamina, ergotamina, ergonovina, metilergonovina (riesgo de vasoespasmo periférico o isquemia); flecainida, propafenona, rifampicina, hipérico; midazolam y triazolam orales; sildenafilo en la hipertensión arterial pulmonar; simvastatina y lovastatina (aumenta el riesgo de miopatía/rabdomiólisis).",
       "efectos": "Diarrea, aumento de colesterol en sangre, cefalea, mareo, parestesia oral, náuseas, vómitos, dolor abdominal, heces sueltas, erupción cutánea, fatiga, aumento de ALT, AST, lipasa y triglicéridos en sangre.",
       "cat": "Antiviral",
-      "color": "#a2df94"
+      "color": "#a2df65"
     },
     {
       "titulo": "Indinavir",
@@ -1658,7 +1658,7 @@
       "contra": "Está contraindicado en pacientes con hipersensibilidad y durante la lactancia.",
       "efectos": "Los efectos adversos más frecuentes son astenia, fatiga, dolor abdominal, diarrea, sequedad de la piel, prurito y erupción cutánea.",
       "cat": "Antiviral",
-      "color": "#a2df95"
+      "color": "#a2df65"
     },
     {
       "titulo": "Nelfinavir",
@@ -1672,7 +1672,7 @@
       "contra": "Hipersensibilidad. Concomitancia con: fármacos de estrecho margen terapéutico sustratos de CYP3A4 como terfenadina, astemizol, cisaprida, amiodarona, quinidina, pimozida, triazolam, midazolam oral, derivados del cornezuelo, alfuzosina, sildenafilo en tto. de HTA pulmonar; inductores de CYP3A4 (rifampicina, fenobarbital, carbamazepina); omeprazol; hipérico (efecto inductor mantenido mín. 2 sem tras suspensión).",
       "efectos": "Diarrea, flatulencia, náuseas, erupción cutánea/rash, aumento de ALT, AST y CK, neutropenia, disminución del recuento de neutrófilos.",
       "cat": "Antiviral",
-      "color": "#a2df97"
+      "color": "#a2df65"
     },
     {
       "titulo": "Ritonavir",
@@ -1686,7 +1686,7 @@
       "contra": "Hipersensibilidad al fármaco.\nPrecauciones: Insuficiencia hepática, insuficiencia renal, hemofilia tipo A o B. Medicamentos cuya depuración depende en gran medida del CYP3A y cuyas concentraciones plasmáticas elevadas se relacionan con reacciones graves o potencialmente mortales",
       "efectos": "Astenia, cefalea, dolor abdominal, anorexia, diarrea, náusea, vómito, hipotensión, parestesias, rash y disgeusia.",
       "cat": "Antiviral",
-      "color": "#a2df98"
+      "color": "#a2df65"
     },
     {
       "titulo": "Saquinavir",
@@ -1700,7 +1700,7 @@
       "contra": "Hipersensibilidad, I.H. descompensada, prolongación QT congénita o adquirida confirmada, alteración electrolítica (hipopotasemia no corregida en especial), bradicardia relevante, insuf. cardiaca relevante con fracción de eyección del ventrículo izdo. reducido, antecedente de arritmia. Concomitancia con: fármacos prolongadores QT y/o PR, simvastatina y lovastatina (riesgo de miopatía incluida rabdomiólisis), midazolam oral y triazolam (riesgo de sedación prolongada o aumentada, depresión respiratoria), alcaloides del cornezuelo de centeno (riesgo de toxicidad aguda), rifampicina (riesgo de toxicidad hepatocelular grave) y quetiapina (riesgo de coma).",
       "efectos": "Anemia, disminución de Hb y del recuento de plaquetas, linfocitos y células sanguíneas blancas; hipersensibilidad; aumento de colesterol y triglicéridos en sangre, diabetes mellitus, anorexia, aumento del apetito; disminución de la libido, trastorno del sueño; parestesia, neuropatía periférica, vértigo, disgeusia, dolor de cabeza; disnea; diarrea, náuseas, vómitos, distensión y dolor abdominal, dolor supraabdominal, estreñimiento, sequedad de boca, dispepsia, eructo, flatulencia, labios secos, heces blandas; aumento de: ALT, AST, lipoproteína de baja densidad, bilirrubina, amilasa y creatinina en sangre; lipodistrofia adquirida, alopecia, piel seca, eczema, lipoatrofia, prurito, sarpullido; espasmos musculares; astenia, fatiga, aumento del tejido graso, malestar.",
       "cat": "Antiviral",
-      "color": "#a2df99"
+      "color": "#a2df65"
     },
     {
       "titulo": "Tipranavir",
@@ -1714,13 +1714,9 @@
       "contra": "Hipersensibilidad al fármaco, insuficiencia hepática.\n",
       "efectos": "Diarrea, náusea, fatiga, cefalea y vómito.\n",
       "cat": "Antiviral",
-      "color": "#a2df100"
+      "color": "#a2df65"
     },
-    {
-      "descripcion": "DESCRIPCIÓN EN REVISION",
-      "cat": "Antiviral",
-      "color": "#a2df101"
-    },
+ 
     {
       "titulo": "Raltegravir",
       "descripcion": "DESCRIPCIÓN EN REVISION",
@@ -1733,7 +1729,7 @@
       "contra": "Hipersensibilidad.",
       "efectos": "Disminución del apetito; sueños extraños, insomnio, pesadilla, comportamiento anormal, depresión; mareos, cefalea, hiperactividad psicomotora; vértigo; distensión y dolor abdominal, diarrea, flatulencia, náuseas, vómitos, dispepsia; erupción; astenia, cansancio, pirexia; linfocitos atípicos, elevación de ALT y AST, de triglicéridos, de lipasa y de amilasa pancreática en sangre.",
       "cat": "Antiviral",
-      "color": "#a2df102"
+      "color": "#a2df65"
     },
     {
       "titulo": "Dolutegravir",
@@ -1747,7 +1743,7 @@
       "contra": "Contraindicaciones: Dolutegravir está contra indicado en combinación con dofetilida o pilsicainida. Dolutegravir está contraindicado en pacientes con hipersensibilidad conocida a Dolutegravir o a cualquiera de los excipientes. No se use Dolutegravir en menores de 6 años de edad.\nPrecauciones: La decisión de usar Dolutegravir en presencia de resistencia a los inhibidores de la integrasa debe tener en cuenta que la actividad de Dolutegravir está considerablemente comprometida en cepas virales con las 4 mutaciones Q148+> mutaciones secundarias de G140A/C/S, E1138A/K/T, L741. La medida en que Dolutegravir proporciona eficacia adicional en presencia de tal resistencia a los inhibidores de la integrasa es incierta. En pacientes infectados por el VIH que presentan una deficiencia inmunitaria grave en el momento de instaurar un tratamiento antirretroviral combinado (TARC), puede aparecer una reacción inflamatoria frente a patógenos oportunistas latentes o asintomáticos y provocar situaciones clínicas graves, o un empeoramiento de los síntomas. Se debe advertir a los pacientes que Dolutegravir o cualquier otro tratamiento antirretroviral no cura la infección por el VIH. Por lo tanto, los pacientes deben permanecer bajo estrecha observación clínica por médicos con experiencia en el tratamiento de estas enfermedades asociadas al VIH.\nAunque se considera que la etiología es multifactorial (incluyendo uso de corticosteroides, bifosfonatos, consumos de alcohol, inmunodepresión grave, índice de masa corporal elevado), se han notificado casos de osteonecrosis, en pacientes con infección avanzada por el VIH y/o exposición prolongada al TARC. Se debe aconsejar a los pacientes que consulten al médico si experimentan molestias o dolor articular, rigidez articular o dificultas para moverse.",
       "efectos": "Población pediátrica: con base en los datos limitados disponibles en niños y adolescentes (6 a menos de 18 años de edad), no se observaron tipos adicionales de reacciones adveras distintas a las observadas en la población adulta.\nInsomnio, sueños anormales, depresión, cefalea, mareo, náuseas, diarrea, vómitos, flatulencia, dolor abdominal alto, erupción, prurito, fatiga, aumento de la alanina aminotransferasa y/o aspartato aminotransferasa, aumento de creatinfosfoquinasa.",
       "cat": "Antiviral",
-      "color": "#a2df103"
+      "color": "#a2df65"
     },
 
 
@@ -1782,7 +1778,7 @@
       "efectos": "-Diarrea \n-Mareo \n-Prurito \n-Astenia \n-Somnolencia \n-Vértigo \n-Cefalea \n-Dolor abdominal \n-Flatulencia \n-Vómito.",
       "Notas": "Tomar vía oral 1 hora antes del desayuno, sin masticar.                                                                                                                              \nSuspensión oral: administrar 3o min antes de las comidas, el paquete de es un dosis fija y no se puede dividir para hacer una dosis más pequeña. \nSe administra el jugo de manzana o puré de manzana. ",
       "cat": "Gastrointestinal",
-      "color": "#fcf115"
+      "color": "#fcf114"
     },
     {
       "titulo": "Lansoprazol ",
@@ -1797,7 +1793,7 @@
       "efectos": "-Cefalea \n-Dolor abdominal \n-Náuseas \n-Vómito  \n-Erupción cutánea.",
       "Notas": "-Administrar al menos 30 minutos antes de las comidas.                                                                    \n-Contiene gránulos con recubrimiento entérico (lábil ácido); no mastique ni triture; tragar la cápsula/comprimido entero.                                                                           ",
       "cat": "Gastrointestinal",
-      "color": "#fcf116"
+      "color": "#fcf114"
     },
     {
       "titulo": "Rabeprazol",
@@ -1812,7 +1808,7 @@
       "efectos": "-Cefalea\n-Dolor abdominal\n-Diarrea \n-Flatulencia \n-Constipación \n-Boca seca \n-Mareo \n-Exantema \n-Edema periferico\n-Faringitis",
       "Notas": "-Administrar con o sin comidas.                    \n-Trague la tableta entera; no mastique ni triture.                                                  -Dosis olvidada:                            \n*Adminsitrar una dosis olvidada lo antes posible.                   \n*Si el tiempo de adminsitracion está cerca de la siguiente dosis, omita la dosis olvidada y tome la dosis actual.                               \n*No tome 2 dosis al mmismo  tiempo. ",
       "cat": "Gastrointestinal",
-      "color": "#fcf117"
+      "color": "#fcf114"
     },
     {
       "titulo": "Esomeprazol",
@@ -1826,7 +1822,7 @@
       "efectos": "-Dolor de cabeza \n-Faltulencia \n-Indigestión \n-Náuseas \n-Dolor abdominal \n-Diarrea \n-Mareos \n-Estreñimmiento \n-Somnolencia \n-Prurito, ",
       "Notas": "Si no puede tragar la cápsula entera, la cápsula se puede abrir, vaciar en puré de manzana, mexclar y tragar inmediatamente. ",
       "cat": "Gastrointestinal",
-      "color": "#fcf118"
+      "color": "#fcf114"
     },
     {
       "Columna 1": "Antihistaminicos H2 ",
@@ -1841,7 +1837,7 @@
       "efectos": "-Dolor de cabeza \n-Mareos \n-Somnolencia \n-Ginecomastia\n-Confusión \n-Impotencia \n-Diarrea\n-Náuseas \n-Vómitos ",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf119"
+      "color": "#fcf114"
     },
     {
       "titulo": "Ranitidina",
@@ -1856,7 +1852,7 @@
       "efectos": "Poco frecuentes: dolor abdominal, estreñimiento, náuseas (estos síntomas mejoran generalmente con el tto. continuado).",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf120"
+      "color": "#fcf114"
     },
     {
       "titulo": "Famotidina ",
@@ -1871,7 +1867,7 @@
       "efectos": "A nivel sistémico: Astenia y fatiga.\nGastrointestinal: Ictericia colestática, alteración de enzimas hepáticas, vómito, náuseas, malestar abdominal, anorexia y sequedad de boca.\nHipersensibilidad: Anafilaxia, angioedema, urticaria.\nMusculoesquelético: Artralgias.",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf121"
+      "color": "#fcf114"
     },
     {
       "titulo": "Nizatidina ",
@@ -1884,7 +1880,7 @@
       "efectos": "-Aumento de sudoración \n-Urticaria \n-Somnolencia.",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf122"
+      "color": "#fcf114"
     },
     {
       "titulo": "Aloglutamol",
@@ -1896,7 +1892,7 @@
       "indicaciones": "se utiliza como coadyuvante en el tratamiento de esofagitis por reflujo, gastritis, úlcera gástrica y úlcera duodenal, así como hernia hiatal. ",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf124"
+      "color": "#fcf114"
     },
     {
       "Columna 1": "Inhibidor de la secreción ",
@@ -1911,7 +1907,7 @@
       "efectos": "-Diarrea\n-Náuseas\n-Vómito \n-Dolor abdominal \n-Alteraciones ginecológicas: metrorragias, dismenorrea y hemorragia vaginal. ",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf125"
+      "color": "#fcf114"
     },
     {
       "Columna 1": "Protectores de la mucosa ",
@@ -1927,7 +1923,7 @@
       "efectos": "Náuseas, diarrea/ estreñimiento y erupción cutánea",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf126"
+      "color": "#fcf114"
     },
     {
       "titulo": "Bismuto coloidal ",
@@ -1942,7 +1938,7 @@
       "efectos": "Náuseas, vómitos, \nestreñimiento, diarrea \nErupción, prurito",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf127"
+      "color": "#fcf114"
     },
     {
       "titulo": "Metoclopramida ",
@@ -1957,7 +1953,7 @@
       "efectos": "-Somnolencia\n-Fatiga\n-Náuseas\n-Erupción cutánea \n-Diarrea \n-Arritmias cardiacas \n-Alteraciones menstruales\n-Galactorrea  \n-Manifestaciones extrapiramidales. ",
       "Notas": "Administrar antes de las comidas ",
       "cat": "Gastrointestinal",
-      "color": "#fcf128"
+      "color": "#fcf114"
     },
     {
       "titulo": "Cisaprida ",
@@ -1972,7 +1968,7 @@
       "efectos": "-Alteraciones gastrointestinales: cólicos abdominales, borgborismos y diarrea\n-Cefalea\n-Fosfenos \n-Vértigo\n-Convulsiones \n-Efectos extrapiramidales\n-Incremento en la frecuencia urinaria  \n-Taquicardia.\n-Hipersensibilidad\n-Prurito \n-Urticaria  \n-Rash cutáneo \n-Broncoespasmos ",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf129"
+      "color": "#fcf114"
     },
     {
       "titulo": "Cinitaprida ",
@@ -1987,7 +1983,7 @@
       "efectos": "-Somnolencia\n-Reacciones extrapiramidales con espasmo de los músculos de la cara, cuello y lengua",
       "Notas": "Administrar de 15 a 30 minutos antes de cada comida. ",
       "cat": "Gastrointestinal",
-      "color": "#fcf130"
+      "color": "#fcf114"
     },
     {
       "titulo": "Tegaserod",
@@ -2001,7 +1997,7 @@
       "efectos": "Diarrea durante el tto, dolor abdominal, náuseas y flatulencia; cefalea, mareo, lumbalgia y síntomas gripales.",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf131"
+      "color": "#fcf114"
     },
     {
       "titulo": "Trimebutina ",
@@ -2016,7 +2012,7 @@
       "efectos": "-Boca seca\n-Náuseas \n-Dolor epigástrico \n-Diarrea \n-Somnolencia \n-Sensación de calor/frío \n-Fatiga \n-Vértigo  \n-Cefalea. ",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf132"
+      "color": "#fcf114"
     },
     
     {
@@ -2032,7 +2028,7 @@
       "efectos": "-Flatulencias\n-Hiperacidez de rebote \n-Retortijones, vómito,",
       "Notas": "Disolver en agua ",
       "cat": "Gastrointestinal",
-      "color": "#fcf135"
+      "color": "#fcf114"
     },
     {
       "titulo": "Hidróxido de aluminio ",
@@ -2045,7 +2041,7 @@
       "efectos": "-Náuseas\n-Vómito \n-Hiperacidez por aluminio \n-Hipofosfatemia \n-Sabor a tiza \n-Estreñimiento \n-Impactación fecal \n-Retortijones \n-Síndrome lácteo-álcali\n-Osteomalacia",
       "Notas": "DESCRIPCIÓN EN REVISION",
       "cat": "Gastrointestinal",
-      "color": "#fcf136"
+      "color": "#fcf114"
     },
     {
       "titulo": "Carbonato de calcio ",
@@ -2060,7 +2056,7 @@
       "efectos": "-Anorexia\n-Estreñimiento \n-Flatulencia \n-Náusea\n-Vómito\n-Hipercalcemia \n-Hipofosfatemia \n-Síndrome lácteo-álcali ",
       "Notas": "Suspensión: Agite bien la suspensión antes de usar.                                           \nTabletas masticables: Mastique bien las tabletas.                                               Tabletas: administrar con alimentos. ",
       "cat": "Gastrointestinal",
-      "color": "#fcf137"
+      "color": "#fcf114"
     },
     {
       "titulo": "Óxido de magnesio ",
@@ -2071,7 +2067,7 @@
       "efectos": "Diarrea con dosis excesiva e irritación gastrointestinal ",
       "Notas": "Tomar con alimentos ",
       "cat": "Gastrointestinal",
-      "color": "#fcf138"
+      "color": "#fcf114"
     },
   
 
