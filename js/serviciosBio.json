@@ -30,14 +30,14 @@
         "img1": "../img/bioinf/genomico1.jpg",
         "img2": "../img/bioinf/genomico2.jpg",
         "img3": "../img/bioinf/genomico3.jpg",
-        "img4": "../img/bioinf/genomico4.jpg"
+        "img4": "../img/bioinf/genomico4.png"
     },
     {
         "title": "Análisis Bioinformático <br>de Microbiota.",
         "descr1": "Los análisis bioinformáticos de microbiota buscan entender la composición y funcionalidad de las comunidades microbianas mediante datos de secuenciación. Incluyen la clasificación taxonómica para identificar especies, análisis de diversidad alfa y beta, y predicción funcional del potencial metabólico. QIIME 2 ofrece un flujo de trabajo robusto y reproducible, desde la calidad de datos hasta la generación de gráficos avanzados, facilitando la interpretación de resultados.",
         "descr2": "<strong>Utilidad y Aplicabilidad:</strong> <br>El análisis de microbiota tiene aplicaciones en salud, agricultura y ecología. En salud, ayuda a entender su relación con enfermedades y tratamientos. En agricultura, optimiza cultivos al estudiar microorganismos beneficiosos. En ecología, evalúa el impacto ambiental en comunidades microbianas. Los análisis funcionales permiten predecir el metabolismo comunitario y detectar genes clave, usando tecnologías de secuenciación y bioinformática para investigación y soluciones prácticas.",
         "descr3": "<strong>Softwares y Herramientas:</strong><ul><li>QIIME 2 es un software líder en el análisis bioinformático de microbiota.</li><li>Control de calidad: DADA2, Deblur.</li><li>Clasificación taxonómica: SILVA, Greengenes, UNITE.</li><li>Análisis de diversidad: Faith's PD, Shannon, Bray-Curtis, UniFrac.</li><li>Visualización: Emperor, QIIME 2 View.</li><li>Análisis funcional predictivo: PICRUSt2, Tax4Fun.</li><li>Integración de datos: R, Python.</li></ul>",
-        "descr4": "## FALTA TEXTO ##",
+        "descr4": "QIIME 2 es una plataforma bioinformática para el análisis de microbiota que permite procesar datos de secuenciación de ADN, evaluar la diversidad microbiana y asignar taxonomía de forma reproducible. Su flujo de trabajo incluye filtrado de secuencias, análisis de composición y visualización de resultados, facilitando estudios en salud, medio ambiente y biotecnología",
         "img1": "../img/bioinf/microbiota3.jpg",
         "img2": "../img/bioinf/microbiota2.jpg",
         "img3": "../img/bioinf/microbiota3.jpg",
@@ -48,10 +48,10 @@
         "descr1": "La dinámica molecular es una técnica que se usa para estudiar cómo se mueven y se comportan las moléculas a lo largo del tiempo. A través de simulaciones computacionales, se analizan las interacciones entre los átomos que forman una molécula, lo que permite predecir cómo cambiarán sus posiciones, velocidades y energías, así como interacciones con ligandos.",
         "descr2": "Este tipo de análisis requieren de un gasto computacional mayor, por lo que generalmente se realizan en supercomputadoras.",
         "descr3": "Existen diversos programas  y servidores disponibles para realizar dinámica molecular, entre los más utilizados se destacan:<ul><li>GROMACS (FAST. FLEXIBLE. FREE).</li><li>NAMD (SCALABLE MOLECULAR DYNAMICS).</li></ul>",
-        "descr4": "<strong>Principales usos de la dinámica molecular.</strong><br><ul style='text-align: justify;'><li>Simulación del movimiento de átomos y moléculas  a lo largo del tiempo/li>.<li>Interacciones entre átomos y moléculas, como los enlaces químicos, las fuerzas de Van der Waals y los puentes de hidrógeno para determinan el comportamiento de la molécula.</li><li>Calculo del movimiento de moléculas, que describen cómo varía la energía en función de las distancias y las interacciones entre los átomos.</li>",
+        "descr4": "<strong>Principales usos de la dinámica molecular.</strong><br><ul style='text-align: justify;'><li>Simulación del movimiento de átomos y moléculas  a lo largo del tiempo.</li><li>Interacciones entre átomos y moléculas, como los enlaces químicos, las fuerzas de Van der Waals y los puentes de hidrógeno para determinan el comportamiento de la molécula.</li><li>Calculo del movimiento de moléculas, que describen cómo varía la energía en función de las distancias y las interacciones entre los átomos.</li>",
         "img1": "../img/bioinf/dinamica1.jpg",
         "img2": "../img/bioinf/dinamica2.jpg",
-        "img3": "../img/bioinf/dinamica3.jpg",
+        "img3": "../img/bioinf/dinamica3.png",
         "img4": "../img/bioinf/dinamica4.jpg"
     }
 ]
