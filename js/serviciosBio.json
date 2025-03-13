@@ -1,9 +1,9 @@
 [
     {
-        "title": "Acoplamiento molecular <br>“Molecular docking.",
+        "title": "Acoplamiento molecular <br> Molecular docking.",
         "descr1": "Es una técnica computacional que tiene como fin predecir las interacciones a nivel molecular entre moléculas, ya sea entre moléculas pequeñas (ligando) con una proteína blanco (receptor), o bien entre proteínas. Para realizar análisis de acoplamiento molecular es necesario contar con una representación tridimensional de alta resolución de la proteína, así como de los ligandos de interés.",
         "descr2": "Esta herramienta virtual, es altamente utilizada en el campo de desarrollo de fármacos, ya sea para una nueva invención, así como en el reposicionamiento de compuestos existentes. El uso del acoplamiento molecular en las ciencias biomédicas eficientiza los experimentos in vitro e in vivo, además de reducir costos durante el desarrollo de proyectos.",
-        "descr3": "Existen dos estrategias de análisis: Acoplamiento molecular localizado o directo: Se basa en evaluación de las posibles interacciones moleculares sobre un sitio en específico reportado previamente, como sitios activos o alostéricos, relacionado con la funcionabilidad. Acoplamiento molecular ciego: Esta estrategia se utiliza cuando se desconoce sitios relevantes de la proteína, así como para detectar posibles sitios y modos de unión de ligandos sobre una superficie proteína (proteína blanco).",
+        "descr3": "Existen dos estrategias de análisis: <br><br> <strong>Acoplamiento molecular localizado o directo:</strong> Se basa en evaluación de las posibles interacciones moleculares sobre un sitio en específico reportado previamente, como sitios activos o alostéricos, relacionado con la funcionabilidad. <br><br> <strong>Acoplamiento molecular ciego:</strong> Esta estrategia se utiliza cuando se desconoce sitios relevantes de la proteína, así como para detectar posibles sitios y modos de unión de ligandos sobre una superficie proteína (proteína blanco).",
         "descr4": "Existen diversos programas y servidores disponibles para realizar acoplamiento molecular, entre los más utilizados se destacan:",
         "img1": "../img/bioinf/molecular1.jpg",
         "img2": "../img/bioinf/molecular2.jpg",
@@ -50,7 +50,7 @@
         "descr3": "Existen diversos programas  y servidores disponibles para realizar dinámica molecular, entre los más utilizados se destacan:<ul><li>GROMACS (FAST. FLEXIBLE. FREE).</li><li>NAMD (SCALABLE MOLECULAR DYNAMICS).</li></ul>",
         "descr4": "<strong>Principales usos de la dinámica molecular.</strong><br><ul style='text-align: justify;'><li>Simulación del movimiento de átomos y moléculas  a lo largo del tiempo.</li><li>Interacciones entre átomos y moléculas, como los enlaces químicos, las fuerzas de Van der Waals y los puentes de hidrógeno para determinan el comportamiento de la molécula.</li><li>Calculo del movimiento de moléculas, que describen cómo varía la energía en función de las distancias y las interacciones entre los átomos.</li>",
         "img1": "../img/bioinf/dinamica1.jpg",
-        "img2": "../img/bioinf/dinamica2.jpg",
+        "img2": "../img/bioinf/dinamica2.gif",
         "img3": "../img/bioinf/dinamica3.png",
         "img4": "../img/bioinf/dinamica4.jpg"
     }
